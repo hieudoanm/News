@@ -105,5 +105,5 @@ ${content}
 
 ${mdBody}
 `;
-  await fs.writeFileSync("./README.md", markdown);
+  await fs.writeFileSync("./WORLD.md", markdown);
 };

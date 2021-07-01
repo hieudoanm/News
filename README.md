@@ -1,215 +1,128 @@
 # News
 
-## Covid News: Live Global Updates - The New York Times
+## 3 Lời khuyên để bạn hành động mà không trì hoãn
 
-Apoorva Mandavilli - New York Times
+Vietcetera
 
-```
-LiveUpdated June 28, 2021, 5:59 a.m. ET
-June 28, 2021, 5:59 a.m. ET
-The Pfizer and Moderna shots effects could last for years, a detailed look at immune responses suggests. Some lawmakers are urgin… [+8885 chars]
-```
-
-[See More](https://www.nytimes.com/live/2021/06/28/world/covid-vaccine-coronavirus-mask)
-
-## He wanted to head home to Champlain Towers. His girlfriend wanted him to stay. She may have saved his life. - The Washington Post
-
-Jaclyn Peiser - The Washington Post
-
-```
-Oh my God youre alive, Rochelle said to De Moura, 40, when she answered his call.
-What do you mean Im alive? he responded in a sleepy haze.
-The building collapsed, she said.
-Then came the sinking … [+4197 chars]
+```html
+<p>
+  Sau khi thay đổi góc nhìn về động lực, hãy áp dụng 3 lời khuyên này để hành
+  động mà không trì hoãn.
+</p>
 ```
 
-[See More](https://www.washingtonpost.com/nation/2021/06/28/erick-de-moura-condo-collapse-florida/)
+[See More](https://vietcetera.com/vn/3-loi-khuyen-de-ban-hanh-dong-ma-khong-tri-hoan)
 
-## Binance, the world's largest cryptocurrency exchange, gets banned by UK regulator - CNBC
+## Từ Ý đến Việt Nam: Tái tạo đô thị quan trọng như thế nào?
 
-Ryan Browne - CNBC
+Vietcetera
 
-```
-LONDON Cryptocurrency exchange Binance has been banned from operating in the U.K. by the country's markets regulator, in the latest sign of a growing crackdown on the crypto market around the world.… [+3495 chars]
-```
-
-[See More](https://www.cnbc.com/2021/06/28/cryptocurrency-exchange-binance-banned-by-uk-regulator.html)
-
-## Biden’s airstrikes seen as message to Iran while administration tries to revive nuke deal - Fox News
-
-Edmund DeMarche - Fox News
-
-```
-President Bidens decision to order airstrikes targeting facilities near the Iraq-Syria border that have been used by Iran-backed militia groups was a clear warning to Tehran while the administration … [+4028 chars]
+```html
+<p>
+  Sự thành công của Ý trong việc tái tạo đô thị, tạo ra các không gian bền vững
+  đã được nhân rộng tại các quốc gia đang phát triển, trong đó có Việt Nam.
+</p>
 ```
 
-[See More](https://www.foxnews.com/politics/bidens-airstrikes-seen-as-message-to-iran-while-administration-tries-to-revive-nuke-deal)
+[See More](https://vietcetera.com/vn/tu-y-den-viet-nam-tai-tao-do-thi-quan-trong-nhu-the-nao)
 
-## DeSantis’ big goal: Don’t enrage Trump - POLITICO
+## “Khó nhất là thuyết phục một tổ chức - đang vận hành tốt, tăng trưởng đều - chịu chuyển đổi!”
 
-Matt Dixon - Politico
+Vietcetera
 
-```
-It makes it difficult to openly start campaigning as [Trump] at least contemplates running again, said Saul Anuzis, former chair of the Republican Party of Michigan, cautioning its still early in the… [+5986 chars]
-```
-
-[See More](https://www.politico.com/news/2021/06/28/desantis-trump-gop-election-496367)
-
-## Cardi B reveals pregnancy at BET Awards - BBC News
-
-https://www.facebook.com/bbcnews - BBC News
-
-```
-By Mark SavageBBC music reporter
-image copyrightGetty Images
-image captionThe star already has one daughter, Kulture, with her partner Offset
-Cardi B pulled a Beyoncé at Sunday's BET Awards - usin… [+4881 chars]
+```html
+<p>
+  Chúng tôi hỏi anh Hoàng Hải, Phó Giám Đốc, Chiến Lược & Chuyển Đổi tại AIA
+  Việt Nam về sự chuyển đổi đã, đang và sẽ diễn ra tại tổ chức này. 
+</p>
 ```
 
-[See More](https://www.bbc.com/news/entertainment-arts-57635316)
+[See More](https://vietcetera.com/vn/kho-nhat-la-thuyet-phuc-mot-to-chuc-dang-van-hanh-tot-tang-truong-deu-chiu-chuyen-doi)
 
-## Walmart Removes Kanye Yeezy Knockoffs, Tons More Remain on Web - TMZ
+## Chống chán khi việc chóng chán
 
-TMZ Staff - TMZ
+Vietcetera
 
-```
-Kanye West's legal team has a lot more work to do if they want to rid the online market of imitation Yeezys -- while Walmart halted sales on its site, hundreds more still exist on others.
-West's Yee… [+1057 chars]
-```
-
-[See More](https://www.tmz.com/2021/06/28/walmart-kanye-yeezy-foam-rnnr-fake-online-lawsuit/)
-
-## North Koreans 'heartbroken' by Kim's purported weight loss, Pyongyang resident tells state media - CNN 
-
-Yoonjung Seo and Joshua Berlinger, CNN - CNN
-
-```
-Seoul, South Korea (CNN)North Korean state television aired an unusual interview Friday in which a Pyongyang resident said he and others living in the capital were "heartbroken" to see how much weigh… [+4055 chars]
+```html
+<p>
+  Chán đúng cách, bạn có thể trở nên bứt phá hơn trong công việc. Ngược lại nếu
+  chán sai cách, bạn chỉ nhận được sự bức bối và tuyệt vọng.
+</p>
 ```
 
-[See More](https://www.cnn.com/2021/06/28/asia/kim-jong-un-weight-interview-intl-hnk/index.html)
+[See More](https://vietcetera.com/vn/chong-chan-khi-viec-chong-chan)
 
-## Behind China’s Takeover of Hong Kong - The New York Times
+## 5s Giải Nghĩa: CSR là gì mà quan trọng với các doanh nghiệp ngày nay?
 
-Chris Buckley, Vivian Wang, Austin Ramzy - New York Times
+Vietcetera
 
-```
-I had never imagined that you could use this approach, Tam Yiu-Chung, the sole Hong Kong member of the top committee of Chinas legislature, said in a recent interview. Id heard about it, but there we… [+1236 chars]
-```
-
-[See More](https://www.nytimes.com/2021/06/28/world/asia/china-hong-kong-security-law.html)
-
-## NBA playoffs 2021 - Khris Middleton and the Milwaukee Bucks have a dimension the Atlanta Hawks can't reach - ESPN
-
-Royce Young - ESPN
-
-```
-The first 3-pointer came from basically nothing: a simple flare on the right wing, where Milwaukee Bucks' forward Khris Middleton caught the ball in isolation, jab stepped a couple of times, held the… [+6594 chars]
+```html
+<p>
+  CSR được xem là điều kiện bắt buộc trong chiến lược vận hành và phát triển của
+  doanh nghiệp.
+</p>
 ```
 
-[See More](https://www.espn.com/nba/story/_/id/31722484/nba-playoffs-2021-khris-middleton-milwaukee-bucks-dimension-atlanta-hawks-reach)
+[See More](https://vietcetera.com/vn/5s-giai-nghia-csr-la-gi-ma-quan-trong-voi-cac-doanh-nghiep-ngay-nay)
 
-## What China's extensive coverage of the Miami condo collapse says about its own priorities - CNN 
+## "Học MBA thời điểm chín muồi nhất là khi cảm được những vấn đề quản trị." - CEO PNJ Lê Trí Thông
 
-Nectar Gan, CNN - CNN
+Vietcetera
 
-```
-Hong KongEditor's note: CNN has launched the Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the country's rise and how it impacts the world. Sign up … [+5682 chars]
-```
-
-[See More](https://www.cnn.com/2021/06/28/china/china-school-fire-mic-intl-hnk/index.html)
-
-## European markets mixed as Covid cases weigh on global sentiment; Burberry down 7% on CEO exit - CNBC
-
-Elliot Smith - CNBC
-
-```
-LONDON European stocks were muted on Monday morning, reflecting mixed sentiment in Asia-Pacific markets overnight as investors monitored rising Covid-19 around the globe.The pan-European Stoxx 600 ho… [+3028 chars]
+```html
+<p>
+  "Giữa 2 dòng chữ đen trong sách có còn dòng trắng – đó mới là nơi kết tinh
+  kiến thức của riêng mình."
+</p>
 ```
 
-[See More](https://www.cnbc.com/2021/06/28/european-markets-stocks-trading-data-earnings-fed-.html)
+[See More](https://vietcetera.com/vn/hoc-mba-thoi-diem-chin-muoi-nhat-la-khi-cam-duoc-nhung-van-de-quan-tri-ceo-pnj-le-tri-thong)
 
-## Simone Biles secures spot on United States Gymnastics team for next month's Tokyo Olympics - CNN International
+## Thay đổi góc nhìn về động lực để hành động mà không trì hoãn
 
-Madeline Holcombe and Jacob Lev, CNN - CNN
+Vietcetera
 
-```
-null
-```
-
-[See More](https://edition.cnn.com/2021/06/28/sport/simon-biles-us-gymnastics-team/index.html)
-
-## Lenovo Smart Clock 2 adds an optional wireless charging dock that’s ‘MagSafe-compatible’ - 9to5Google
-
-null - 9to5google.com
-
-```
-The smallest-ever Assistant Smart Display was announced by Lenovo in 2019, and it’s now getting a successor with the Smart Clock 2 that adds an optional wireless charging dock. 
-The Lenovo Smart Clo… [+1668 chars]
+```html
+<p>
+  Mark Manson cho rằng nếu bạn gặp khó khăn để duy trì động lực, vậy hãy sắp xếp
+  lại cách chúng đã hoạt động.
+</p>
 ```
 
-[See More](https://9to5google.com/2021/06/27/lenovo-smart-clock-2/)
+[See More](https://vietcetera.com/vn/thay-doi-goc-nhin-ve-dong-luc-de-hanh-dong-ma-khong-tri-hoan)
 
-## Australia battles several clusters in new pandemic phase - The Associated Press
+## "Lúc phải ngồi sửa từng cái lỗi của app Vietcetera, anh đã nghĩ gì?"
 
-Rod Mcguirk - Associated Press
+Vietcetera
 
-```
-CANBERRA, Australia (AP) Australia was battling to contain several COVID-19 clusters around the country on Monday in what some experts have described as the nations most dangerous stage of the pandem… [+3571 chars]
-```
-
-[See More](https://apnews.com/article/australia-coronavirus-pandemic-pandemics-health-da2d5c336da6ff7ac32f7a46fac603fa)
-
-## Lenovo announces $679 13-inch Android tablet that works as a portable monitor - The Verge
-
-Monica Chin - The Verge
-
-```
-The Yoga Tab 13 doubles as a wall hanger
-Image: Lenovo
-Lenovo has announced the new $679 Yoga Tab 13, a global version of the Yoga Pad Pro that launched in China earlier this year. The tablet can f… [+1413 chars]
+```html
+"Anh nhớ lại những ngày đầu mới vô nghề."
 ```
 
-[See More](https://www.theverge.com/2021/6/28/22550590/lenovo-yoga-tab-13-stainless-steel-kickstand-android-tablet)
+[See More](https://vietcetera.com/vn/luc-phai-ngoi-sua-tung-cai-loi-cua-app-vietcetera-anh-da-nghi-gi)
 
-## UK health minister resigns after breaching coronavirus rules; Massachusetts releases vaccine lotto details: Latest COVID-19 updates - USA TODAY
+## Chuyển đổi số ngành bảo hiểm: Có thể cạnh tranh với những cái tên lớn trong ngành công nghệ?
 
-Edward Segarra - USA Today
+Vietcetera
 
-```
-Proof of vaccination requirements could be the key to allowing hard-hit businesses across the U.S. to fully reopen. However, many businesses have been reluctant to demand proof of vaccination from cu… [+7480 chars]
-```
-
-[See More](https://www.usatoday.com/story/news/nation/2021/06/27/covid-pandemic-vaccines-cases-united-states/5356760001/)
-
-## Swedish study reveals how long immunity lasts after mild COVID - News-Medical.Net
-
-null - News-Medical.Net
-
-```
-As a result of the ongoing pandemic of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and its associated disease, the coronavirus disease 2019 (COVID-19), the global public health a… [+4078 chars]
+```html
+<p>
+  Đầu tàu IT Bill Nguyễn trao đổi về chuyển đổi số tại AIA Việt Nam và thử thách
+  của quá trình chuyển đổi số ngành công nghiệp bảo hiểm nhân thọ.
+</p>
 ```
 
-[See More](https://www.news-medical.net/news/20210627/Swedish-study-reveals-how-long-immunity-lasts-after-mild-COVID.aspx)
+[See More](https://vietcetera.com/vn/chuyen-doi-so-nganh-bao-hiem-co-the-canh-tranh-voi-nhung-cai-ten-lon-trong-nganh-cong-nghe)
 
-## United Airlines Takes Delivery Of First Boeing 737 MAX 8 - Simple Flying
+## Ngân hàng số Übank: Thúc đẩy cuộc cách mạng kỹ thuật số của ngành dịch vụ ngân hàng - Recap “Vietnam Innovators” tập 31
 
- - Simple Flying
+Vietcetera
 
-```
-United Airlines is just weeks away from its first Boeing 737 MAX 8 flights, and delivery of the first plane occurred on the weekend. United has MAX 8 flights scheduled in its timetables from mid-July… [+3847 chars]
-```
-
-[See More](https://simpleflying.com/united-737-max-8-delivery/)
-
-## Red Sox revel in owning the Yankees - New York Post 
-
-Peter Botte - New York Post
-
-```
-A second three-game sweep of the Yankees this month has the Red Sox back in first place in the AL East.
-Boston manager Alex Cora called his teams weekend trouncing of the Yanks all around probably t… [+3204 chars]
+```html
+<p>
+  Gunneet Singh Bally, Head of Products & Customer Engagement tại Übank, chia sẻ
+  về những lợi ích mà ngân hàng số mang đến cho người Việt.
+</p>
 ```
 
-[See More](https://nypost.com/2021/06/27/red-sox-revel-in-owning-the-yankees/)
-
+[See More](https://vietcetera.com/vn/ngan-hang-so-bank-thuc-day-cuoc-cach-mang-ky-thuat-so-cua-nganh-dich-vu-ngan-hang-recap-vietnam-innovators-tap-31)
