@@ -189,9 +189,9 @@ ${filteredForecast
 
 <td>
 
-${temp}°C - ${feelsLike}°C
-${main}
-${description}
+<div>${temp}°C - ${feelsLike}°C</div>
+<div>${main}</div>
+<div>${description.toUpperCase()}</div>
 
 </td>
 
@@ -202,7 +202,7 @@ ${filteredForecast
     return `<td>
 <div>${temp}°C - ${feelsLike}°C</div>
 <div>${main}</div>
-<div>${description}</div>
+<div>${description.toUpperCase()}</div>
 </td>`;
   })
   .join("\n")}

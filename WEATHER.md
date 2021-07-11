@@ -47,41 +47,41 @@ Air Visual: 66
 
 <td>
 
-33°C - 40°C
-Clouds
-overcast clouds
+<div>33°C - 40°C</div>
+<div>Clouds</div>
+<div>OVERCAST CLOUDS</div>
 
 </td>
 
 <td>
 <div>33°C - 40°C</div>
 <div>Clouds</div>
-<div>overcast clouds</div>
+<div>OVERCAST CLOUDS</div>
 </td>
 <td>
 <div>26°C - 26°C</div>
 <div>Clouds</div>
-<div>overcast clouds</div>
+<div>OVERCAST CLOUDS</div>
 </td>
 <td>
 <div>34°C - 40°C</div>
 <div>Clouds</div>
-<div>broken clouds</div>
+<div>BROKEN CLOUDS</div>
 </td>
 <td>
 <div>28°C - 32°C</div>
 <div>Clouds</div>
-<div>broken clouds</div>
+<div>BROKEN CLOUDS</div>
 </td>
 <td>
 <div>28°C - 33°C</div>
 <div>Rain</div>
-<div>light rain</div>
+<div>LIGHT RAIN</div>
 </td>
 <td>
 <div>33°C - 40°C</div>
 <div>Clouds</div>
-<div>overcast clouds</div>
+<div>OVERCAST CLOUDS</div>
 </td>
 
 </tr>
