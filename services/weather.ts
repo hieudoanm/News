@@ -185,19 +185,17 @@ ${filteredForecast
 
 <tr>
 
-<td>
-
+<td width="14.2%">
 <div>${temp}°C - ${feelsLike}°C</div>
 <div>${main}</div>
 <div>${description.toUpperCase()}</div>
-
 </td>
 
 ${filteredForecast
   .map((info: Info) => {
     const { temp, feelsLike, main, description } = info;
 
-    return `<td>
+    return `<td width="14.2%">
 <div>${temp}°C - ${feelsLike}°C</div>
 <div>${main}</div>
 <div>${description.toUpperCase()}</div>
