@@ -2,7 +2,7 @@
 
 ## Hanoi
 
-Air Visual: 50
+Air Visual: 44
 
 <table>
 
@@ -72,7 +72,7 @@ Air Visual: 50
 
 ## Ho Chi Minh City
 
-Air Visual: 37
+Air Visual: 39
 
 <table>
 
