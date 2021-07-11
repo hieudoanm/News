@@ -28,7 +28,7 @@
   - [MALAYSIA](#malaysia)
   - [MEXICO](#mexico)
   - [NETHERLANDS](#netherlands)
-  - [NEW ZEALAND](#new zealand)
+  - [NEW ZEALAND](#new-zealand)
   - [NIGERIA](#nigeria)
   - [NORWAY](#norway)
   - [PHILIPPINES](#philippines)

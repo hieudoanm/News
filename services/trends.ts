@@ -11,7 +11,7 @@ export const saveTrends = async (): Promise<void> => {
 ${countries
   .map((country: string) => {
     const title = country.replace(/_/g, " ").toUpperCase();
-    const reference = country.replace(/_/g, "-");
+    const reference = country.replace(/_| /g, "-");
     return `  - [${title}](#${reference})`;
   })
   .join("\n")}
