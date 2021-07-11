@@ -1,217 +1,215 @@
 # News
 
-## Chinese Communist Party 100th Anniversary: Live Updates - The New York Times
+## Virgin Galactic's Richard Branson flying own rocket to space - Associated Press
 
-Chris Buckley - New York Times
-
-```
-LiveUpdated June 30, 2021, 8:51 p.m. ET
-June 30, 2021, 8:51 p.m. ET
-Heres what you need to know:
-Chinas leader, Xi Jinping, struck a confident posture on Thursday as he hailed the Communist Partys… [+18579 chars]
-```
-
-[See More](https://www.nytimes.com/live/2021/06/30/world/china-communist-party-anniversary)
-
-## UNC board approves tenure for journalist Nikole Hannah-Jones after uproar over inaction on job protection - The Washington Post
-
-Nick Anderson, Susan Svrluga - The Washington Post
+Susan Montoya Bryan - Associated Press
 
 ```
-Not only do we support academic freedom, but we believe that a university that our university is the very place that the most important issues of our time should be debated, R. Gene Davis Jr., vice c… [+8089 chars]
+TRUTH OR CONSEQUENCES, N.M. (AP) After a lifetime of yearning to fly in space, Virgin Galactics Richard Branson was poised to blast off aboard his own rocket ship Sunday in his boldest, grandest adve… [+1838 chars]
 ```
 
-[See More](https://www.washingtonpost.com/education/2021/06/30/hannah-jones-unc-tenure-vote/)
+[See More](https://apnews.com/article/business-technology-science-spacex-richard-branson-37fd721264b1421f8a1223ee5e5626e3)
 
-## Trump Organization and its CFO indicted by Manhattan grand jury, report says - CNBC
+## Colombian ex-soldier's sister responds to Haiti murder plot allegations - CNN 
 
-Annika Kim Constantino - CNBC
-
-```
-The Trump Organization and Allen Weisselberg, its longtime finance chief, were indicted Wednesday by a grand jury in Manhattan, The Washington Post reported.
-The indictments against the organization… [+2474 chars]
-```
-
-[See More](https://www.cnbc.com/2021/06/30/trump-organization-and-its-cfo-indicted-by-manhattan-grand-jury-report-says.html)
-
-## Bill Cosby ruling could have chilling effect on survivors, sexual assault victim advocates say - Fox News
-
-Paul Best - Fox News
+Stefano Pozzebon, CNN - CNN
 
 ```
-Bill Cosby's release from prison could have a chilling effect on survivors coming forward after Pennsylvania's highest court threw out the famed comic's conviction on Wednesday, advocates for sexual … [+2614 chars]
+Bogota, Colombia (CNN)Jenny Capador still cannot believe she will never see her brother again -- and she certainly does not believe that he is an assassin, as officials in two countries have now alle… [+4499 chars]
 ```
 
-[See More](https://www.foxnews.com/entertainment/bill-cosby-ruling-chilling-effect-survivors-sexual-assault-victim-advocates-say)
+[See More](https://www.cnn.com/2021/07/11/americas/colombian-capador-haiti-cmd-intl-latam/index.html)
 
-## Britney Spears' father asks court to investigate claims made at conservatorship hearing - CNN 
+## Argentina beat Brazil 1-0 to win Copa America - CNN International
 
-Chloe Melas, CNN - CNN
-
-```
-(CNN)Britney Spears' father, Jamie Spears, is asking the court to investigate her claims.
-"Either the allegations will be shown to be true, in which case corrective action must be taken," a petition… [+2268 chars]
-```
-
-[See More](https://www.cnn.com/2021/06/30/entertainment/britney-spears-dad-investigation-conservatorship/index.html)
-
-## Video shows water, debris in Champlain Towers South garage minutes before building collapse - WPLG Local 10
-
-Glenna Milberg - WPLG Local 10
+Story by Reuters - CNN
 
 ```
-SURFSIDE, Fla. Nearly a week since the horrible collapse of the Champlain Towers South, a new video has emerged showing the building moments before it went down.
-In the video, the camera is pointed … [+817 chars]
+(CNN) Argentina won their first major title in 28 years on Saturday and Lionel Messi finally won his first medal in a blue-and-white shirt when an Angel Di Maria goal gave them a 1-0 win over Brazil … [+2911 chars]
 ```
 
-[See More](https://www.local10.com/news/local/2021/06/30/video-shows-water-debris-in-champlain-towers-south-garage-minutes-before-building-collapse/)
+[See More](https://edition.cnn.com/2021/07/11/football/copa-america-intl-spt/index.html)
 
-## CNN's Acosta receives GOP pushback over claim he was blocked at last second from Trump border briefing - Fox News
+## Bill Cosby's Potential Stand-Up Tour Rejected by NYC's Comedy Cellar - TMZ
 
-David Rutz - Fox News
-
-```
-CNN reporter Jim Acosta claimed Texas Gov. Greg Abbott, R., was blocking him by turning his border roundtable Wednesday with former President Donald Trump into a pool coverage event at the last secon… [+3096 chars]
-```
-
-[See More](https://www.foxnews.com/media/cnns-acosta-receives-gop-pushback-over-claim-he-was-blocked-at-last-second-from-trump-border-briefing)
-
-## Donald Rumsfeld, former defense secretary and Iraq war architect, dies at 88 - NBC News
-
-Dartunorro Clark - NBC News
+TMZ Staff - TMZ
 
 ```
-Donald Rumsfeld, who served twice as defense secretary under two presidents and oversaw the wars in Afghanistan and Iraq after 9/11, has died. He was 88.
-His family confirmed his death in a statemen… [+3658 chars]
+Bill Cosby now knows there's at least one place his return to stand-up comedy won't take him -- one of New York City's most popular venues for comics is telling him, HELL NO.
+TMZ broke the story ...… [+1114 chars]
 ```
 
-[See More](https://www.nbcnews.com/politics/politics-news/donald-rumsfeld-former-defense-secretary-iraq-war-architect-dies-88-n1272816)
+[See More](https://www.tmz.com/2021/07/11/bill-cosby-standup-tour-rejected-comedy-cellar-new-york-city/)
 
-## Stock futures are flat as S&P 500 sits at record, Wall Street set to kick off second half of 2021 - CNBC
+## Dustin Poirier beats Conor McGregor for the second time in six months at UFC 264 - NBC News
 
-Maggie Fitzgerald - CNBC
-
-```
-U.S. stock futures were steady in overnight trading on Wednesday as investors gear up for the second half of 2021.
-Dow futures rose about 50 points. S&amp;P 500 futures gained 0.15% and Nasdaq 100 f… [+2816 chars]
-```
-
-[See More](https://www.cnbc.com/2021/06/30/stock-futures-are-flat-as-sp-500-sits-at-record-wall-street-gets-set-to-kick-off-second-half-of-2021.html)
-
-## James Franco Agrees To Settle Class-Action Sexual Misconduct Suit For $2.2 Million - NPR
-
- - NPR
+The Associated Press - NBC News
 
 ```
-James Franco in New York in 2017.
-Dimitrios Kambouris/Getty Images for IFP
-Actor James Franco and two other men have agreed to settle a class-action lawsuit led by Sarah Tither-Kaplan and Toni Gaal… [+2103 chars]
+LAS VEGAS Conor McGregor sat and seethed with his back on the cage, a temporary cast around his left shin and foot. The biggest star in mixed martial arts was convinced he had just been robbed of rev… [+3192 chars]
 ```
 
-[See More](https://www.npr.org/2021/06/30/1011914312/james-franco-agrees-to-settle-class-action-sexual-misconduct-suit-for-2-2-millio)
+[See More](https://www.nbcnews.com/news/sports/dustin-poirier-beats-conor-mcgregor-second-time-six-months-ufc-n1273638)
 
-## Houston Doctor Fired for Scrambling to Use Expiring Vaccines Will Not Be Indicted - The New York Times
+## Covid Now Infecting Mostly Younger People In Los Angeles; 83% Of New Cases Under 50 Years Old - Deadline
 
-Dan Barry - New York Times
-
-```
-Dr. Gokal expressed relief in a telephone call Wednesday afternoon. For the first time in six months Im going to be able to go to bed tonight and not wake up in the middle thinking about this, he sai… [+1490 chars]
-```
-
-[See More](https://www.nytimes.com/2021/06/30/us/houston-doctor-indictment-declined.html)
-
-## Watch thousands of fire ants form living 'conveyor belts' to escape floods (Video) - Livescience.com
-
-Mindy Weisberger - Live Science
+Tom Tapp - Deadline
 
 ```
-It takes a lot of teamwork to survive floods, and fire ants cooperate in the tens of thousands to build rafts of their bodies to float until the water subsides. Now, a time-lapse video shows how thes… [+3492 chars]
+Los Angeles County’s alarming spike in Covid cases continued on Saturday, with a second-consecutive 1,000-plus tally of daily infections. The county reported 1,094 new cases of and eight additional d… [+3791 chars]
 ```
 
-[See More](https://www.livescience.com/fire-ants-bridges-from-raft.html)
+[See More](https://deadline.com/2021/07/los-angeles-covid-targeting-oung-people-1234790306/)
 
-## Giannis Antetokounmpo doubtful for Game 5, reportedly has “no structural damage” to knee - NBC Sports
+## Back in Cannes, Sean Penn directs again, with daughter Dylan - Associated Press
 
-Kurt Helin - NBCSports.com
-
-```
-This is both excellent news and a little vague.
-An MRI confirmed Giannis Antetokounmpo did suffer a hyperextended left knee during Game 4, the Bucks announced. The team has listed Antetokounmpo as d… [+2176 chars]
-```
-
-[See More](https://nba.nbcsports.com/2021/06/30/report-giannis-antetokounmpo-has-no-structural-damage-to-left-knee-doubtful-for-game-5/)
-
-## Prevention and Attenuation of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines | NEJM - nejm.org
-
-null - nejm.org
+Jake Coyle - Associated Press
 
 ```
-Study Population
-The HEROES-RECOVER network includes prospective cohorts from two studies: HEROES (the Arizona Healthcare, Emergency Response, and Other Essential Workers Surveillance Study) and REC… [+7553 chars]
+CANNES, France (AP) Sean Penn has been to the Cannes Film Festival about a dozen times from bumming around with Robert De Niro in 1984 to presiding over the jury.
+But his last visit was rocky. Penns… [+5704 chars]
 ```
 
-[See More](https://www.nejm.org/doi/full/10.1056/NEJMoa2107058)
+[See More](https://apnews.com/article/lifestyle-entertainment-arts-and-entertainment-sean-penn-2e06b67ab6cfcd9d988a3a4cf2fcf5fe)
 
-## After Losing China, Uber’s Stake in DiDi Reaps $8 Billion in IPO - Yahoo Finance
+## 4 arrested at Maven Hotel, police feared a “Las Vegas style shooting” during All-Star Game in Denver - The Denver Post
 
-Jackie Davalos - Yahoo Entertainment
-
-```
-(Bloomberg) -- Five years ago, Uber Technologies Inc. bowed out of the worlds second-largest economy by selling its China business to rival DiDi Global Inc. in exchange for a stake in the company. No… [+1488 chars]
-```
-
-[See More](https://finance.yahoo.com/news/losing-china-uber-stake-didi-205908417.html)
-
-## Another Indigenous Group in Canada Finds Unmarked Graves Near a Former School - The Wall Street Journal
-
-Kim Mackrael, Paul Vieira - The Wall Street Journal
+Denver7 - The Denver Post
 
 ```
-OTTAWAA third indigenous community in Canada says it has discovered unmarked graves near the site of a former Catholic-run residential school for indigenous children, bringing the total number made p… [+1145 chars]
+DENVER Police feared a Las Vegas style shooting during the All-Star Game in Denver after receiving a tip from a maid working at a hotel not far from Coors Field, who discovered more than a dozen weap… [+1068 chars]
 ```
 
-[See More](https://www.wsj.com/articles/another-indigenous-group-in-canada-finds-unmarked-graves-near-a-former-school-11625086735)
+[See More](https://www.denverpost.com/2021/07/10/maven-hotel-four-arrested-all-star-game-denver/)
 
-## Google sunsets the APK format for new Android apps - Android Authority
+## Falcons release Barkevious Mingo after linebacker arrested in child sex offense case - CBS Sports
 
-null - Android Authority
-
-```
-<ul><li>Starting in August 2021, Google will require all new Android APKs to land on the Play Store as App Bundles instead.</li><li>This will invariably result in smaller file sizes and other boons f… [+2612 chars]
-```
-
-[See More](https://www.androidauthority.com/android-apks-sunset-1636829/)
-
-## Deaths Spike in British Columbia Amid Western Canada Heat Wave - The New York Times
-
-Vjosa Isai, Dan Bilefsky - New York Times
+ - CBS Sports
 
 ```
-Such is the heat that some Vancouverites have fried eggs on their terraces. Others have traded in their sweltering homes for air-conditioned hotels or moved their home offices to shady places in thei… [+2970 chars]
+The Atlanta Falcons have released Barkevious Mingo after the linebacker was arrested in a child sex offense case. The Arlington Police Department told TMZ Sports that Mingo was arrested on Thursday, … [+995 chars]
 ```
 
-[See More](https://www.nytimes.com/2021/06/30/world/canada/bc-canada-heat-wave.html)
+[See More](https://www.cbssports.com/nfl/news/falcons-release-barkevious-mingo-after-linebacker-arrested-in-child-sex-offense-case/)
 
-## CDC speaks out on vaccinated people wearing masks: The disagreement with WHO explained - CNET
+## Mom who was abducted with son in Amber Alert case found dead, reports say - NJ.com
 
-Katie Teague - CNET
-
-```
-Even fully vaccinated people should wear masks, according to the WHO.
-Sarah Tew/CNET
-For the most up-to-date news and information about the coronavirus pandemic, visit the WHO and CDC websites.
-Ce… [+4426 chars]
-```
-
-[See More](https://www.cnet.com/health/cdc-speaks-out-on-vaccinated-people-wearing-masks-the-disagreement-with-who-explained/)
-
-## These Photos Show How People Are Handling The Dangerous Heat Wave In The Pacific Northwest - BuzzFeed News
-
-Pia Peterson - BuzzFeed News
+Riley Yates | NJ Advance Media for NJ.com, S.P. Sullivan | NJ Advance Media for NJ.com - nj.com
 
 ```
-null
+Yasemin Uyar, the New Jersey woman who police said was abducted along with her 2-year-old son by the boys father, was found dead in Tennessee, her mother told CBS New York late Saturday evening.
+Uya… [+2226 chars]
 ```
 
-[See More](https://www.buzzfeednews.com/article/piapeterson/photos-pnw-heat-wave-people)
+[See More](https://www.nj.com/news/2021/07/mom-who-was-abducted-with-son-in-amber-alert-case-found-dead-report-says.html)
+
+## Ethiopia's Abiy Ahmed Poised For 2nd Term After Party Wins Elections - NPR
+
+null - NPR
+
+```
+Ethiopia's Prime Minister Abiy Ahmed, pictured in June, was assured a second term after his Prosperity Party was declared the winner of last month's national election.
+Mulugeta Ayene/AP
+ADDIS ABABA… [+3378 chars]
+```
+
+[See More](https://www.npr.org/2021/07/10/1015019374/ethiopias-ruling-party-wins-national-election-in-landslide)
+
+## Haiti's wounded first lady rips ‘gutless’ killers - New York Post 
+
+Eileen AJ Connelly - New York Post
+
+```
+The hospitalized wife of Haitis assassinated President Jovenel Moïse Saturday accused her husbands enemies of wanting to kill his dream, his vision, his ideology. 
+Im alive, thanks to God, Martine M… [+2748 chars]
+```
+
+[See More](https://nypost.com/2021/07/10/haitis-wounded-first-lady-rips-gutless-killers/)
+
+## Zachary Levi Steps Out With Rumored Girlfriend at 2021 ESPYS - E! NEWS
+
+Mike Vulpo - Eonline.com
+
+```
+Sorry ladies, but Zachary Levi may be taken this summer.
+When arriving at the 2021 ESPYS on Saturday, July 10, the actor didn't walk the red carpet solo. Instead, Zachary was able to pose with rumor… [+818 chars]
+```
+
+[See More](https://www.eonline.com/news/1287575/zachary-levi-steps-out-with-rumored-girlfriend-at-2021-espys)
+
+## Solskjaer gives verdict on Manchester United players at Euro 2020 ahead of England v Italy final - Manchester Evening News
+
+Alice McKeegan - Manchester Evening News
+
+```
+Manchester United manager Ole Gunnar Solskjaer has praised the performances of his players at the European Championship.
+Three United stars, Luke Shaw, Harry Maguire and Marcus Rashford, are part of… [+1115 chars]
+```
+
+[See More](https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-solskjaer-euro-2020-21020228)
+
+## Death Valley Posts 130-Degree Heat, Potentially Matching A Record High - NPR
+
+Dave Mistich - NPR
+
+```
+A person walks on a boardwalk at the salt flats at Badwater Basin on Aug. 17, 2020, in Death Valley National Park in California. Temperatures reached 130 degrees there on Friday.
+John Locher/AP
+The… [+1767 chars]
+```
+
+[See More](https://www.npr.org/2021/07/10/1014941439/death-valley-posts-130-degree-heat-potentially-matching-a-record-high)
+
+## Team USA stunned by Nigeria in rare exhibition basketball loss ahead of Tokyo Olympics - ESPN India
+
+Brian Windhorst - ESPN India
+
+```
+LAS VEGAS -- Team USA suffered a stunning and sobering defeat in its first exhibition game before the Olympics, getting outplayed by Nigeria in a 90-87 loss Saturday night.
+Coming into the game the … [+3021 chars]
+```
+
+[See More](https://www.espn.in/olympics/story/_/id/31797509/team-usa-stunned-nigeria-rare-exhibition-loss-ahead-tokyo-olympics)
+
+## Pfizer to brief US health officials on coronavirus booster shot: report | TheHill - The Hill
+
+Celine Castronuovo - The Hill
+
+```
+Pfizer is expected to brief U.S. health officials on the need for a COVID-19 booster shot in the upcoming days, several sources told The Washington Post. 
+News of the reported briefing comes after g… [+3864 chars]
+```
+
+[See More](https://thehill.com/policy/healthcare/562421-pfizer-to-brief-us-health-officials-on-booster-shot-report)
+
+## 'Extreme fire behavior': 2 firefighters killed as Western wildfires intensify during heat wave - NBC News
+
+Alicia Victoria Lozano, The Associated Press - NBC News
+
+```
+LOS ANGELES Two firefighters were killed Saturday in Arizona as wildfires raged through the West, threatening California's overburdened power grid during an oppressive heat wave and ongoing drought.… [+5811 chars]
+```
+
+[See More](https://www.nbcnews.com/news/us-news/serious-situation-western-heat-wave-wildfires-threaten-california-power-grid-n1273635)
+
+## WhatsApp Is Working on Offering Disappearing Photo and Video Messages on iOS and Android - Gizmodo
+
+Jody Serrano - Gizmodo.com
+
+```
+WhatsApp apparently wants to give users a bit more control over the photos and videos they share on the messaging app. The company recently unveiled a new feature to iOS and Android beta testers that… [+2300 chars]
+```
+
+[See More](https://gizmodo.com/whatsapp-is-working-on-offering-disappearing-photo-and-1847267630)
+
+## Trump renews attack on Michigan Senate ahead of sanction hearing - The Detroit News
+
+Craig Mauger, The Detroit News - The Detroit News
+
+```
+Lansing — Former President Donald Trump on Saturday attacked the Michigan Senate and repeated unproven claims about fraud in Detroit's November 2020 election, two days ahead of a key court hearing.
+… [+3344 chars]
+```
+
+[See More](https://www.detroitnews.com/story/news/politics/2021/07/10/trump-renews-attack-michigan-senate-ahead-sanction-hearing/7928556002/)
 

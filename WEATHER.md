@@ -2,7 +2,7 @@
 
 ## Hanoi
 
-Air Visual: 74
+Air Visual: 56
 
 <table>
 
@@ -14,27 +14,27 @@ Air Visual: 74
 
 <th>
 <div>2021-07-11</div>
-<div>12:00</div>
-</th>
-<th>
-<div>2021-07-11</div>
-<div>21:00</div>
-</th>
-<th>
-<div>2021-07-12</div>
-<div>06:00</div>
-</th>
-<th>
-<div>2021-07-12</div>
 <div>15:00</div>
 </th>
 <th>
-<div>2021-07-13</div>
+<div>2021-07-12</div>
 <div>00:00</div>
 </th>
 <th>
-<div>2021-07-13</div>
+<div>2021-07-12</div>
 <div>09:00</div>
+</th>
+<th>
+<div>2021-07-12</div>
+<div>18:00</div>
+</th>
+<th>
+<div>2021-07-13</div>
+<div>03:00</div>
+</th>
+<th>
+<div>2021-07-13</div>
+<div>12:00</div>
 </th>
 
 </tr>
@@ -46,23 +46,13 @@ Air Visual: 74
 <tr>
 
 <td width="14.2%">
-<div>33°C - 40°C</div>
+<div>32°C - 39°C</div>
 <div>Clouds</div>
 <div>OVERCAST CLOUDS</div>
 </td>
 
 <td width="14.2%">
-<div>33°C - 40°C</div>
-<div>Clouds</div>
-<div>OVERCAST CLOUDS</div>
-</td>
-<td width="14.2%">
-<div>26°C - 26°C</div>
-<div>Clouds</div>
-<div>OVERCAST CLOUDS</div>
-</td>
-<td width="14.2%">
-<div>34°C - 40°C</div>
+<div>31°C - 37°C</div>
 <div>Clouds</div>
 <div>BROKEN CLOUDS</div>
 </td>
@@ -72,12 +62,22 @@ Air Visual: 74
 <div>BROKEN CLOUDS</div>
 </td>
 <td width="14.2%">
-<div>28°C - 33°C</div>
+<div>34°C - 39°C</div>
+<div>Clouds</div>
+<div>OVERCAST CLOUDS</div>
+</td>
+<td width="14.2%">
+<div>27°C - 31°C</div>
+<div>Clouds</div>
+<div>BROKEN CLOUDS</div>
+</td>
+<td width="14.2%">
+<div>32°C - 39°C</div>
 <div>Rain</div>
 <div>LIGHT RAIN</div>
 </td>
 <td width="14.2%">
-<div>33°C - 40°C</div>
+<div>30°C - 36°C</div>
 <div>Clouds</div>
 <div>OVERCAST CLOUDS</div>
 </td>
@@ -90,7 +90,7 @@ Air Visual: 74
 
 ## Ho Chi Minh City
 
-Air Visual: 41
+Air Visual: 50
 
 <table>
 
@@ -102,27 +102,27 @@ Air Visual: 41
 
 <th>
 <div>2021-07-11</div>
-<div>12:00</div>
-</th>
-<th>
-<div>2021-07-11</div>
-<div>21:00</div>
-</th>
-<th>
-<div>2021-07-12</div>
-<div>06:00</div>
-</th>
-<th>
-<div>2021-07-12</div>
 <div>15:00</div>
 </th>
 <th>
-<div>2021-07-13</div>
+<div>2021-07-12</div>
 <div>00:00</div>
 </th>
 <th>
-<div>2021-07-13</div>
+<div>2021-07-12</div>
 <div>09:00</div>
+</th>
+<th>
+<div>2021-07-12</div>
+<div>18:00</div>
+</th>
+<th>
+<div>2021-07-13</div>
+<div>03:00</div>
+</th>
+<th>
+<div>2021-07-13</div>
+<div>12:00</div>
 </th>
 
 </tr>
@@ -140,7 +140,17 @@ Air Visual: 41
 </td>
 
 <td width="14.2%">
-<div>31°C - 36°C</div>
+<div>29°C - 33°C</div>
+<div>Rain</div>
+<div>LIGHT RAIN</div>
+</td>
+<td width="14.2%">
+<div>26°C - 26°C</div>
+<div>Clouds</div>
+<div>BROKEN CLOUDS</div>
+</td>
+<td width="14.2%">
+<div>32°C - 37°C</div>
 <div>Rain</div>
 <div>LIGHT RAIN</div>
 </td>
@@ -150,22 +160,12 @@ Air Visual: 41
 <div>LIGHT RAIN</div>
 </td>
 <td width="14.2%">
-<div>33°C - 37°C</div>
-<div>Rain</div>
-<div>LIGHT RAIN</div>
-</td>
-<td width="14.2%">
-<div>27°C - 30°C</div>
-<div>Rain</div>
-<div>LIGHT RAIN</div>
-</td>
-<td width="14.2%">
-<div>26°C - 26°C</div>
+<div>31°C - 36°C</div>
 <div>Clouds</div>
 <div>OVERCAST CLOUDS</div>
 </td>
 <td width="14.2%">
-<div>30°C - 36°C</div>
+<div>28°C - 31°C</div>
 <div>Rain</div>
 <div>LIGHT RAIN</div>
 </td>

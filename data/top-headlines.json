@@ -3,263 +3,263 @@
   "articles": [
     {
       "source": {
-        "id": null,
-        "name": "New York Times"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Chris Buckley",
-      "title": "Chinese Communist Party 100th Anniversary: Live Updates - The New York Times",
-      "description": "Xi Jinping, China’s leader, delivers a speech asserting that the country would never have achieved its prosperity and power without the party.",
-      "url": "https://www.nytimes.com/live/2021/06/30/world/china-communist-party-anniversary",
-      "urlToImage": "https://static01.nyt.com/images/2021/06/30/us/live-blog-20210701-china-communist-party-anniversary-header-7pm/live-blog-20210701-china-communist-party-anniversary-header-7pm-facebookJumbo-v2.jpg",
-      "publishedAt": "2021-07-01T00:30:00Z",
-      "content": "LiveUpdated June 30, 2021, 8:51 p.m. ET\r\nJune 30, 2021, 8:51 p.m. ET\r\nHeres what you need to know:\r\nChinas leader, Xi Jinping, struck a confident posture on Thursday as he hailed the Communist Partys… [+18579 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Nick Anderson, Susan Svrluga",
-      "title": "UNC board approves tenure for journalist Nikole Hannah-Jones after uproar over inaction on job protection - The Washington Post",
-      "description": "The meeting followed weeks of debate over why trustees of the University of North Carolina at Chapel Hill had not acted on the recommendations of faculty and administrators to approve a tenured journalism faculty position for the Pulitzer Prize winner who con…",
-      "url": "https://www.washingtonpost.com/education/2021/06/30/hannah-jones-unc-tenure-vote/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3QPAWVGZK4I6XDEHVVXSPEMMPA.jpg&w=1440",
-      "publishedAt": "2021-07-01T00:23:00Z",
-      "content": "Not only do we support academic freedom, but we believe that a university that our university is the very place that the most important issues of our time should be debated, R. Gene Davis Jr., vice c… [+8089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Annika Kim Constantino",
-      "title": "Trump Organization and its CFO indicted by Manhattan grand jury, report says - CNBC",
-      "description": "The Trump Organization and Allen Weisselberg, its longtime finance chief, were indicted Wednesday by a grand jury in Manhattan, The Washington Post reported.",
-      "url": "https://www.cnbc.com/2021/06/30/trump-organization-and-its-cfo-indicted-by-manhattan-grand-jury-report-says.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106904118-16249812982021-06-29t153718z_506852189_rc2bao96jt05_rtrmadp_0_usa-trump-new-york.jpeg?v=1624981383",
-      "publishedAt": "2021-06-30T23:58:58Z",
-      "content": "The Trump Organization and Allen Weisselberg, its longtime finance chief, were indicted Wednesday by a grand jury in Manhattan, The Washington Post reported.\r\nThe indictments against the organization… [+2474 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Paul Best",
-      "title": "Bill Cosby ruling could have chilling effect on survivors, sexual assault victim advocates say - Fox News",
-      "description": "Bill Cosby's release from prison could have a chilling effect on survivors coming forward after Pennsylvania's highest court threw out the famed comic's conviction on Wednesday, advocates for sexual assault victims told Fox News.",
-      "url": "https://www.foxnews.com/entertainment/bill-cosby-ruling-chilling-effect-survivors-sexual-assault-victim-advocates-say",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/bill-cosby-file.jpg",
-      "publishedAt": "2021-06-30T23:32:35Z",
-      "content": "Bill Cosby's release from prison could have a chilling effect on survivors coming forward after Pennsylvania's highest court threw out the famed comic's conviction on Wednesday, advocates for sexual … [+2614 chars]"
+      "author": "Susan Montoya Bryan",
+      "title": "Virgin Galactic's Richard Branson flying own rocket to space - Associated Press",
+      "description": "TRUTH OR CONSEQUENCES, N.M. (AP) — After a lifetime of yearning to fly in space, Virgin Galactic's Richard Branson was poised to blast off aboard his own rocket ship Sunday in his boldest, grandest adventure yet.",
+      "url": "https://apnews.com/article/business-technology-science-spacex-richard-branson-37fd721264b1421f8a1223ee5e5626e3",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2d8af177eaa149089318eaa68e453333/3000.jpeg",
+      "publishedAt": "2021-07-11T10:10:55Z",
+      "content": "TRUTH OR CONSEQUENCES, N.M. (AP) After a lifetime of yearning to fly in space, Virgin Galactics Richard Branson was poised to blast off aboard his own rocket ship Sunday in his boldest, grandest adve… [+1838 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Chloe Melas, CNN",
-      "title": "Britney Spears' father asks court to investigate claims made at conservatorship hearing - CNN ",
-      "description": "Britney Spears' father, Jamie Spears, is asking the court to investigate her claims.",
-      "url": "https://www.cnn.com/2021/06/30/entertainment/britney-spears-dad-investigation-conservatorship/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210622114258-04-britney-spears-file-2018-super-tease.jpg",
-      "publishedAt": "2021-06-30T23:14:00Z",
-      "content": "(CNN)Britney Spears' father, Jamie Spears, is asking the court to investigate her claims.\r\n\"Either the allegations will be shown to be true, in which case corrective action must be taken,\" a petition… [+2268 chars]"
+      "author": "Stefano Pozzebon, CNN",
+      "title": "Colombian ex-soldier's sister responds to Haiti murder plot allegations - CNN ",
+      "description": "Jenny Capador still cannot believe she will never see her brother again -- and she certainly does not believe that he is an assassin, as officials in two countries have now alleged.",
+      "url": "https://www.cnn.com/2021/07/11/americas/colombian-capador-haiti-cmd-intl-latam/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210711023233-colombian-capador-haiti-intl-latam-super-tease.jpg",
+      "publishedAt": "2021-07-11T09:14:00Z",
+      "content": "Bogota, Colombia (CNN)Jenny Capador still cannot believe she will never see her brother again -- and she certainly does not believe that he is an assassin, as officials in two countries have now alle… [+4499 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Story by Reuters",
+      "title": "Argentina beat Brazil 1-0 to win Copa America - CNN International",
+      "description": "Argentina won their first major title in 28 years on Saturday and Lionel Messi finally won his first medal in a blue-and-white shirt when an Angel Di Maria goal gave them a 1-0 win over Brazil and a record-equaling 15th Copa America.",
+      "url": "https://edition.cnn.com/2021/07/11/football/copa-america-intl-spt/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210711030159-01-copa-america-intl-scli-super-tease.jpg",
+      "publishedAt": "2021-07-11T08:23:33Z",
+      "content": "(CNN) Argentina won their first major title in 28 years on Saturday and Lionel Messi finally won his first medal in a blue-and-white shirt when an Angel Di Maria goal gave them a 1-0 win over Brazil … [+2911 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WPLG Local 10"
+        "name": "TMZ"
       },
-      "author": "Glenna Milberg",
-      "title": "Video shows water, debris in Champlain Towers South garage minutes before building collapse - WPLG Local 10",
-      "description": "The video is significant because it potentially corroborates reports from a valet and resident of the building who described the same scene on the morning of the collapse.",
-      "url": "https://www.local10.com/news/local/2021/06/30/video-shows-water-debris-in-champlain-towers-south-garage-minutes-before-building-collapse/",
-      "urlToImage": "https://www.local10.com/resizer/67laRL4mo2LiVd-rt3Luz4lRy-U=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/d1vhqlrjc8h82r.cloudfront.net/06-30-2021/t_8ced41fb1c2243ccaaf172774d2e5448_name_image.jpg",
-      "publishedAt": "2021-06-30T22:46:48Z",
-      "content": "SURFSIDE, Fla. Nearly a week since the horrible collapse of the Champlain Towers South, a new video has emerged showing the building moments before it went down.\r\nIn the video, the camera is pointed … [+817 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "David Rutz",
-      "title": "CNN's Acosta receives GOP pushback over claim he was blocked at last second from Trump border briefing - Fox News",
-      "description": "CNN reporter Jim Acosta claimed Texas Gov. Greg Abbott, R., was blocking him by turning his border roundtable Wednesday with former President Donald Trump into a pool coverage event at the last second, leading to pushback from a Republican spokesman.",
-      "url": "https://www.foxnews.com/media/cnns-acosta-receives-gop-pushback-over-claim-he-was-blocked-at-last-second-from-trump-border-briefing",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/acosta_trump_1.jpg",
-      "publishedAt": "2021-06-30T22:29:21Z",
-      "content": "CNN reporter Jim Acosta claimed Texas Gov. Greg Abbott, R., was blocking him by turning his border roundtable Wednesday with former President Donald Trump into a pool coverage event at the last secon… [+3096 chars]"
+      "author": "TMZ Staff",
+      "title": "Bill Cosby's Potential Stand-Up Tour Rejected by NYC's Comedy Cellar - TMZ",
+      "description": "Bill Cosby now knows there's at least one place his return to standup comedy won't take him -- one of New York City's most popular venues for comics is telling him, HELL NO.",
+      "url": "https://www.tmz.com/2021/07/11/bill-cosby-standup-tour-rejected-comedy-cellar-new-york-city/",
+      "urlToImage": "https://imagez.tmz.com/image/a4/16by9/2021/07/09/a4acc05549d046f0b1e36865ef1b3e77_xl.jpg",
+      "publishedAt": "2021-07-11T08:00:00Z",
+      "content": "Bill Cosby now knows there's at least one place his return to stand-up comedy won't take him -- one of New York City's most popular venues for comics is telling him, HELL NO.\r\nTMZ broke the story ...… [+1114 chars]"
     },
     {
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "author": "Dartunorro Clark",
-      "title": "Donald Rumsfeld, former defense secretary and Iraq war architect, dies at 88 - NBC News",
-      "description": "Donald Rumsfeld, who served twice as the U.S. Defense Secretary under two presidents and oversaw the wars in Afghanistan and Iraq, died on Wednesday at 88.",
-      "url": "https://www.nbcnews.com/politics/politics-news/donald-rumsfeld-former-defense-secretary-iraq-war-architect-dies-88-n1272816",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_26/3487855/210630-donald-rumsfeld-ew-328p.jpg",
-      "publishedAt": "2021-06-30T22:04:32Z",
-      "content": "Donald Rumsfeld, who served twice as defense secretary under two presidents and oversaw the wars in Afghanistan and Iraq after 9/11, has died. He was 88.\r\nHis family confirmed his death in a statemen… [+3658 chars]"
+      "author": "The Associated Press",
+      "title": "Dustin Poirier beats Conor McGregor for the second time in six months at UFC 264 - NBC News",
+      "description": "Conor McGregor lost to Dustin Poirier beat  for the second time in six months when he badly injured his left leg in the  first round at UFC 264.",
+      "url": "https://www.nbcnews.com/news/sports/dustin-poirier-beats-conor-mcgregor-second-time-six-months-ufc-n1273638",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_27/3490250/210711-conor-mcgregor-ha.JPG",
+      "publishedAt": "2021-07-11T07:55:11Z",
+      "content": "LAS VEGAS Conor McGregor sat and seethed with his back on the cage, a temporary cast around his left shin and foot. The biggest star in mixed martial arts was convinced he had just been robbed of rev… [+3192 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Deadline"
       },
-      "author": "Maggie Fitzgerald",
-      "title": "Stock futures are flat as S&P 500 sits at record, Wall Street set to kick off second half of 2021 - CNBC",
-      "description": "The S&P 500 posted its best first half of a year since 2019.",
-      "url": "https://www.cnbc.com/2021/06/30/stock-futures-are-flat-as-sp-500-sits-at-record-wall-street-gets-set-to-kick-off-second-half-of-2021.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106901117-16243999334181-Trading-Floor-OB-Photo-210622-PRESS-3-jpg?v=1624400008",
-      "publishedAt": "2021-06-30T22:01:43Z",
-      "content": "U.S. stock futures were steady in overnight trading on Wednesday as investors gear up for the second half of 2021.\r\nDow futures rose about 50 points. S&amp;P 500 futures gained 0.15% and Nasdaq 100 f… [+2816 chars]"
+      "author": "Tom Tapp",
+      "title": "Covid Now Infecting Mostly Younger People In Los Angeles; 83% Of New Cases Under 50 Years Old - Deadline",
+      "description": "Los Angeles County’s alarming spike in Covid cases continued on Saturday, with a second-consecutive 1,000-plus tally of daily infections. The county reported 1,094 new cases of and eight additional deaths. On Friday there were 1,107 new Covid-19 infections. T…",
+      "url": "https://deadline.com/2021/07/los-angeles-covid-targeting-oung-people-1234790306/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2020/07/ap_20143860801527.jpg?w=1024",
+      "publishedAt": "2021-07-11T05:34:00Z",
+      "content": "Los Angeles County’s alarming spike in Covid cases continued on Saturday, with a second-consecutive 1,000-plus tally of daily infections. The county reported 1,094 new cases of and eight additional d… [+3791 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Jake Coyle",
+      "title": "Back in Cannes, Sean Penn directs again, with daughter Dylan - Associated Press",
+      "description": "CANNES, France (AP) — Sean Penn has been to the Cannes Film Festival about a dozen times — from bumming around with Robert De Niro in 1984  to presiding over the jury.",
+      "url": "https://apnews.com/article/lifestyle-entertainment-arts-and-entertainment-sean-penn-2e06b67ab6cfcd9d988a3a4cf2fcf5fe",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/f07a9c3421a34eb8907131890f0c5218/3000.jpeg",
+      "publishedAt": "2021-07-11T05:22:57Z",
+      "content": "CANNES, France (AP) Sean Penn has been to the Cannes Film Festival about a dozen times from bumming around with Robert De Niro in 1984 to presiding over the jury.\r\nBut his last visit was rocky. Penns… [+5704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Denver Post"
+      },
+      "author": "Denver7",
+      "title": "4 arrested at Maven Hotel, police feared a “Las Vegas style shooting” during All-Star Game in Denver - The Denver Post",
+      "description": "Sources said police removed 16 long guns, body armor and more than 1,000 rounds of ammunition from the room with a balcony overlooking the downtown area.",
+      "url": "https://www.denverpost.com/2021/07/10/maven-hotel-four-arrested-all-star-game-denver/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2021/07/imadali_allstargamebusinesses5.jpg?w=1024&h=683",
+      "publishedAt": "2021-07-11T05:11:48Z",
+      "content": "DENVER Police feared a Las Vegas style shooting during the All-Star Game in Denver after receiving a tip from a maid working at a hotel not far from Coors Field, who discovered more than a dozen weap… [+1068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Falcons release Barkevious Mingo after linebacker arrested in child sex offense case - CBS Sports",
+      "description": "Mingo signed a one-year contract with Atlanta back in March",
+      "url": "https://www.cbssports.com/nfl/news/falcons-release-barkevious-mingo-after-linebacker-arrested-in-child-sex-offense-case/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/07/10/a9a09d99-cf07-44c9-ba25-10f90bd99517/thumbnail/1200x675/16f7eea7eb88572d8a2573faf1780726/new-team.jpg",
+      "publishedAt": "2021-07-11T05:00:00Z",
+      "content": "The Atlanta Falcons have released Barkevious Mingo after the linebacker was arrested in a child sex offense case. The Arlington Police Department told TMZ Sports that Mingo was arrested on Thursday, … [+995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "nj.com"
+      },
+      "author": "Riley Yates | NJ Advance Media for NJ.com, S.P. Sullivan | NJ Advance Media for NJ.com",
+      "title": "Mom who was abducted with son in Amber Alert case found dead, reports say - NJ.com",
+      "description": "Authorities said 24-year-old Yasemin Uyar of Rahway and her 2-year-old son were abducted by her son's father.",
+      "url": "https://www.nj.com/news/2021/07/mom-who-was-abducted-with-son-in-amber-alert-case-found-dead-report-says.html",
+      "urlToImage": "https://www.nj.com/resizer/MFl6J75jveAF7IRJ-olJInfYu8g=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P6LEAH6P5JBVHIPSLKQQRYIZ4E.jpg",
+      "publishedAt": "2021-07-11T04:30:03Z",
+      "content": "Yasemin Uyar, the New Jersey woman who police said was abducted along with her 2-year-old son by the boys father, was found dead in Tennessee, her mother told CBS New York late Saturday evening.\r\nUya… [+2226 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "NPR"
       },
-      "author": "",
-      "title": "James Franco Agrees To Settle Class-Action Sexual Misconduct Suit For $2.2 Million - NPR",
-      "description": "The actor agreed to a settlement in a class-action suit led by two of his former students, Sarah Tither-Kaplan and Toni Gaal, at his now-shuttered Studio 4 school.",
-      "url": "https://www.npr.org/2021/06/30/1011914312/james-franco-agrees-to-settle-class-action-sexual-misconduct-suit-for-2-2-millio",
-      "urlToImage": "https://media.npr.org/assets/img/2021/06/30/gettyimages-880553292_wide-519201bf23b83e1242d558fdc055708efae43c2b.jpg?s=1400",
-      "publishedAt": "2021-06-30T21:22:53Z",
-      "content": "James Franco in New York in 2017.\r\nDimitrios Kambouris/Getty Images for IFP\r\nActor James Franco and two other men have agreed to settle a class-action lawsuit led by Sarah Tither-Kaplan and Toni Gaal… [+2103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Times"
-      },
-      "author": "Dan Barry",
-      "title": "Houston Doctor Fired for Scrambling to Use Expiring Vaccines Will Not Be Indicted - The New York Times",
-      "description": "Dr. Hasan Gokal was able to find 10 people to give the remaining shots from an opened vial of vaccine. A district attorney brought the case to a grand jury.",
-      "url": "https://www.nytimes.com/2021/06/30/us/houston-doctor-indictment-declined.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/06/30/lens/30virus-briefing-texas-gokal1/30virus-briefing-texas-gokal1-facebookJumbo.jpg",
-      "publishedAt": "2021-06-30T21:19:29Z",
-      "content": "Dr. Gokal expressed relief in a telephone call Wednesday afternoon. For the first time in six months Im going to be able to go to bed tonight and not wake up in the middle thinking about this, he sai… [+1490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Mindy Weisberger",
-      "title": "Watch thousands of fire ants form living 'conveyor belts' to escape floods (Video) - Livescience.com",
-      "description": "These buoyant rafts are made of tightly packed ants numbering in the tens of thousands.",
-      "url": "https://www.livescience.com/fire-ants-bridges-from-raft.html",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tNMSFpqyz7xeyrptz7UGV7-1200-80.gif",
-      "publishedAt": "2021-06-30T21:16:08Z",
-      "content": "It takes a lot of teamwork to survive floods, and fire ants cooperate in the tens of thousands to build rafts of their bodies to float until the water subsides. Now, a time-lapse video shows how thes… [+3492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBCSports.com"
-      },
-      "author": "Kurt Helin",
-      "title": "Giannis Antetokounmpo doubtful for Game 5, reportedly has “no structural damage” to knee - NBC Sports",
-      "description": "This is both very good news and a little vague.",
-      "url": "https://nba.nbcsports.com/2021/06/30/report-giannis-antetokounmpo-has-no-structural-damage-to-left-knee-doubtful-for-game-5/",
-      "urlToImage": "https://nba.nbcsports.com/wp-content/uploads/sites/12/2021/06/GettyImages-1233734550-e1625086652160.jpg",
-      "publishedAt": "2021-06-30T21:11:00Z",
-      "content": "This is both excellent news and a little vague.\r\nAn MRI confirmed Giannis Antetokounmpo did suffer a hyperextended left knee during Game 4, the Bucks announced. The team has listed Antetokounmpo as d… [+2176 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "nejm.org"
-      },
       "author": null,
-      "title": "Prevention and Attenuation of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines | NEJM - nejm.org",
-      "description": "Original Article from The New England Journal of Medicine — Prevention and Attenuation of Covid-19 with the BNT162b2 and mRNA-1273 Vaccines",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2107058",
-      "urlToImage": "https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/0/nejm.ahead-of-print/nejmoa2107058/20210630/images/img_small/nejmoa2107058_t1.jpeg",
-      "publishedAt": "2021-06-30T21:00:51Z",
-      "content": "Study Population\r\nThe HEROES-RECOVER network includes prospective cohorts from two studies: HEROES (the Arizona Healthcare, Emergency Response, and Other Essential Workers Surveillance Study) and REC… [+7553 chars]"
+      "title": "Ethiopia's Abiy Ahmed Poised For 2nd Term After Party Wins Elections - NPR",
+      "description": "The results assure a second five-year term for Prime Minister Abiy Ahmed.",
+      "url": "https://www.npr.org/2021/07/10/1015019374/ethiopias-ruling-party-wins-national-election-in-landslide",
+      "urlToImage": "https://media.npr.org/assets/img/2021/07/10/ap21191654422181_wide-65c33e0d2aa323d13b9aaab8f7a68cb8d3afa502.jpg?s=1400",
+      "publishedAt": "2021-07-11T03:58:12Z",
+      "content": "Ethiopia's Prime Minister Abiy Ahmed, pictured in June, was assured a second term after his Prosperity Party was declared the winner of last month's national election.\r\nMulugeta Ayene/AP\r\nADDIS ABABA… [+3378 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "New York Post"
       },
-      "author": "Jackie Davalos",
-      "title": "After Losing China, Uber’s Stake in DiDi Reaps $8 Billion in IPO - Yahoo Finance",
-      "description": "(Bloomberg) -- Five years ago, Uber Technologies Inc. bowed out of the world’s second-largest economy by selling its China business to rival DiDi Global Inc....",
-      "url": "https://finance.yahoo.com/news/losing-china-uber-stake-didi-205908417.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/x26OKli.3yOIYrNfwGBoaA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/3dc78058c93af5d880b0423b783cb893",
-      "publishedAt": "2021-06-30T20:59:08Z",
-      "content": "(Bloomberg) -- Five years ago, Uber Technologies Inc. bowed out of the worlds second-largest economy by selling its China business to rival DiDi Global Inc. in exchange for a stake in the company. No… [+1488 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Kim Mackrael, Paul Vieira",
-      "title": "Another Indigenous Group in Canada Finds Unmarked Graves Near a Former School - The Wall Street Journal",
-      "description": "Third discovery brings number of burial sites announced in past month to more than 1,000;  national chief says more than 100 school sites need searching",
-      "url": "https://www.wsj.com/articles/another-indigenous-group-in-canada-finds-unmarked-graves-near-a-former-school-11625086735",
-      "urlToImage": "https://images.wsj.net/im-362741/social",
-      "publishedAt": "2021-06-30T20:58:00Z",
-      "content": "OTTAWAA third indigenous community in Canada says it has discovered unmarked graves near the site of a former Catholic-run residential school for indigenous children, bringing the total number made p… [+1145 chars]"
+      "author": "Eileen AJ Connelly",
+      "title": "Haiti's wounded first lady rips ‘gutless’ killers - New York Post ",
+      "description": "Martine Moïse made her first statements since the slaying over her husband, Haitian President Jovenel Moïse. She spoke out against the killers and was thankful she is indeed alive.",
+      "url": "https://nypost.com/2021/07/10/haitis-wounded-first-lady-rips-gutless-killers/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/07/Martine-Moïse.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-07-11T03:27:00Z",
+      "content": "The hospitalized wife of Haitis assassinated President Jovenel Moïse Saturday accused her husbands enemies of wanting to kill his dream, his vision, his ideology. \r\nIm alive, thanks to God, Martine M… [+2748 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Android Authority"
+        "name": "Eonline.com"
       },
-      "author": null,
-      "title": "Google sunsets the APK format for new Android apps - Android Authority",
-      "description": "Starting in August 2021, there will no longer be new Android APKs. Instead, Google has mandated App Bundles as the new format.",
-      "url": "https://www.androidauthority.com/android-apks-sunset-1636829/",
-      "urlToImage": "https://cdn57.androidauthority.net/wp-content/uploads/2021/02/share-it-android-google-play-store.jpg",
-      "publishedAt": "2021-06-30T20:22:27Z",
-      "content": "<ul><li>Starting in August 2021, Google will require all new Android APKs to land on the Play Store as App Bundles instead.</li><li>This will invariably result in smaller file sizes and other boons f… [+2612 chars]"
+      "author": "Mike Vulpo",
+      "title": "Zachary Levi Steps Out With Rumored Girlfriend at 2021 ESPYS - E! NEWS",
+      "description": "Before presenting one of the biggest awards at the 2021 ESPYS, actor Zachary Levi got fans talking with his red carpet date for the night.",
+      "url": "https://www.eonline.com/news/1287575/zachary-levi-steps-out-with-rumored-girlfriend-at-2021-espys",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021610/rs_1200x1200-210710171959-1200-zachary-levi-espys-2021.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+      "publishedAt": "2021-07-11T03:11:00Z",
+      "content": "Sorry ladies, but Zachary Levi may be taken this summer.\r\nWhen arriving at the 2021 ESPYS on Saturday, July 10, the actor didn't walk the red carpet solo. Instead, Zachary was able to pose with rumor… [+818 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Times"
+        "name": "Manchester Evening News"
       },
-      "author": "Vjosa Isai, Dan Bilefsky",
-      "title": "Deaths Spike in British Columbia Amid Western Canada Heat Wave - The New York Times",
-      "description": "A small town in British Columbia has beat its own heat record, and that of Canada, three days in a row, reaching just over 121 degrees Fahrenheit on Tuesday.",
-      "url": "https://www.nytimes.com/2021/06/30/world/canada/bc-canada-heat-wave.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/06/30/world/30canada/30canada-facebookJumbo.jpg",
-      "publishedAt": "2021-06-30T20:13:05Z",
-      "content": "Such is the heat that some Vancouverites have fried eggs on their terraces. Others have traded in their sweltering homes for air-conditioned hotels or moved their home offices to shady places in thei… [+2970 chars]"
+      "author": "Alice McKeegan",
+      "title": "Solskjaer gives verdict on Manchester United players at Euro 2020 ahead of England v Italy final - Manchester Evening News",
+      "description": "Man Utd have three players representing England in Luke Shaw, Harry Maguire and Marcus Rashford with Jadon Sancho soon to join the club.",
+      "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-solskjaer-euro-2020-21020228",
+      "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article21020288.ece/ALTERNATES/s1200/0_GettyImages-1233707701.jpg",
+      "publishedAt": "2021-07-11T03:00:00Z",
+      "content": "Manchester United manager Ole Gunnar Solskjaer has praised the performances of his players at the European Championship.\r\nThree United stars, Luke Shaw, Harry Maguire and Marcus Rashford, are part of… [+1115 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNET"
+        "name": "NPR"
       },
-      "author": "Katie Teague",
-      "title": "CDC speaks out on vaccinated people wearing masks: The disagreement with WHO explained - CNET",
-      "description": "Both health agencies have now issued recommendations, as a result of rising cases of the coronavirus delta variant. Here's what's happening now.",
-      "url": "https://www.cnet.com/health/cdc-speaks-out-on-vaccinated-people-wearing-masks-the-disagreement-with-who-explained/",
-      "urlToImage": "https://www.cnet.com/a/img/B0fGl7mAT6Jc04TmvoCS9A3rAJw=/1200x630/2021/01/29/64ac8afa-d604-4c52-8f0b-2785be199e2b/004-double-mask-recommendations-new-mandate-n95-kn95-cloth-medical-masks-face.jpg",
-      "publishedAt": "2021-06-30T20:05:00Z",
-      "content": "Even fully vaccinated people should wear masks, according to the WHO.\r\nSarah Tew/CNET\r\nFor the most up-to-date news and information about the coronavirus pandemic, visit the WHO and CDC websites.\r\nCe… [+4426 chars]"
+      "author": "Dave Mistich",
+      "title": "Death Valley Posts 130-Degree Heat, Potentially Matching A Record High - NPR",
+      "description": "The hottest place on Earth is as hot as it's ever been, at least in terms of recorded temperatures in modern times.",
+      "url": "https://www.npr.org/2021/07/10/1014941439/death-valley-posts-130-degree-heat-potentially-matching-a-record-high",
+      "urlToImage": "https://media.npr.org/assets/img/2021/07/10/ap20231085853923_wide-7345d76326cc7400a7d41f3c0b9b2dc64eae285d.jpg?s=1400",
+      "publishedAt": "2021-07-11T02:57:58Z",
+      "content": "A person walks on a boardwalk at the salt flats at Badwater Basin on Aug. 17, 2020, in Death Valley National Park in California. Temperatures reached 130 degrees there on Friday.\r\nJohn Locher/AP\r\nThe… [+1767 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BuzzFeed News"
+        "name": "ESPN India"
       },
-      "author": "Pia Peterson",
-      "title": "These Photos Show How People Are Handling The Dangerous Heat Wave In The Pacific Northwest - BuzzFeed News",
-      "description": "People across the Pacific Northwest are coping with extreme temperatures this week in what experts say is just the latest example of how the climate crisis is affecting public health.",
-      "url": "https://www.buzzfeednews.com/article/piapeterson/photos-pnw-heat-wave-people",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-06/30/21/campaign_images/d20b82e453e2/these-photos-show-how-people-are-handling-the-dan-2-2591-1625087515-22_dblbig.jpg?resize=1200:*",
-      "publishedAt": "2021-06-30T20:02:00Z",
-      "content": null
+      "author": "Brian Windhorst",
+      "title": "Team USA stunned by Nigeria in rare exhibition basketball loss ahead of Tokyo Olympics - ESPN India",
+      "description": "Team USA suffered a stunning and sobering defeat in its first exhibition game before the Olympics, getting outplayed by Nigeria in a 90-87 loss Saturday night.",
+      "url": "https://www.espn.in/olympics/story/_/id/31797509/team-usa-stunned-nigeria-rare-exhibition-loss-ahead-tokyo-olympics",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0711%2Fr878954_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-07-11T02:40:24Z",
+      "content": "LAS VEGAS -- Team USA suffered a stunning and sobering defeat in its first exhibition game before the Olympics, getting outplayed by Nigeria in a 90-87 loss Saturday night.\r\nComing into the game the … [+3021 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Celine Castronuovo",
+      "title": "Pfizer to brief US health officials on coronavirus booster shot: report | TheHill - The Hill",
+      "description": "Pfizer is expected to brief U.S. health officials on the need for...",
+      "url": "https://thehill.com/policy/healthcare/562421-pfizer-to-brief-us-health-officials-on-booster-shot-report",
+      "urlToImage": "https://thehill.com/sites/default/files/coronavirus-vaccine_042621getty_waiver.jpg",
+      "publishedAt": "2021-07-11T02:27:01Z",
+      "content": "Pfizer is expected to brief U.S. health officials on the need for a COVID-19 booster shot in the upcoming days, several sources told The Washington Post. \r\nNews of the reported briefing comes after g… [+3864 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Alicia Victoria Lozano, The Associated Press",
+      "title": "'Extreme fire behavior': 2 firefighters killed as Western wildfires intensify during heat wave - NBC News",
+      "description": "Two firefighters were killed Saturday in Arizona as Western wildfires intensified during a heat wave and threatened California's overburdened power grid.",
+      "url": "https://www.nbcnews.com/news/us-news/serious-situation-western-heat-wave-wildfires-threaten-california-power-grid-n1273635",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_27/3490249/210710-california-wildfires-axc-1153p.JPG",
+      "publishedAt": "2021-07-11T01:30:00Z",
+      "content": "LOS ANGELES Two firefighters were killed Saturday in Arizona as wildfires raged through the West, threatening California's overburdened power grid during an oppressive heat wave and ongoing drought.\r… [+5811 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jody Serrano",
+      "title": "WhatsApp Is Working on Offering Disappearing Photo and Video Messages on iOS and Android - Gizmodo",
+      "description": "The feature is similar to what Instagram, another Facebook-owned app, offers already.",
+      "url": "https://gizmodo.com/whatsapp-is-working-on-offering-disappearing-photo-and-1847267630",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f188dc29f4e6b5883b17b2de47dee52c.jpg",
+      "publishedAt": "2021-07-11T01:03:00Z",
+      "content": "WhatsApp apparently wants to give users a bit more control over the photos and videos they share on the messaging app. The company recently unveiled a new feature to iOS and Android beta testers that… [+2300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Detroit News"
+      },
+      "author": "Craig Mauger, The Detroit News",
+      "title": "Trump renews attack on Michigan Senate ahead of sanction hearing - The Detroit News",
+      "description": "The former president's statement came two days ahead of a court hearing on whether attorneys who challenged the state's results should face sanctions.",
+      "url": "https://www.detroitnews.com/story/news/politics/2021/07/10/trump-renews-attack-michigan-senate-ahead-sanction-hearing/7928556002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/07/07/PDTN/464fa347-b58e-4e88-8645-cd2513d6a9d1-AP21188623979209.jpg?auto=webp&crop=5579,3139,x0,y283&format=pjpg&width=1200",
+      "publishedAt": "2021-07-11T00:59:52Z",
+      "content": "Lansing — Former President Donald Trump on Saturday attacked the Michigan Senate and repeated unproven claims about fraud in Detroit's November 2020 election, two days ahead of a key court hearing.\r\n… [+3344 chars]"
     }
   ]
 }

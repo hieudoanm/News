@@ -1,128 +1,102 @@
 # News
 
+## Muốn phát âm chuẩn thì phải chỉnh gì?
+
+Vietcetera
+
+```html
+<p>Cách học ngoại ngữ tốt nhất là bắt chước. Nhưng tại sao lại phải bắt chước, và bắt chước như thế nào?</p>
+```
+
+[See More](https://vietcetera.com/vn/muon-phat-am-chuan-thi-phai-chinh-gi)
+
+## Tóm Lại Là: Vì sao "Uber Trung Quốc" bay màu?
+
+Vietcetera
+
+```html
+Lệnh trừng phạt Didi một lần nữa cho thấy tầm ảnh hưởng của Bắc Kinh lên các công ty công nghệ lớn.
+```
+
+[See More](https://vietcetera.com/vn/tom-lai-la-vi-sao-uber-trung-quoc-bay-mau)
+
+## Ứng dụng đầu tư và tích lũy Infina: Mở rộng cơ hội đầu tư từ nguồn vốn nhỏ
+
+Vietcetera
+
+```html
+<p>Là ứng dụng “trẻ tuổi” nhất trong khu vực, Infina mới đây đã huy động thành công khoản vốn đầu tư hơn 2 triệu USD sau vòng hạt giống.</p>
+```
+
+[See More](https://vietcetera.com/vn/ung-dung-dau-tu-va-tich-luy-infina-mo-rong-co-hoi-dau-tu-tu-nguon-von-nho)
+
+## Đầu tư chứng khoán: Làm sao để tránh có quá nhiều "giỏ trứng"?
+
+Vietcetera
+
+```html
+<p>Nên sắp xếp danh mục danh mục đầu tư như thế nào?</p>
+```
+
+[See More](https://vietcetera.com/vn/dau-tu-chung-khoan-lam-sao-de-tranh-co-qua-nhieu-gio-trung)
+
+## Ứng dụng công nghệ và khoa học nào đang góp phần xây dựng hệ sinh thái chăm sóc sức khỏe tại Việt Nam?
+
+Vietcetera
+
+```html
+<p>Ngoài cung cấp các dịch vụ thể dục thể hình, California Fitness & Yoga còn hướng tới mục tiêu công nghệ hoá lĩnh vực thể dục thể hình và chăm sóc sức khỏe.</p>
+```
+
+[See More](https://vietcetera.com/vn/ung-dung-cong-nghe-va-khoa-hoc-nao-dang-gop-phan-xay-dung-he-sinh-thai-cham-soc-suc-khoe-tai-viet-nam)
+
+## Đại học Việt Nam: Nên nhìn nhận thế nào?
+
+Vietcetera
+
+```html
+<p>Ta cần nhìn nhận công bằng kiến thức và trải nghiệm đại học trong nước.</p>
+```
+
+[See More](https://vietcetera.com/vn/dai-hoc-viet-nam-nen-nhin-nhan-the-nao)
+
+## Kiến trúc tương lai cần được xây dựng từ bản sắc văn hóa
+
+Vietcetera
+
+```html
+<p>Liệu Việt Nam có thể áp dụng triết lý kiến trúc hướng tới con người vào các thành phố của mình trong tương lai không?</p>
+```
+
+[See More](https://vietcetera.com/vn/kien-truc-tuong-lai-can-duoc-xay-dung-tu-ban-sac-van-hoa)
+
+## "Hóng" cổ phiếu sao cho đúng?
+
+Vietcetera
+
+```html
+<p>"Hóng" cổ phiếu không xấu, nhưng "hóng" sai cách thì xấu đấy.</p>
+```
+
+[See More](https://vietcetera.com/vn/hong-co-phieu-sao-cho-dung)
+
+## L’Oréal Việt Nam: Tương lai của ngành mỹ phẩm - Recap “Vietnam Innovators” tập 32
+
+Vietcetera
+
+```html
+<p>Valéry Gaucherand, CEO tại L’Oréal Vietnam, chia sẻ về tương lai của thị trường làm đẹp, cũng như về sự phổ biến của thương hiệu tại Việt Nam. </p>
+```
+
+[See More](https://vietcetera.com/vn/loreal-viet-nam-tuong-lai-cua-nganh-my-pham-recap-vietnam-innovators-tap-32)
+
 ## 3 Lời khuyên để bạn hành động mà không trì hoãn
 
 Vietcetera
 
 ```html
-<p>
-  Sau khi thay đổi góc nhìn về động lực, hãy áp dụng 3 lời khuyên này để hành
-  động mà không trì hoãn.
-</p>
+<p>Sau khi thay đổi góc nhìn về động lực, hãy áp dụng 3 lời khuyên này để hành động mà không trì hoãn.</p>
 ```
 
 [See More](https://vietcetera.com/vn/3-loi-khuyen-de-ban-hanh-dong-ma-khong-tri-hoan)
 
-## Từ Ý đến Việt Nam: Tái tạo đô thị quan trọng như thế nào?
-
-Vietcetera
-
-```html
-<p>
-  Sự thành công của Ý trong việc tái tạo đô thị, tạo ra các không gian bền vững
-  đã được nhân rộng tại các quốc gia đang phát triển, trong đó có Việt Nam.
-</p>
-```
-
-[See More](https://vietcetera.com/vn/tu-y-den-viet-nam-tai-tao-do-thi-quan-trong-nhu-the-nao)
-
-## “Khó nhất là thuyết phục một tổ chức - đang vận hành tốt, tăng trưởng đều - chịu chuyển đổi!”
-
-Vietcetera
-
-```html
-<p>
-  Chúng tôi hỏi anh Hoàng Hải, Phó Giám Đốc, Chiến Lược & Chuyển Đổi tại AIA
-  Việt Nam về sự chuyển đổi đã, đang và sẽ diễn ra tại tổ chức này. 
-</p>
-```
-
-[See More](https://vietcetera.com/vn/kho-nhat-la-thuyet-phuc-mot-to-chuc-dang-van-hanh-tot-tang-truong-deu-chiu-chuyen-doi)
-
-## Chống chán khi việc chóng chán
-
-Vietcetera
-
-```html
-<p>
-  Chán đúng cách, bạn có thể trở nên bứt phá hơn trong công việc. Ngược lại nếu
-  chán sai cách, bạn chỉ nhận được sự bức bối và tuyệt vọng.
-</p>
-```
-
-[See More](https://vietcetera.com/vn/chong-chan-khi-viec-chong-chan)
-
-## 5s Giải Nghĩa: CSR là gì mà quan trọng với các doanh nghiệp ngày nay?
-
-Vietcetera
-
-```html
-<p>
-  CSR được xem là điều kiện bắt buộc trong chiến lược vận hành và phát triển của
-  doanh nghiệp.
-</p>
-```
-
-[See More](https://vietcetera.com/vn/5s-giai-nghia-csr-la-gi-ma-quan-trong-voi-cac-doanh-nghiep-ngay-nay)
-
-## "Học MBA thời điểm chín muồi nhất là khi cảm được những vấn đề quản trị." - CEO PNJ Lê Trí Thông
-
-Vietcetera
-
-```html
-<p>
-  "Giữa 2 dòng chữ đen trong sách có còn dòng trắng – đó mới là nơi kết tinh
-  kiến thức của riêng mình."
-</p>
-```
-
-[See More](https://vietcetera.com/vn/hoc-mba-thoi-diem-chin-muoi-nhat-la-khi-cam-duoc-nhung-van-de-quan-tri-ceo-pnj-le-tri-thong)
-
-## Thay đổi góc nhìn về động lực để hành động mà không trì hoãn
-
-Vietcetera
-
-```html
-<p>
-  Mark Manson cho rằng nếu bạn gặp khó khăn để duy trì động lực, vậy hãy sắp xếp
-  lại cách chúng đã hoạt động.
-</p>
-```
-
-[See More](https://vietcetera.com/vn/thay-doi-goc-nhin-ve-dong-luc-de-hanh-dong-ma-khong-tri-hoan)
-
-## "Lúc phải ngồi sửa từng cái lỗi của app Vietcetera, anh đã nghĩ gì?"
-
-Vietcetera
-
-```html
-"Anh nhớ lại những ngày đầu mới vô nghề."
-```
-
-[See More](https://vietcetera.com/vn/luc-phai-ngoi-sua-tung-cai-loi-cua-app-vietcetera-anh-da-nghi-gi)
-
-## Chuyển đổi số ngành bảo hiểm: Có thể cạnh tranh với những cái tên lớn trong ngành công nghệ?
-
-Vietcetera
-
-```html
-<p>
-  Đầu tàu IT Bill Nguyễn trao đổi về chuyển đổi số tại AIA Việt Nam và thử thách
-  của quá trình chuyển đổi số ngành công nghiệp bảo hiểm nhân thọ.
-</p>
-```
-
-[See More](https://vietcetera.com/vn/chuyen-doi-so-nganh-bao-hiem-co-the-canh-tranh-voi-nhung-cai-ten-lon-trong-nganh-cong-nghe)
-
-## Ngân hàng số Übank: Thúc đẩy cuộc cách mạng kỹ thuật số của ngành dịch vụ ngân hàng - Recap “Vietnam Innovators” tập 31
-
-Vietcetera
-
-```html
-<p>
-  Gunneet Singh Bally, Head of Products & Customer Engagement tại Übank, chia sẻ
-  về những lợi ích mà ngân hàng số mang đến cho người Việt.
-</p>
-```
-
-[See More](https://vietcetera.com/vn/ngan-hang-so-bank-thuc-day-cuoc-cach-mang-ky-thuat-so-cua-nganh-dich-vu-ngan-hang-recap-vietnam-innovators-tap-31)
