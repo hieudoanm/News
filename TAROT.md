@@ -1,9 +1,9 @@
 <h1 align="center">Tarot of the Day</h1>
   
 <p align="center">
-  <img src="images/tarot/minor/knight-of-wands.png" alt="Knight of Wands"/>
+  <img src="images/tarot/minor/king-of-cups.png" alt="King of Cups"/>
 </p>
 
 <p align="center">
-Departure, absence, flight, emigration. A dark young man, friendly. Change of residence.
+Fair man, man of business, law, or divinity; responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence.
 </p>

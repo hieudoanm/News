@@ -1,4 +1,5 @@
 import dotenv from "dotenv";
+import { saveCountries } from "./services/countries";
 import { saveCoins } from "./services/crypto-currency";
 import { saveDevTo } from "./services/dev-to";
 import { saveLanguages, saveTopRepositories } from "./services/github";
@@ -11,6 +12,7 @@ import { saveCategories, saveYouTube } from "./services/youtube";
 dotenv.config();
 
 const main = async () => {
+  await saveCountries();
   await saveLanguages();
   await saveTopRepositories();
   await saveCategories();
