@@ -1,34 +1,69 @@
 # News
 
-## Virgin Galactic's Richard Branson flying own rocket to space - Associated Press
+## Richard Branson’s Virgin Galactic Space Trip Delayed Slightly by Weather - The Wall Street Journal
 
-Susan Montoya Bryan - Associated Press
-
-```
-TRUTH OR CONSEQUENCES, N.M. (AP) After a lifetime of yearning to fly in space, Virgin Galactics Richard Branson was poised to blast off aboard his own rocket ship Sunday in his boldest, grandest adve… [+1838 chars]
-```
-
-[See More](https://apnews.com/article/business-technology-science-spacex-richard-branson-37fd721264b1421f8a1223ee5e5626e3)
-
-## Colombian ex-soldier's sister responds to Haiti murder plot allegations - CNN 
-
-Stefano Pozzebon, CNN - CNN
+Micah Maidenberg - The Wall Street Journal
 
 ```
-Bogota, Colombia (CNN)Jenny Capador still cannot believe she will never see her brother again -- and she certainly does not believe that he is an assassin, as officials in two countries have now alle… [+4499 chars]
+TRUTH OR CONSEQUENCES, N.M.Richard Branson is scheduled to travel to the edge of space Sunday in a flight aimed at spurring a new, multibillion-dollar space-tourism industry.
+The flight, originally … [+747 chars]
 ```
 
-[See More](https://www.cnn.com/2021/07/11/americas/colombian-capador-haiti-cmd-intl-latam/index.html)
+[See More](https://www.wsj.com/articles/richard-bransons-virgin-galactic-set-for-travel-to-space-in-sunday-flight-11626002209)
 
-## Argentina beat Brazil 1-0 to win Copa America - CNN International
+## New York's attorney general keeps Albany — and Cuomo — waiting - POLITICO
 
-Story by Reuters - CNN
+Anna Gronewold - Politico
 
 ```
-(CNN) Argentina won their first major title in 28 years on Saturday and Lionel Messi finally won his first medal in a blue-and-white shirt when an Angel Di Maria goal gave them a 1-0 win over Brazil … [+2911 chars]
+The uncertainty has paralyzed much of New York's Democratic political apparatus. State lawmakers have put their parallel impeachment investigation on a very slow burn. Cuomo has not revisited his pre… [+8709 chars]
 ```
 
-[See More](https://edition.cnn.com/2021/07/11/football/copa-america-intl-spt/index.html)
+[See More](https://www.politico.com/news/2021/07/11/tish-james-report-cuomo-499032)
+
+## Sean Penn Compares Trump’s Covid Vaccination Efforts to Machine Gun Attack on Vulnerable Communities - Yahoo Entertainment
+
+Matt Donnelly - Yahoo Entertainment
+
+```
+In the midst of debuting a new movie at the first pandemic-era Cannes Film Festival, director Sean Penn had strong words about the Trump administrations handling of the global health crisis.
+The lon… [+2019 chars]
+```
+
+[See More](https://www.yahoo.com/entertainment/sean-penn-compares-trump-covid-103738608.html)
+
+## VIDEO: Woman duct-taped to seat after attacking American Airlines crew - Business Insider
+
+Sophia Ankel - Business Insider
+
+```
+A TikTok video shows a woman duct-taped to her seat on an American Airlines flight after she reportedly attacked flight attendants and attempted to open the plane's front door.
+The incident happened… [+2663 chars]
+```
+
+[See More](https://www.businessinsider.com/american-airlines-woman-duct-taped-seat-after-attacking-plane-crew-2021-7)
+
+## Messi played Copa America final with injury - Argentina coach - ESPN
+
+Reuters - ESPN
+
+```
+Argentina coach Lionel Scaloni paid tribute to Lionel Messi on Saturday, praising his team captain and revealing he played in the Copa America win over Brazil with an injury.
+"If you knew the way th… [+1415 chars]
+```
+
+[See More](https://www.espn.com/soccer/argentina-arg/story/4430565/messi-played-copa-america-final-with-injury-argentina-coach)
+
+## Boos, Cheers As Donald Trump Attends UFC Fight—in Which Conor McGregor Breaks Leg - Newsweek
+
+Matt Cannon - Newsweek
+
+```
+Donald Trump was met by a cacophony of noise—some cheers, largely jeers—when he made a public appearance at a UFC fight in Las Vegas on Saturday night.
+The former president with his wife, Melania, w… [+2872 chars]
+```
+
+[See More](https://www.newsweek.com/donald-tump-attends-ufc-conor-mcgregor-breaks-leg-1608589)
 
 ## Bill Cosby's Potential Stand-Up Tour Rejected by NYC's Comedy Cellar - TMZ
 
@@ -41,15 +76,25 @@ TMZ broke the story ...… [+1114 chars]
 
 [See More](https://www.tmz.com/2021/07/11/bill-cosby-standup-tour-rejected-comedy-cellar-new-york-city/)
 
-## Dustin Poirier beats Conor McGregor for the second time in six months at UFC 264 - NBC News
+## Ethiopia's Abiy Ahmed wins election in landslide amid Tigray conflict and voting fraud concerns - CNN 
 
-The Associated Press - NBC News
+Mia Alberti - CNN
 
 ```
-LAS VEGAS Conor McGregor sat and seethed with his back on the cage, a temporary cast around his left shin and foot. The biggest star in mixed martial arts was convinced he had just been robbed of rev… [+3192 chars]
+(CNN)Ethiopian Prime Minister Abiy Ahmed's ruling Prosperity Party (PP) overwhelmingly won general elections Saturday, meaning he will stay in power another term, according to CNN affiliate Nation Me… [+1679 chars]
 ```
 
-[See More](https://www.nbcnews.com/news/sports/dustin-poirier-beats-conor-mcgregor-second-time-six-months-ufc-n1273638)
+[See More](https://www.cnn.com/2021/07/11/africa/ethiopia-elections-intl-hnk/index.html)
+
+## Reports: Falcons cut Barkevious Mingo amid child sex offense case - NBC Sports
+
+Curtis Crabtree - NBCSports.com
+
+```
+The Atlanta Falcons have released linebacker Barkevious Mingo after allegations of indecent sexual conduct with a child came to light after he posted bond in Tarrant County, Texas, according to multi… [+1189 chars]
+```
+
+[See More](https://profootballtalk.nbcsports.com/2021/07/11/reports-falcons-cut-barkevious-mingo-amid-child-sex-offense-case/)
 
 ## Covid Now Infecting Mostly Younger People In Los Angeles; 83% Of New Cases Under 50 Years Old - Deadline
 
@@ -60,37 +105,6 @@ Los Angeles County’s alarming spike in Covid cases continued on Saturday, with
 ```
 
 [See More](https://deadline.com/2021/07/los-angeles-covid-targeting-oung-people-1234790306/)
-
-## Back in Cannes, Sean Penn directs again, with daughter Dylan - Associated Press
-
-Jake Coyle - Associated Press
-
-```
-CANNES, France (AP) Sean Penn has been to the Cannes Film Festival about a dozen times from bumming around with Robert De Niro in 1984 to presiding over the jury.
-But his last visit was rocky. Penns… [+5704 chars]
-```
-
-[See More](https://apnews.com/article/lifestyle-entertainment-arts-and-entertainment-sean-penn-2e06b67ab6cfcd9d988a3a4cf2fcf5fe)
-
-## 4 arrested at Maven Hotel, police feared a “Las Vegas style shooting” during All-Star Game in Denver - The Denver Post
-
-Denver7 - The Denver Post
-
-```
-DENVER Police feared a Las Vegas style shooting during the All-Star Game in Denver after receiving a tip from a maid working at a hotel not far from Coors Field, who discovered more than a dozen weap… [+1068 chars]
-```
-
-[See More](https://www.denverpost.com/2021/07/10/maven-hotel-four-arrested-all-star-game-denver/)
-
-## Falcons release Barkevious Mingo after linebacker arrested in child sex offense case - CBS Sports
-
- - CBS Sports
-
-```
-The Atlanta Falcons have released Barkevious Mingo after the linebacker was arrested in a child sex offense case. The Arlington Police Department told TMZ Sports that Mingo was arrested on Thursday, … [+995 chars]
-```
-
-[See More](https://www.cbssports.com/nfl/news/falcons-release-barkevious-mingo-after-linebacker-arrested-in-child-sex-offense-case/)
 
 ## Mom who was abducted with son in Amber Alert case found dead, reports say - NJ.com
 
@@ -103,17 +117,16 @@ Uya… [+2226 chars]
 
 [See More](https://www.nj.com/news/2021/07/mom-who-was-abducted-with-son-in-amber-alert-case-found-dead-report-says.html)
 
-## Ethiopia's Abiy Ahmed Poised For 2nd Term After Party Wins Elections - NPR
+## VP Harris jokes 'maybe I don't say ‘no’ enough' to Biden - New York Post 
 
-null - NPR
+Jesse O’Neill - New York Post
 
 ```
-Ethiopia's Prime Minister Abiy Ahmed, pictured in June, was assured a second term after his Prosperity Party was declared the winner of last month's national election.
-Mulugeta Ayene/AP
-ADDIS ABABA… [+3378 chars]
+Vice President Kamala Harris joked “maybe I don’t say no enough,” when asked about the major responsibilities that have been delegated to her by President Biden.
+Harris made the quip when asked abou… [+1595 chars]
 ```
 
-[See More](https://www.npr.org/2021/07/10/1015019374/ethiopias-ruling-party-wins-national-election-in-landslide)
+[See More](https://nypost.com/2021/07/10/kamala-harris-jokes-maybe-i-dont-say-no-enough-to-joe-biden/)
 
 ## Haiti's wounded first lady rips ‘gutless’ killers - New York Post 
 
@@ -126,6 +139,16 @@ Im alive, thanks to God, Martine M… [+2748 chars]
 
 [See More](https://nypost.com/2021/07/10/haitis-wounded-first-lady-rips-gutless-killers/)
 
+## Marvel's Kevin Feige On Why Black Widow Is Set Between Civil War & Infinity War - Screen Rant
+
+null - Google News
+
+```
+null
+```
+
+[See More](https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vc2NyZWVucmFudC5jb20vYmxhY2std2lkb3ctbW92aWUtbWN1LXRpbWVsaW5lLXNldHRpbmctZmVpZ2Utd2h5L9IBTGh0dHBzOi8vc2NyZWVucmFudC5jb20vYmxhY2std2lkb3ctbW92aWUtbWN1LXRpbWVsaW5lLXNldHRpbmctZmVpZ2Utd2h5L2FtcC8?oc=5)
+
 ## Zachary Levi Steps Out With Rumored Girlfriend at 2021 ESPYS - E! NEWS
 
 Mike Vulpo - Eonline.com
@@ -136,17 +159,6 @@ When arriving at the 2021 ESPYS on Saturday, July 10, the actor didn't walk the 
 ```
 
 [See More](https://www.eonline.com/news/1287575/zachary-levi-steps-out-with-rumored-girlfriend-at-2021-espys)
-
-## Solskjaer gives verdict on Manchester United players at Euro 2020 ahead of England v Italy final - Manchester Evening News
-
-Alice McKeegan - Manchester Evening News
-
-```
-Manchester United manager Ole Gunnar Solskjaer has praised the performances of his players at the European Championship.
-Three United stars, Luke Shaw, Harry Maguire and Marcus Rashford, are part of… [+1115 chars]
-```
-
-[See More](https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-solskjaer-euro-2020-21020228)
 
 ## Death Valley Posts 130-Degree Heat, Potentially Matching A Record High - NPR
 
@@ -171,45 +183,34 @@ Coming into the game the … [+3021 chars]
 
 [See More](https://www.espn.in/olympics/story/_/id/31797509/team-usa-stunned-nigeria-rare-exhibition-loss-ahead-tokyo-olympics)
 
-## Pfizer to brief US health officials on coronavirus booster shot: report | TheHill - The Hill
+## California reports first 2021 death from West Nile virus - KABC-TV
 
-Celine Castronuovo - The Hill
-
-```
-Pfizer is expected to brief U.S. health officials on the need for a COVID-19 booster shot in the upcoming days, several sources told The Washington Post. 
-News of the reported briefing comes after g… [+3864 chars]
-```
-
-[See More](https://thehill.com/policy/healthcare/562421-pfizer-to-brief-us-health-officials-on-booster-shot-report)
-
-## 'Extreme fire behavior': 2 firefighters killed as Western wildfires intensify during heat wave - NBC News
-
-Alicia Victoria Lozano, The Associated Press - NBC News
+null - KABC-TV
 
 ```
-LOS ANGELES Two firefighters were killed Saturday in Arizona as wildfires raged through the West, threatening California's overburdened power grid during an oppressive heat wave and ongoing drought.… [+5811 chars]
+California is reporting the state's first death this year from the West Nile virus.Public health officials say a resident of San Luis Obispo County died from complications of the mosquito-born virus,… [+386 chars]
 ```
 
-[See More](https://www.nbcnews.com/news/us-news/serious-situation-western-heat-wave-wildfires-threaten-california-power-grid-n1273635)
+[See More](https://abc7.com/west-nile-virus-death-california-san-luis-obispo-county/10878072/)
 
-## WhatsApp Is Working on Offering Disappearing Photo and Video Messages on iOS and Android - Gizmodo
+## 'A problem that doesn't exist': Democrats, activists slam Texas voter fraud bills - NBC News
 
-Jody Serrano - Gizmodo.com
-
-```
-WhatsApp apparently wants to give users a bit more control over the photos and videos they share on the messaging app. The company recently unveiled a new feature to iOS and Android beta testers that… [+2300 chars]
-```
-
-[See More](https://gizmodo.com/whatsapp-is-working-on-offering-disappearing-photo-and-1847267630)
-
-## Trump renews attack on Michigan Senate ahead of sanction hearing - The Detroit News
-
-Craig Mauger, The Detroit News - The Detroit News
+Jane C. Timm - NBC News
 
 ```
-Lansing — Former President Donald Trump on Saturday attacked the Michigan Senate and repeated unproven claims about fraud in Detroit's November 2020 election, two days ahead of a key court hearing.
-… [+3344 chars]
+Hundreds of Texans flooded the state Capitol on Saturday, some waiting late into the evening to testify on a pair of restrictive voting bills that Republican lawmakers are pushing through the state L… [+4822 chars]
 ```
 
-[See More](https://www.detroitnews.com/story/news/politics/2021/07/10/trump-renews-attack-michigan-senate-ahead-sanction-hearing/7928556002/)
+[See More](https://www.nbcnews.com/politics/elections/problem-doesn-t-exist-democrats-activists-slam-texas-voter-fraud-n1273634)
+
+## Elon Musk says SpaceX still growing in Texas, plans rocket engine factory near Waco - Austin American-Statesman
+
+Kara Carlson, Austin American-Statesman - Austin American-Statesman
+
+```
+SpaceX will break ground soon on a rocket engine factory near Waco, CEO Elon Musk said Saturday, detailing the plan in a series of posts on social media. 
+The facility, which will be in McGregor, wi… [+4261 chars]
+```
+
+[See More](https://www.statesman.com/story/business/2021/07/10/elon-musk-says-spacex-still-growing-texas-plans-rocket-engine-factory-near-waco/7927169002/)
 

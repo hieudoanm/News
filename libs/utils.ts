@@ -6,3 +6,6 @@ export const parseJSON = (string: string, fallback: any = {}): any => {
     return fallback;
   }
 };
+
+export const currencyFormatter = (number: number): string =>
+  number.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, "$&,");
