@@ -15,7 +15,9 @@ export const saveCards = async () => {
   <img src="${imgSrc}" alt="${name}"/>
 </p>
 
+<p align="center">
 ${meaning_up}
+</p>
 `;
   await fs.writeFileSync("./TAROT.md", markdown);
 };

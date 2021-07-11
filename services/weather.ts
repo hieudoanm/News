@@ -150,7 +150,7 @@ const getWeatherByCityMarkdown = async (city: string): Promise<string> => {
     forecast = [],
   } = weather;
   const filteredForecast = forecast.filter((_, index: number) => {
-    return index % 3 === 0;
+    return index % 4 === 0;
   });
   return `## ${name}
 
@@ -185,7 +185,7 @@ ${filteredForecast
 
 <tr>
 
-<td width="14.2%">
+<td width="20%">
 <div>${temp}°C - ${feelsLike}°C</div>
 <div>${main}</div>
 <div>${description.toUpperCase()}</div>
@@ -195,7 +195,7 @@ ${filteredForecast
   .map((info: Info) => {
     const { temp, feelsLike, main, description } = info;
 
-    return `<td width="14.2%">
+    return `<td width="20%">
 <div>${temp}°C - ${feelsLike}°C</div>
 <div>${main}</div>
 <div>${description.toUpperCase()}</div>

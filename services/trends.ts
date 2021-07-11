@@ -22,8 +22,9 @@ ${countries
     return `## ${country.replace(/_/g, " ").toUpperCase()}
     
 ${trends
-  .map((trend: string) => {
-    return `- [${trend}](https://google.com/search?q=${encodeURI(trend)})`;
+  .map((trend: string, index: number) => {
+    const url: string = `https://google.com/search?q=${encodeURI(trend)}`;
+    return `${index + 1}. [${trend}](${url})`;
   })
   .join("\n")}
 `;

@@ -1,15 +1,129 @@
 # News
 
-## Richard Branson’s Virgin Galactic Space Trip Delayed Slightly by Weather - The Wall Street Journal
+## Virgin Galactic's Richard Branson flying own rocket to space - Associated Press
 
-Micah Maidenberg - The Wall Street Journal
+Susan Montoya Bryan - Associated Press
 
 ```
-TRUTH OR CONSEQUENCES, N.M.Richard Branson is scheduled to travel to the edge of space Sunday in a flight aimed at spurring a new, multibillion-dollar space-tourism industry.
-The flight, originally … [+747 chars]
+TRUTH OR CONSEQUENCES, N.M. (AP) Thrill-seeking billionaire Richard Branson strapped in and set off Sunday on his boldest adventure yet a bid to reach space aboard his own winged rocket ship.
+A succ… [+1777 chars]
 ```
 
-[See More](https://www.wsj.com/articles/richard-bransons-virgin-galactic-set-for-travel-to-space-in-sunday-flight-11626002209)
+[See More](https://apnews.com/article/virgin-galactic-launch-richard-branson-37fd721264b1421f8a1223ee5e5626e3)
+
+## Video shows woman duct-taped to seat after trying to open airplane door - Fox News
+
+New York Post - Www.https
+
+```
+Now thats a sticky situation.
+An apparently unhinged woman was duct-taped to an airplane seat last week after she allegedly attacked the flight crew and tried to open the door of the aircraft in mid… [+2504 chars]
+```
+
+[See More](https://www.https://nypost.com/2021/07/11/video-shows-woman-duct-taped-to-seat-after-trying-to-open-airplane-door-on-american-airlines-flight/)
+
+## Creepypasta and the search for the ghost in the machine - Ars Technica
+
+null - Financial Times
+
+```
+It was the music, they said, that drove the children to madness. The eerie, detuned soundtrack to Pokémon Red’s Lavender Town contained harmful sonic irregularities played at such high frequencies th… [+4676 chars]
+```
+
+[See More](https://www.ft.com/content/684352b6-f57e-49cd-83f5-654fd3e52a41)
+
+## ZSA Moonlander Mark I review: the ultimate customizable ergonomic keyboard - The Verge
+
+Jay Peters - The Verge
+
+```
+If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.Ive spent a lot of time withmanyergonomickeyboards, but ZSAs Moonlander Mark I may be my favorite one… [+12778 chars]
+```
+
+[See More](https://www.theverge.com/22566248/zsa-moonlander-mark-i-1-ergonomic-keyboard-mechanical-review)
+
+## Global Tax Deal Heads Down Perilous Path in Congress - The Wall Street Journal
+
+Richard Rubin - The Wall Street Journal
+
+```
+WASHINGTONA complex international corporate tax deal that took years to hammer out soon faces one of its toughest tests: the U.S. Congress.
+The Group of 20 major economies backed the plan this weeke… [+1026 chars]
+```
+
+[See More](https://www.wsj.com/articles/global-tax-deal-heads-down-perilous-path-in-congress-11626008186)
+
+## Pope Francis delivers prayer from hospital window in his first public appearance after surgery - CNN 
+
+Hada Messia and Sharon Braithwaite, CNN - CNN
+
+```
+null
+```
+
+[See More](https://www.cnn.com/2021/07/11/europe/pope-sunday-prayer-intl-scli/index.html)
+
+## The Delta Variant: How this new strain of COVID is in a league of it's own | 60 Minutes Australia - 60 Minutes Australia
+
+null - Google News
+
+```
+null
+```
+
+[See More](https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N05QS2xYTTlNVGfSAQA?oc=5)
+
+## Conor McGregor incensed after injury loss to Dustin Poirier in UFC 264 trilogy bout: ‘This is not over’ - MMA Fighting
+
+Alexander K. Lee - MMA Fighting
+
+```
+The UFC 264 main event ended with a big win for Dustin Poirier, though the circumstances will likely leave many unsatisfied with the outcome.
+No one more so than the losing fighter, Conor McGregor.… [+1695 chars]
+```
+
+[See More](https://www.mmafighting.com/2021/7/11/22572011/conor-mcgregor-incensed-after-injury-loss-to-dustin-poirier-in-ufc-264-trilogy-bout-this-is-not-over)
+
+## Upcoming 14-inch and 16-inch MacBook Pro Rumored to Feature Upgraded 1080p Webcam - MacRumors
+
+Sami Fathi - MacRumors
+
+```
+The upcoming redesigned 14-inch and 16-inch MacBook Pro will feature an upgraded 1080p webcam, compared to the current 720p "FaceTime HD" camera in Apple's latest MacBook Air and MacBook Pro, accordi… [+1357 chars]
+```
+
+[See More](https://www.macrumors.com/2021/07/11/macbook-pro-14-and-16-upgraded-webcam/)
+
+## Ronald Acuña Jr. suffers torn ACL, will miss the remainder of the 2021 season - Talking Chop
+
+Kris Willis, Brad Rowland, Demetrius Bell, Eric Cole - Talking Chop
+
+```
+The injury list continues to grow for the Atlanta Braves who have now lost the one player that they could least afford to lose. Ronald Acuña Jr. went down in a heap while trying to field a liner off … [+608 chars]
+```
+
+[See More](https://www.talkingchop.com/2021/7/11/22572405/ronald-acuna-jr-injury-torn-acl-miss-remainder-2021-season-recovery)
+
+## Unvaccinated Belgian woman contracted two COVID variants simultaneously - Reuters
+
+Robin Emmott - Reuters
+
+```
+An employee at an elderly residence checks a person for coronavirus disease (COVID-19) as tests are performed among seniors in the country, in Brussels, Belgium, April 16, 2020. REUTERS/Yves HermanBR… [+1939 chars]
+```
+
+[See More](https://www.reuters.com/world/europe/unvaccinated-belgian-woman-contracted-two-covid-variants-simultaneously-2021-07-11/)
+
+## Donald Trump Jr. on his father's Sunday CPAC speech: 'People will be outraged' - Fox News
+
+Paul Steinhauser - Fox News
+
+```
+DALLAS Once again, the biggest draw will go last.
+Just as he did at the Conservative Political Action Conference (CPAC) in Orlando in February, former President Donald Trump will close this weekend'… [+3277 chars]
+```
+
+[See More](https://www.foxnews.com/politics/donald-trump-jr-father-sunday-cpac-speech-people-outraged)
 
 ## New York's attorney general keeps Albany — and Cuomo — waiting - POLITICO
 
@@ -20,6 +134,37 @@ The uncertainty has paralyzed much of New York's Democratic political apparatus.
 ```
 
 [See More](https://www.politico.com/news/2021/07/11/tish-james-report-cuomo-499032)
+
+## Elon Musk Is Called to Defend Tesla’s Purchase of SolarCity - The Wall Street Journal
+
+Rebecca Elliott, Dave Michaels - The Wall Street Journal
+
+```
+In 2016, Elon Musk had two unprofitable businesses on his hands in Tesla and SolarCity Corp. His solution to improve their outlook: combine them into a single clean-energy business. 
+Five years late… [+1203 chars]
+```
+
+[See More](https://www.wsj.com/articles/elon-musk-is-called-to-defend-teslas-purchase-of-solarcity-11626001200)
+
+## 3 Red-Hot Stocks That Could Continue to Crush the Market - Motley Fool
+
+Daniel Foelber, Scott Levine, and Lee Samaha - Motley Fool
+
+```
+Economic recovery concerns and inflation worries have been no match for a smoking-hot stock market. The industrial sector is helping to lead the charge. It sports a fair share of up-and-coming growth… [+6115 chars]
+```
+
+[See More](https://www.fool.com/investing/2021/07/11/3-red-hot-stocks-that-could-continue-to-crush-the/)
+
+## 'We cannot wait': Democrats craft voting bill with eye on Supreme Court fight - WLWT Cincinnati
+
+null - WLWT Cincinnati
+
+```
+WASHINGTON —As congressional Democrats gear up for another bruising legislative push to expand voting rights, much of their attention has quietly focused on a small yet crucial voting bloc with the p… [+6456 chars]
+```
+
+[See More](https://www.wlwt.com/article/democrats-voting-bill-eye-on-supreme-court-fight/36990397)
 
 ## Sean Penn Compares Trump’s Covid Vaccination Efforts to Machine Gun Attack on Vulnerable Communities - Yahoo Entertainment
 
@@ -32,185 +177,37 @@ The lon… [+2019 chars]
 
 [See More](https://www.yahoo.com/entertainment/sean-penn-compares-trump-covid-103738608.html)
 
-## VIDEO: Woman duct-taped to seat after attacking American Airlines crew - Business Insider
+## Trouble in Alaska? Massive oil pipeline is threatened by thawing permafrost - NBC News
 
-Sophia Ankel - Business Insider
-
-```
-A TikTok video shows a woman duct-taped to her seat on an American Airlines flight after she reportedly attacked flight attendants and attempted to open the plane's front door.
-The incident happened… [+2663 chars]
-```
-
-[See More](https://www.businessinsider.com/american-airlines-woman-duct-taped-seat-after-attacking-plane-crew-2021-7)
-
-## Messi played Copa America final with injury - Argentina coach - ESPN
-
-Reuters - ESPN
+David Hasemyer, Inside Climate News - NBC News
 
 ```
-Argentina coach Lionel Scaloni paid tribute to Lionel Messi on Saturday, praising his team captain and revealing he played in the Copa America win over Brazil with an injury.
-"If you knew the way th… [+1415 chars]
+The Trans-Alaska Pipeline, one of the worlds largest oil pipelines, could be in danger.
+Thawing permafrost threatens to undermine the supports holding up an elevated section of the pipeline, jeopard… [+7831 chars]
 ```
 
-[See More](https://www.espn.com/soccer/argentina-arg/story/4430565/messi-played-copa-america-final-with-injury-argentina-coach)
+[See More](https://www.nbcnews.com/news/us-news/trouble-alaska-massive-oil-pipeline-threatened-thawing-permafrost-n1273589)
 
-## Boos, Cheers As Donald Trump Attends UFC Fight—in Which Conor McGregor Breaks Leg - Newsweek
+## How the highly unusual Death Valley temperatures just got more complicated - CNN 
 
-Matt Cannon - Newsweek
-
-```
-Donald Trump was met by a cacophony of noise—some cheers, largely jeers—when he made a public appearance at a UFC fight in Las Vegas on Saturday night.
-The former president with his wife, Melania, w… [+2872 chars]
-```
-
-[See More](https://www.newsweek.com/donald-tump-attends-ufc-conor-mcgregor-breaks-leg-1608589)
-
-## Bill Cosby's Potential Stand-Up Tour Rejected by NYC's Comedy Cellar - TMZ
-
-TMZ Staff - TMZ
+Allison Chinchar, CNN Meteorologist - CNN
 
 ```
-Bill Cosby now knows there's at least one place his return to stand-up comedy won't take him -- one of New York City's most popular venues for comics is telling him, HELL NO.
-TMZ broke the story ...… [+1114 chars]
+Las Vegas, NV had a high of 117°F today (tied all-time record).
+You may be thinking:117°F? My phone/car says it's hotter!
+Elevation varies a lot across the #LasVegas Valley, so the temperature can … [+141 chars]
 ```
 
-[See More](https://www.tmz.com/2021/07/11/bill-cosby-standup-tour-rejected-comedy-cellar-new-york-city/)
+[See More](https://www.cnn.com/2021/07/11/weather/weather-death-valley-heat-record-california-weekend/index.html)
 
-## Ethiopia's Abiy Ahmed wins election in landslide amid Tigray conflict and voting fraud concerns - CNN 
+## Young Americans Aren’t Getting Vaccinated, Jeopardizing Covid-19 Fight - The Wall Street Journal
 
-Mia Alberti - CNN
-
-```
-(CNN)Ethiopian Prime Minister Abiy Ahmed's ruling Prosperity Party (PP) overwhelmingly won general elections Saturday, meaning he will stay in power another term, according to CNN affiliate Nation Me… [+1679 chars]
-```
-
-[See More](https://www.cnn.com/2021/07/11/africa/ethiopia-elections-intl-hnk/index.html)
-
-## Reports: Falcons cut Barkevious Mingo amid child sex offense case - NBC Sports
-
-Curtis Crabtree - NBCSports.com
+Laura Cooper, Sabrina Siddiqui - The Wall Street Journal
 
 ```
-The Atlanta Falcons have released linebacker Barkevious Mingo after allegations of indecent sexual conduct with a child came to light after he posted bond in Tarrant County, Texas, according to multi… [+1189 chars]
+Millions of Americans have rolled up their sleeves to get vaccinated against Covid-19, but one group is well behind: young adults.
+Their reluctance is a significant part of why the U.S. missed the B… [+856 chars]
 ```
 
-[See More](https://profootballtalk.nbcsports.com/2021/07/11/reports-falcons-cut-barkevious-mingo-amid-child-sex-offense-case/)
-
-## Covid Now Infecting Mostly Younger People In Los Angeles; 83% Of New Cases Under 50 Years Old - Deadline
-
-Tom Tapp - Deadline
-
-```
-Los Angeles County’s alarming spike in Covid cases continued on Saturday, with a second-consecutive 1,000-plus tally of daily infections. The county reported 1,094 new cases of and eight additional d… [+3791 chars]
-```
-
-[See More](https://deadline.com/2021/07/los-angeles-covid-targeting-oung-people-1234790306/)
-
-## Mom who was abducted with son in Amber Alert case found dead, reports say - NJ.com
-
-Riley Yates | NJ Advance Media for NJ.com, S.P. Sullivan | NJ Advance Media for NJ.com - nj.com
-
-```
-Yasemin Uyar, the New Jersey woman who police said was abducted along with her 2-year-old son by the boys father, was found dead in Tennessee, her mother told CBS New York late Saturday evening.
-Uya… [+2226 chars]
-```
-
-[See More](https://www.nj.com/news/2021/07/mom-who-was-abducted-with-son-in-amber-alert-case-found-dead-report-says.html)
-
-## VP Harris jokes 'maybe I don't say ‘no’ enough' to Biden - New York Post 
-
-Jesse O’Neill - New York Post
-
-```
-Vice President Kamala Harris joked “maybe I don’t say no enough,” when asked about the major responsibilities that have been delegated to her by President Biden.
-Harris made the quip when asked abou… [+1595 chars]
-```
-
-[See More](https://nypost.com/2021/07/10/kamala-harris-jokes-maybe-i-dont-say-no-enough-to-joe-biden/)
-
-## Haiti's wounded first lady rips ‘gutless’ killers - New York Post 
-
-Eileen AJ Connelly - New York Post
-
-```
-The hospitalized wife of Haitis assassinated President Jovenel Moïse Saturday accused her husbands enemies of wanting to kill his dream, his vision, his ideology. 
-Im alive, thanks to God, Martine M… [+2748 chars]
-```
-
-[See More](https://nypost.com/2021/07/10/haitis-wounded-first-lady-rips-gutless-killers/)
-
-## Marvel's Kevin Feige On Why Black Widow Is Set Between Civil War & Infinity War - Screen Rant
-
-null - Google News
-
-```
-null
-```
-
-[See More](https://news.google.com/__i/rss/rd/articles/CBMiSGh0dHBzOi8vc2NyZWVucmFudC5jb20vYmxhY2std2lkb3ctbW92aWUtbWN1LXRpbWVsaW5lLXNldHRpbmctZmVpZ2Utd2h5L9IBTGh0dHBzOi8vc2NyZWVucmFudC5jb20vYmxhY2std2lkb3ctbW92aWUtbWN1LXRpbWVsaW5lLXNldHRpbmctZmVpZ2Utd2h5L2FtcC8?oc=5)
-
-## Zachary Levi Steps Out With Rumored Girlfriend at 2021 ESPYS - E! NEWS
-
-Mike Vulpo - Eonline.com
-
-```
-Sorry ladies, but Zachary Levi may be taken this summer.
-When arriving at the 2021 ESPYS on Saturday, July 10, the actor didn't walk the red carpet solo. Instead, Zachary was able to pose with rumor… [+818 chars]
-```
-
-[See More](https://www.eonline.com/news/1287575/zachary-levi-steps-out-with-rumored-girlfriend-at-2021-espys)
-
-## Death Valley Posts 130-Degree Heat, Potentially Matching A Record High - NPR
-
-Dave Mistich - NPR
-
-```
-A person walks on a boardwalk at the salt flats at Badwater Basin on Aug. 17, 2020, in Death Valley National Park in California. Temperatures reached 130 degrees there on Friday.
-John Locher/AP
-The… [+1767 chars]
-```
-
-[See More](https://www.npr.org/2021/07/10/1014941439/death-valley-posts-130-degree-heat-potentially-matching-a-record-high)
-
-## Team USA stunned by Nigeria in rare exhibition basketball loss ahead of Tokyo Olympics - ESPN India
-
-Brian Windhorst - ESPN India
-
-```
-LAS VEGAS -- Team USA suffered a stunning and sobering defeat in its first exhibition game before the Olympics, getting outplayed by Nigeria in a 90-87 loss Saturday night.
-Coming into the game the … [+3021 chars]
-```
-
-[See More](https://www.espn.in/olympics/story/_/id/31797509/team-usa-stunned-nigeria-rare-exhibition-loss-ahead-tokyo-olympics)
-
-## California reports first 2021 death from West Nile virus - KABC-TV
-
-null - KABC-TV
-
-```
-California is reporting the state's first death this year from the West Nile virus.Public health officials say a resident of San Luis Obispo County died from complications of the mosquito-born virus,… [+386 chars]
-```
-
-[See More](https://abc7.com/west-nile-virus-death-california-san-luis-obispo-county/10878072/)
-
-## 'A problem that doesn't exist': Democrats, activists slam Texas voter fraud bills - NBC News
-
-Jane C. Timm - NBC News
-
-```
-Hundreds of Texans flooded the state Capitol on Saturday, some waiting late into the evening to testify on a pair of restrictive voting bills that Republican lawmakers are pushing through the state L… [+4822 chars]
-```
-
-[See More](https://www.nbcnews.com/politics/elections/problem-doesn-t-exist-democrats-activists-slam-texas-voter-fraud-n1273634)
-
-## Elon Musk says SpaceX still growing in Texas, plans rocket engine factory near Waco - Austin American-Statesman
-
-Kara Carlson, Austin American-Statesman - Austin American-Statesman
-
-```
-SpaceX will break ground soon on a rocket engine factory near Waco, CEO Elon Musk said Saturday, detailing the plan in a series of posts on social media. 
-The facility, which will be in McGregor, wi… [+4261 chars]
-```
-
-[See More](https://www.statesman.com/story/business/2021/07/10/elon-musk-says-spacex-still-growing-texas-plans-rocket-engine-factory-near-waco/7927169002/)
+[See More](https://www.wsj.com/articles/young-americans-arent-getting-vaccinated-jeopardizing-covid-19-fight-11625995802)
 
