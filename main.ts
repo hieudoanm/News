@@ -1,20 +1,23 @@
 import dotenv from "dotenv";
 import { saveCoins } from "./services/crypto-currency";
-import { saveTrends } from "./services/trends";
 import { saveArticles } from "./services/local";
 import { saveCards } from "./services/tarot";
+import { saveTrends } from "./services/trends";
 import { saveWeather } from "./services/weather";
 import { saveSources, saveTopHeadlines } from "./services/world";
+import { saveCategories, saveYouTube } from "./services/youtube";
 dotenv.config();
 
 const main = async () => {
-  await saveCards();
+  await saveCategories();
   await saveCoins();
   await saveTrends();
   await saveWeather();
   await saveArticles();
   await saveSources();
   await saveTopHeadlines();
+  await saveYouTube();
+  await saveCards();
 
   process.exit(0);
 };

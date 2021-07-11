@@ -4,7 +4,6 @@ import { Article, getArticles } from "../libs/news";
 export const saveArticles = async (): Promise<void> => {
   const { total, articles } = await getArticles();
 
-  console.log("total", total);
   const jsonFile: string = "./data/articles";
   const jsonData: string = JSON.stringify({ total, articles }, null, 2);
   await fs.writeFileSync(`${jsonFile}.json`, jsonData);

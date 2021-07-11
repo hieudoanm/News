@@ -72,8 +72,8 @@ export const saveSources = async (): Promise<void> => {
 
 export const saveTopHeadlines = async (): Promise<void> => {
   const { message, total, articles } = await getTopHeadlines({ country: "us" });
+  console.log("message", message);
 
-  console.log("message", message, total);
   const jsonFile: string = "./data/top-headlines";
   const jsonData: string = JSON.stringify({ total, articles }, null, 2);
   await fs.writeFileSync(`${jsonFile}.json`, jsonData);
