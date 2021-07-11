@@ -138,8 +138,8 @@ const getWeather = async (city: string): Promise<Weather> => {
   return { name, temp, feelsLike, main, description, aqius, color, forecast };
 };
 
-export const saveWeather = async () => {
-  const weather: Weather = await getWeather("hanoi");
+const getWeatherByCityMarkdown = async (city: string): Promise<string> => {
+  const weather: Weather = await getWeather(city);
   const {
     name,
     temp,
@@ -152,9 +152,7 @@ export const saveWeather = async () => {
   const filteredForecast = forecast.filter((_, index: number) => {
     return index % 3 === 0;
   });
-  const markdown: string = `# Weather
-
-## ${name}
+  return `## ${name}
 
 Air Visual: ${aqius}
 
@@ -211,7 +209,20 @@ ${filteredForecast
 
 </tbody>
 
-</table>
+</table>`;
+};
+
+export const saveWeather = async () => {
+  const hnMarkdown: string = await getWeatherByCityMarkdown("hanoi");
+  const hcmMarkdown: string = await getWeatherByCityMarkdown(
+    "ho chi minh city"
+  );
+
+  const markdown: string = `# Weather
+
+${hnMarkdown}
+
+${hcmMarkdown}
 `;
 
   await fs.writeFileSync("./WEATHER.md", markdown);
