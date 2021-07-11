@@ -2,7 +2,7 @@
 
 ## Hanoi
 
-Air Visual: 60
+Air Visual: 69
 
 <table>
 
@@ -46,15 +46,15 @@ Air Visual: 60
 <tr>
 
 <td width="14.2%">
-<div>32°C - 39°C</div>
+<div>28°C - 32°C</div>
 <div>Clouds</div>
 <div>OVERCAST CLOUDS</div>
 </td>
 
 <td width="14.2%">
-<div>31°C - 37°C</div>
+<div>31°C - 38°C</div>
 <div>Clouds</div>
-<div>BROKEN CLOUDS</div>
+<div>OVERCAST CLOUDS</div>
 </td>
 <td width="14.2%">
 <div>28°C - 32°C</div>
@@ -90,7 +90,7 @@ Air Visual: 60
 
 ## Ho Chi Minh City
 
-Air Visual: 29
+Air Visual: 37
 
 <table>
 
@@ -134,13 +134,13 @@ Air Visual: 29
 <tr>
 
 <td width="14.2%">
-<div>29°C - 34°C</div>
+<div>29°C - 35°C</div>
 <div>Clouds</div>
 <div>SCATTERED CLOUDS</div>
 </td>
 
 <td width="14.2%">
-<div>28°C - 32°C</div>
+<div>29°C - 35°C</div>
 <div>Rain</div>
 <div>LIGHT RAIN</div>
 </td>
