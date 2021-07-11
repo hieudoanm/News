@@ -2,7 +2,7 @@
 
 ## Hanoi
 
-Air Visual: 57
+Air Visual: 55
 
 <table>
 

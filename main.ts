@@ -6,6 +6,7 @@ import { saveTrends } from "./services/trends";
 import { saveWeather } from "./services/weather";
 import { saveSources, saveTopHeadlines } from "./services/world";
 import { saveCategories, saveYouTube } from "./services/youtube";
+import { saveDevTo } from "./services/dev-to";
 dotenv.config();
 
 const main = async () => {
@@ -13,6 +14,7 @@ const main = async () => {
   await saveCoins();
   await saveTrends();
   await saveWeather();
+  await saveDevTo();
   await saveArticles();
   await saveSources();
   await saveTopHeadlines();
