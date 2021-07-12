@@ -7,12 +7,14 @@ import { saveArticles } from "./services/local";
 import { saveCards } from "./services/tarot";
 import { saveTrends } from "./services/trends";
 import { saveCommittees, saveMembers } from "./services/usa";
+import { saveVietnam } from "./services/vietnam";
 import { saveWeather } from "./services/weather";
 import { saveSources, saveTopHeadlines } from "./services/world";
 import { saveCategories, saveYouTube } from "./services/youtube";
 dotenv.config();
 
 const main = async () => {
+  await saveVietnam();
   await saveCommittees();
   await saveMembers();
   await saveCountries();

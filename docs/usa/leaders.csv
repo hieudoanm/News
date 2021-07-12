@@ -1,0 +1,117 @@
+congress,from,to,house_majority,house_speaker,house_majority_leader,house_minority,house_minority_leader,senate_majority,senate_majority_leader,senate_minority,senate_minority_leader
+1,1789,1791,Pro-Administration,Frederick Muhlenberg (Pennsylvania - at-large),-,-,-,-,-,-,-
+2,1791,1793,Pro-Administration,Jonathan Trumbull Jr. (Connecticut - at-large),-,-,-,-,-,-,-
+3,1793,1795,Anti-Administration,Frederick Muhlenberg (Pennsylvania - at-large),-,-,-,-,-,-,-
+4,1795,1797,Federalist,Jonathan Dayton (New Jersey - at-large),-,-,-,-,-,-,-
+5,1797,1799,Federalist,Jonathan Dayton (New Jersey - at-large),-,-,-,-,-,-,-
+6,1799,1801,Federalist,Theodore Sedgwick (Massachusetts - 1),-,-,-,-,-,-,-
+7,1801,1803,Democratic-Republican,Nathaniel Macon (North Carolina - 5),-,-,-,-,-,-,-
+8,1803,1805,Democratic-Republican,Nathaniel Macon (North Carolina - 6),-,-,-,-,-,-,-
+9,1805,1807,Democratic-Republican,Nathaniel Macon (North Carolina - 6),-,-,-,-,-,-,-
+10,1807,1809,Democratic-Republican,Joseph Bradley Varnum (Massachusetts - 4),-,-,-,-,-,-,-
+11,1809,1811,Democratic-Republican,Joseph Bradley Varnum (Massachusetts - 4),-,-,-,-,-,-,-
+12,1811,1813,Democratic-Republican,Henry Clay (Kentucky - 5),-,-,-,-,-,-,-
+13,1813,1815,Democratic-Republican,Henry Clay (Kentucky - 2) && Langdon Cheves (South Carolina - 1),-,-,-,-,-,-,-
+14,1815,1817,Democratic-Republican,Henry Clay (Kentucky - 2),-,-,-,-,-,-,-
+15,1817,1819,Democratic-Republican,Henry Clay (Kentucky - 2),-,-,-,-,-,-,-
+16,1819,1821,Democratic-Republican,Henry Clay (Kentucky - 2) && John W. Taylor (New York - 11),-,-,-,-,-,-,-
+17,1821,1823,Democratic-Republican,Philip Pendleton Barbour (Virginia - 11),-,-,-,-,-,-,-
+18,1823,1825,Democratic-Republican,Henry Clay (Kentucky - 3),-,-,-,-,-,-,-
+19,1825,1827,Anti-Jacksonian,John W. Taylor (New York - 17),-,-,-,-,-,-,-
+20,1827,1829,Jacksonian,Andrew Stevenson (Virginia - 9),-,-,-,-,-,-,-
+21,1829,1831,Jacksonian,Andrew Stevenson (Virginia - 9),-,-,-,-,-,-,-
+22,1831,1833,Jacksonian,Andrew Stevenson (Virginia - 9),-,-,-,-,-,-,-
+23,1833,1835,Jacksonian,Andrew Stevenson (Virginia - 11) && John Bell (Tennessee - 7),-,-,-,-,-,-,-
+24,1835,1837,Jacksonian,James K. Polk (Tennessee - 9),-,-,-,-,-,-,-
+25,1837,1839,Democratic,James K. Polk (Tennessee - 9),-,-,-,-,-,-,-
+26,1839,1841,Whig,Robert M. T. Hunter (Virginia - 9),-,-,-,-,-,-,-
+27,1841,1843,Whig,John White (Kentucky - 9),-,-,-,-,-,-,-
+28,1843,1845,Democratic,John Winston Jones (Virginia - 6),-,-,-,-,-,-,-
+29,1845,1847,Democratic,John Wesley Davis (Indiana - 6),-,-,-,-,-,-,-
+30,1847,1849,Whig,Robert Charles Winthrop (Massachusetts - 1),-,-,-,-,-,-,-
+31,1849,1851,Democratic,Howell Cobb (Georgia - 6),-,-,-,-,-,-,-
+32,1851,1853,Democratic,Linn Boyd (Kentucky - 1),-,-,-,-,-,-,-
+33,1855,1855,Democratic,Linn Boyd (Kentucky - 1),-,-,-,-,-,-,-
+34,1855,1857,Know Nothing,Nathaniel P. Banks (Massachusetts - 7),-,-,-,-,-,-,-
+35,1857,1859,Democratic,James Lawrence Orr (South Carolina - 5),-,-,-,-,-,-,-
+36,1859,1861,Republican,William Pennington (New Jersey - 5),-,-,-,-,-,-,-
+37,1861,1863,Republican,Galusha A. Grow (Pennsylvania - 14),-,-,-,-,-,-,-
+38,1863,1865,Republican,Schuyler Colfax (Indiana - 9),-,-,-,-,-,-,-
+39,1865,1867,Republican,Schuyler Colfax (Indiana - 9),-,-,-,-,-,-,-
+40,1867,1869,Republican,Schuyler Colfax (Indiana - 9) && Theodore M. Pomeroy (New York - 24),-,-,-,-,-,-,-
+41,1869,1871,Republican,James G. Blaine (Maine - 3),-,-,-,-,-,-,-
+42,1871,1873,Republican,James G. Blaine (Maine - 3),-,-,-,-,-,-,-
+43,1873,1875,Republican,James G. Blaine (Maine - 3),-,-,-,-,-,-,-
+44,1875,1877,Democratic,Michael C. Kerr (Indiana - 3) && Samuel J. Randall (Pennsylvania - 3),-,-,-,-,-,-,-
+45,1877,1879,Democratic,Samuel J. Randall (Pennsylvania - 3),-,-,-,-,-,-,-
+46,1879,1881,Democratic,Samuel J. Randall (Pennsylvania - 3),-,-,-,-,-,-,-
+47,1881,1883,Republican,J. Warren Keifer (Ohio - 8),-,-,-,-,-,-,-
+48,1883,1885,Democratic,John G. Carlisle (Kentucky - 6),-,-,-,-,-,-,-
+49,1885,1887,Democratic,John G. Carlisle (Kentucky - 6),-,-,-,-,-,-,-
+50,1887,1889,Democratic,John G. Carlisle (Kentucky - 6),-,-,-,-,-,-,-
+51,1889,1891,Republican,Thomas Brackett Reed (Maine - 1),-,-,-,-,-,-,-
+52,1891,1893,Democratic,Charles Frederick Crisp (Georgia - 3),-,-,-,-,-,-,-
+53,1893,1895,Democratic,Charles Frederick Crisp (Georgia - 3),-,-,-,-,-,-,-
+54,1895,1897,Republican,Thomas Brackett Reed (Maine - 1),-,-,-,-,-,-,-
+55,1897,1899,Republican,Thomas Brackett Reed (Maine - 1),-,-,-,-,-,-,-
+56,1899,1901,Republican,David B. Henderson (Iowa - 3),Sereno E. Payne (New York),Democratic,James D. Richardson (Tennessee),-,-,-,-
+57,1901,1903,Republican,David B. Henderson (Iowa - 3),Sereno E. Payne (New York),Democratic,James D. Richardson (Tennessee),-,-,-,-
+58,1903,1905,Republican,Joseph Gurney Cannon (Illinois - 18),Sereno E. Payne (New York),Democratic,John Sharp Williams (Mississippi),-,-,-,-
+59,1905,1907,Republican,Joseph Gurney Cannon (Illinois - 18),Sereno E. Payne (New York),Democratic,John Sharp Williams (Mississippi),-,-,-,-
+60,1907,1909,Republican,Joseph Gurney Cannon (Illinois - 18),Sereno E. Payne (New York),Democratic,John Sharp Williams (Mississippi),-,-,-,-
+61,1909,1911,Republican,Joseph Gurney Cannon (Illinois - 18),Sereno E. Payne (New York),Democratic,Champ Clark (Missouri),-,-,-,-
+62,1911,1913,Democratic,Champ Clark (Missouri - 9),Oscar Underwood (Alabama),Republican,James Mann (Illinois),-,-,-,-
+63,1913,1915,Democratic,Champ Clark (Missouri - 9),Oscar Underwood (Alabama),Republican,James Mann (Illinois),-,-,-,-
+64,1915,1917,Democratic,Champ Clark (Missouri - 9),Claude Kitchin (North Carolina),Republican,James Mann (Illinois),-,-,-,-
+65,1917,1919,Democratic,Champ Clark (Missouri - 9),Claude Kitchin (North Carolina),Republican,James Mann (Illinois),-,-,-,-
+66,1919,1921,Republican,Frederick H. Gillett (Massachusetts - 2),Frank W. Mondell (Wyoming),Democratic,Champ Clark (Missouri - 9),-,-,Democratic,Oscar W. Underwood (AL)
+67,1921,1923,Republican,Frederick H. Gillett (Massachusetts - 2),Frank W. Mondell (Wyoming),Democratic,Claude Kitchin (North Carolina),-,-,Democratic,Oscar W. Underwood (AL)
+68,1923,1925,Republican,Frederick H. Gillett (Massachusetts - 2),Nicholas Longworth (Ohio),Democratic,Finis J. Garrett (Tennessee),-,-,Democratic,Joseph T. Robinson (AR)
+69,1925,1927,Republican,Nicholas Longworth (Ohio - 1),John Q. Tilson (Connecticut),Democratic,Finis J. Garrett (Tennessee),Republican,Charles Curtis (KS),Democratic,Joseph T. Robinson (AR)
+70,1927,1929,Republican,Nicholas Longworth (Ohio - 1),John Q. Tilson (Connecticut),Democratic,Finis J. Garrett (Tennessee),Republican,Charles Curtis (KS),Democratic,Joseph T. Robinson (AR)
+71,1929,1931,Republican,Nicholas Longworth (Ohio - 1),John Q. Tilson (Connecticut),Democratic,John Nance Garner (Texas),Republican,James E. Watson (IN),Democratic,Joseph T. Robinson (AR)
+72,1931,1933,Democratic,John Nance Garner (Texas - 15),Henry T. Rainey (Illinois),Republican,Bertrand Snell (New York),Republican,James E. Watson (IN),Democratic,Joseph T. Robinson (AR)
+73,1933,1935,Democratic,Henry Thomas Rainey (Illinois - 20),Jo Byrns (Tennessee),Republican,Bertrand Snell (New York),Democratic,Joseph T. Robinson (AR),Republican,Charles L. McNary (OR)
+74,1935,1937,Democratic,Joseph W. Byrns Sr. (Tennessee - 5) && William B. Bankhead (Alabama - 7),William Bankhead (Alabama) && Sam Rayburn (Texas),Republican,Bertrand Snell (New York),Democratic,Joseph T. Robinson (AR),Republican,Charles L. McNary (OR)
+75,1937,1939,Democratic,William B. Bankhead (Alabama - 7),Sam Rayburn (Texas),Republican,Bertrand Snell (New York),Democratic,Joseph T. Robinson (AR) & Alben W. Barkley (KY),Republican,Charles L. McNary (OR)
+76,1939,1941,Democratic,William B. Bankhead (Alabama - 7) && Sam Rayburn (Texas - 4),Sam Rayburn (Texas) && John W. McCormack (Massachusetts),Republican,Joseph W. Martin Jr. (Massachusetts),Democratic,Alben W. Barkley (KY),Republican,Charles L. McNary (OR)
+77,1941,1943,Democratic,Sam Rayburn (Texas - 4),John W. McCormack (Massachusetts),Republican,Joseph W. Martin Jr. (Massachusetts),Democratic,Alben W. Barkley (KY),Republican,Charles L. McNary (OR)
+78,1943,1945,Democratic,Sam Rayburn (Texas - 4),John W. McCormack (Massachusetts),Republican,Joseph W. Martin Jr. (Massachusetts),Democratic,Alben W. Barkley (KY),Republican,Wallace H. White Jr. (ME)
+79,1945,1947,Democratic,Sam Rayburn (Texas - 4),John W. McCormack (Massachusetts),Republican,Joseph W. Martin Jr. (Massachusetts),Democratic,Alben W. Barkley (KY),Republican,Wallace H. White Jr. (ME)
+80,1947,1949,Republican,Joseph W. Martin Jr. (Massachusetts - 14),Charles Halleck (Indiana),Democratic,Sam Rayburn (Texas),Republican,Wallace H. White Jr. (ME),Republican,Alben W. Barkley (KY)
+81,1949,1951,Democratic,Sam Rayburn (Texas - 4),John W. McCormack (Massachusetts),Republican,Joseph W. Martin Jr. (Massachusetts),Democratic,Scott W. Lucas (IL),Republican,Kenneth S. Wherry (NE)
+82,1951,1953,Democratic,Sam Rayburn (Texas - 4),John W. McCormack (Massachusetts),Republican,Joseph W. Martin Jr. (Massachusetts),Democratic,Ernest W. McFarla (AZ),Republican,Kenneth S. Wherry (NE) & Styles Bridges (NH)
+83,1953,1955,Republican,Joseph W. Martin Jr. (Massachusetts - 14),Charles Halleck (Indiana),Democratic,Sam Rayburn (Texas),Republican,Robert Taft Jr. (OH) & William F. Knowla (CA),Democratic,Lyndon B. Johnson (TX)
+84,1955,1957,Democratic,Sam Rayburn (Texas - 4),,Republican,,Democratic,Lyndon B. Johnson (TX),Republican,William F. Knowla (CA)
+85,1957,1959,Democratic,Sam Rayburn (Texas - 4),,Republican,,Democratic,Lyndon B. Johnson (TX),Republican,William F. Knowla (CA)
+86,1959,1961,Democratic,Sam Rayburn (Texas - 4),,Republican,,Democratic,Lyndon B. Johnson (TX),Republican,Everett M. Dirksen (IL)
+87,1961,1963,Democratic,Sam Rayburn (Texas - 4) && John W. McCormack (Massachusetts - 12),,Republican,,Democratic,Mike Mansfield (MT),Republican,Everett M. Dirksen (IL)
+88,1963,1965,Democratic,John W. McCormack (Massachusetts - 9),,Republican,,Democratic,Mike Mansfield (MT),Republican,Everett M. Dirksen (IL)
+89,1965,1967,Democratic,John W. McCormack (Massachusetts - 9),,Republican,,Democratic,Mike Mansfield (MT),Republican,Everett M. Dirksen (IL)
+90,1967,1969,Democratic,John W. McCormack (Massachusetts - 9),,Republican,,Democratic,Mike Mansfield (MT),Republican,Everett M. Dirksen (IL)
+91,1969,1971,Democratic,John W. McCormack (Massachusetts - 9),,Republican,,Democratic,Mike Mansfield (MT),Republican,Everett M. Dirksen (IL) && Hugh D. Scott Jr. (PA)
+92,1971,1973,Democratic,Carl Albert (Oklahoma - 3),,Republican,,Democratic,Mike Mansfield (MT),Republican,Hugh D. Scott Jr. (PA)
+93,1973,1975,Democratic,Carl Albert (Oklahoma - 3),,Republican,,Democratic,Mike Mansfield (MT),Republican,Hugh D. Scott Jr. (PA)
+94,1975,1977,Democratic,Carl Albert (Oklahoma - 3),,Republican,,Democratic,Mike Mansfield (MT),Republican,Hugh D. Scott Jr. (PA)
+95,1977,1979,Democratic,Tip O'Neill (Massachusetts - 8),,Republican,,Democratic,Robert C. By (WV),Republican,Howard H. Baker Jr. (TN)
+96,1979,1981,Democratic,Tip O'Neill (Massachusetts - 8),,Republican,,Democratic,Robert C. By (WV),Republican,Howard H. Baker Jr. (TN)
+97,1981,1983,Democratic,Tip O'Neill (Massachusetts - 8),,Republican,,Republican,Howard H. Baker Jr. (TN),Democratic,Robert C. By (WV)
+98,1983,1985,Democratic,Tip O'Neill (Massachusetts - 8),,Republican,,Republican,Howard H. Baker Jr. (TN),Democratic,Robert C. By (WV)
+99,1985,1987,Democratic,Tip O'Neill (Massachusetts - 8),,Republican,,Republican,Robert J. Dole (KS),Democratic,Robert C. By (WV)
+100,1987,1989,Democratic,Jim Wright (Texas - 12),,Republican,,Democratic,Robert C. By (WV),Republican,Robert J. Dole (KS)
+101,1989,1991,Democratic,Jim Wright (Texas - 12) && Tom Foley (Washington - 5),,Republican,,Democratic,George J. Mitchell (ME),Republican,Robert J. Dole (KS)
+102,1991,1993,Democratic,Tom Foley (Washington - 5),,Republican,,Democratic,George J. Mitchell (ME),Republican,Robert J. Dole (KS)
+103,1993,1995,Democratic,Tom Foley (Washington - 5),,Republican,,Democratic,George J. Mitchell (ME),Republican,Robert J. Dole (KS)
+104,1995,1997,Republican,Newt Gingrich (Georgia 6),,Democratic,,Republican,Robert J. Dole (KS),Democratic,Thomas A. Daschle (SD)
+105,1997,1999,Republican,Newt Gingrich (Georgia 6),,Democratic,,Republican,Trent Lott (MS),Democratic,Thomas A. Daschle (SD)
+106,1999,2001,Republican,Dennis Hastert (Illinois 14),,Democratic,,Republican,Trent Lott (MS),Democratic,Thomas A. Daschle (SD)
+107,2001,2003,Republican,Dennis Hastert (Illinois 14),,Democratic,,Democratic,Thomas A. Daschle (SD),Republican,Trent Lott (MS)
+108,2003,2005,Republican,Dennis Hastert (Illinois 14),,Democratic,,Republican,William H. Fri (TN),Democratic,Thomas A. Daschle (SD)
+109,2005,2007,Republican,Dennis Hastert (Illinois 14),,Democratic,,Republican,William H. Fri (TN),Democratic,Harry Reid (NV)
+110,2007,2009,Democratic,Nancy Pelosi (California - 8),,Republican,,Democratic,Harry Reid (NV),Republican,Mitch McConnell (KY)
+111,2009,2011,Democratic,Nancy Pelosi (California - 8),,Republican,,Democratic,Harry Reid (NV),Republican,Mitch McConnell (KY)
+112,2011,2013,Republican,John Boehner (Ohio - 8),,Democratic,,Democratic,Harry Reid (NV),Republican,Mitch McConnell (KY)
+113,2013,2015,Republican,John Boehner (Ohio - 8),,Democratic,,Democratic,Harry Reid (NV),Republican,Mitch McConnell (KY)
+114,2015,2017,Republican,John Boehner (Ohio - 8) && Paul Ryan (Wisconsin - 1),,Democratic,,Republican,Mitch McConnell (KY),Democratic,Harry Reid (NV)
+115,2017,2019,Republican,Paul Ryan (Wisconsin - 1),,Democratic,,Republican,Mitch McConnell (KY),Democratic,Charles E. Schumer (NY)
+116,2019,2021,Democratic,Nancy Pelosi (California - 12),,Republican,,Republican,Mitch McConnell (KY),Democratic,Charles E. Schumer (NY)

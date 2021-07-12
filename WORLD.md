@@ -1,69 +1,36 @@
 # News
 
-## Virgin Galactic's Richard Branson flying own rocket to space - Associated Press
+## Haiti announces arrest of leading suspect in president’s killing as FBI, Homeland Security officials arrive to discuss U.S. assistance - The Washington Post
 
-Susan Montoya Bryan - Associated Press
-
-```
-TRUTH OR CONSEQUENCES, N.M. (AP) Thrill-seeking billionaire Richard Branson strapped in and set off Sunday on his boldest adventure yet a bid to reach space aboard his own winged rocket ship.
-A succ… [+1777 chars]
-```
-
-[See More](https://apnews.com/article/virgin-galactic-launch-richard-branson-37fd721264b1421f8a1223ee5e5626e3)
-
-## Video shows woman duct-taped to seat after trying to open airplane door - Fox News
-
-New York Post - Www.https
+Widlore Merancourt, Samantha Schmidt - The Washington Post
 
 ```
-Now thats a sticky situation.
-An apparently unhinged woman was duct-taped to an airplane seat last week after she allegedly attacked the flight crew and tried to open the door of the aircraft in mid… [+2504 chars]
+National Police Chief Leon Charles said Christian Emmanuel Sanon, 63, landed in Haiti on a private plane in early June with political objectives and recruited a team through a Venezuelan security fir… [+6966 chars]
 ```
 
-[See More](https://www.https://nypost.com/2021/07/11/video-shows-woman-duct-taped-to-seat-after-trying-to-open-airplane-door-on-american-airlines-flight/)
+[See More](https://www.washingtonpost.com/world/2021/07/11/haiti-assassination-fbi-dhs/)
 
-## Creepypasta and the search for the ghost in the machine - Ars Technica
+## 'Eat more pasta' - Bonucci trolls England after Italy's Euro 2020 final penalty shootout triumph - Goal.com
 
-null - Financial Times
-
-```
-It was the music, they said, that drove the children to madness. The eerie, detuned soundtrack to Pokémon Red’s Lavender Town contained harmful sonic irregularities played at such high frequencies th… [+4676 chars]
-```
-
-[See More](https://www.ft.com/content/684352b6-f57e-49cd-83f5-654fd3e52a41)
-
-## ZSA Moonlander Mark I review: the ultimate customizable ergonomic keyboard - The Verge
-
-Jay Peters - The Verge
+Sporting News - Sporting News
 
 ```
-If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.Ive spent a lot of time withmanyergonomickeyboards, but ZSAs Moonlander Mark I may be my favorite one… [+12778 chars]
-```
-
-[See More](https://www.theverge.com/22566248/zsa-moonlander-mark-i-1-ergonomic-keyboard-mechanical-review)
-
-## Global Tax Deal Heads Down Perilous Path in Congress - The Wall Street Journal
-
-Richard Rubin - The Wall Street Journal
 
 ```
-WASHINGTONA complex international corporate tax deal that took years to hammer out soon faces one of its toughest tests: the U.S. Congress.
-The Group of 20 major economies backed the plan this weeke… [+1026 chars]
-```
 
-[See More](https://www.wsj.com/articles/global-tax-deal-heads-down-perilous-path-in-congress-11626008186)
+[See More](https://www.sportingnews.com/ca/soccer)
 
-## Pope Francis delivers prayer from hospital window in his first public appearance after surgery - CNN 
+## Demonstrators In Havana Protest Shortages, Rising Prices - NPR
 
-Hada Messia and Sharon Braithwaite, CNN - CNN
+null - NPR
 
 ```
-null
+Plainclothes police detain an anti-government protester during a protest in Havana, Cuba, on Sunday. Hundreds of demonstrators went out to the streets in several cities in Cuba to protest against ong… [+2515 chars]
 ```
 
-[See More](https://www.cnn.com/2021/07/11/europe/pope-sunday-prayer-intl-scli/index.html)
+[See More](https://www.npr.org/2021/07/11/1015140038/demonstrators-in-havana-protest-shortages-rising-prices)
 
-## The Delta Variant: How this new strain of COVID is in a league of it's own | 60 Minutes Australia - 60 Minutes Australia
+## Playoff Shakeup! Extended Highlights from Atlanta Quaker State 400 presented by Walmart - NASCAR
 
 null - Google News
 
@@ -71,143 +38,176 @@ null - Google News
 null
 ```
 
-[See More](https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N05QS2xYTTlNVGfSAQA?oc=5)
+[See More](https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UzZKUXg2RjhvMEXSAQA?oc=5)
 
-## Conor McGregor incensed after injury loss to Dustin Poirier in UFC 264 trilogy bout: ‘This is not over’ - MMA Fighting
+## Pittsburgh Pirates draft Louisville catcher Henry Davis with No. 1 pick; Jack Leiter goes to Texas Rangers at No. 2 - ESPN
 
-Alexander K. Lee - MMA Fighting
-
-```
-The UFC 264 main event ended with a big win for Dustin Poirier, though the circumstances will likely leave many unsatisfied with the outcome.
-No one more so than the losing fighter, Conor McGregor.… [+1695 chars]
-```
-
-[See More](https://www.mmafighting.com/2021/7/11/22572011/conor-mcgregor-incensed-after-injury-loss-to-dustin-poirier-in-ufc-264-trilogy-bout-this-is-not-over)
-
-## Upcoming 14-inch and 16-inch MacBook Pro Rumored to Feature Upgraded 1080p Webcam - MacRumors
-
-Sami Fathi - MacRumors
+David Schoenfield - ESPN
 
 ```
-The upcoming redesigned 14-inch and 16-inch MacBook Pro will feature an upgraded 1080p webcam, compared to the current 720p "FaceTime HD" camera in Apple's latest MacBook Air and MacBook Pro, accordi… [+1357 chars]
+The Pittsburgh Pirates selected Louisville catcher Henry Davis with the first pick in baseball's amateur draft on Sunday night.
+In a draft without a clear-cut top prospect, it remained unclear who t… [+8061 chars]
 ```
 
-[See More](https://www.macrumors.com/2021/07/11/macbook-pro-14-and-16-upgraded-webcam/)
+[See More](https://www.espn.com/mlb/story/_/id/31802907/pittsburgh-pirates-select-louisville-catcher-henry-davis-top-overall-pick-2021-mlb-draft)
 
-## Ronald Acuña Jr. suffers torn ACL, will miss the remainder of the 2021 season - Talking Chop
+## Huge leak indicates that Samsung’s next Galaxy Unpacked may bring new foldables, smartwatches, and earbuds - The Verge
 
-Kris Willis, Brad Rowland, Demetrius Bell, Eric Cole - Talking Chop
-
-```
-The injury list continues to grow for the Atlanta Braves who have now lost the one player that they could least afford to lose. Ronald Acuña Jr. went down in a heap while trying to field a liner off … [+608 chars]
-```
-
-[See More](https://www.talkingchop.com/2021/7/11/22572405/ronald-acuna-jr-injury-torn-acl-miss-remainder-2021-season-recovery)
-
-## Unvaccinated Belgian woman contracted two COVID variants simultaneously - Reuters
-
-Robin Emmott - Reuters
+Jay Peters - The Verge
 
 ```
-An employee at an elderly residence checks a person for coronavirus disease (COVID-19) as tests are performed among seniors in the country, in Brussels, Belgium, April 16, 2020. REUTERS/Yves HermanBR… [+1939 chars]
+New phones, watches, earbuds, and a date: August 11th
+The Galaxy Z Flip 3 and Z Fold 3, from GIFs shared by leaker Evan Blass.
+Images: Evan Blass on Twitter
+We might now know a lot of whats coming… [+3434 chars]
 ```
 
-[See More](https://www.reuters.com/world/europe/unvaccinated-belgian-woman-contracted-two-covid-variants-simultaneously-2021-07-11/)
+[See More](https://www.theverge.com/2021/7/11/22572858/samsung-galaxy-unpacked-2021-leak-evan-blass-galaxy-z-fold-flip-3-s21-fe-watch-4-buds-2-date)
 
-## Donald Trump Jr. on his father's Sunday CPAC speech: 'People will be outraged' - Fox News
+## Conor McGregor suffers freak leg injury in loss to Dustin Poirier at UFC 264 - CNET
+
+Mark Serrels - CNET
+
+```
+Sean O'Malley won in a landslide victory.
+Jeff Bottari/Zuffa LLC/Zuffa LLC via Getty Images
+If you're new to "Suga" Sean O'Malley, brace yourself. He is one of the rising stars in the UFC and one o… [+2053 chars]
+```
+
+[See More](https://www.cnet.com/news/conor-mcgregor-suffers-freak-leg-injury-in-loss-to-dustin-poirier-at-ufc-264/)
+
+## Weapons Cache Seized at Denver Hotel Near Stadium Hosting All-Star Game - The New York Times
+
+Alyssa Lukpat - New York Times
+
+```
+The police did not explicitly say if those arrested had stockpiled the weapons in preparation for an attack similar to the 2017 Las Vegas shooting in which a man fired from his upper-story hotel room… [+956 chars]
+```
+
+[See More](https://www.nytimes.com/2021/07/11/us/denver-shooting-arrest-mlb.html)
+
+## Italy Beats England in Epic Shootout to Win UEFA Euro 2020 [European Championship] | CBS Sports HQ - CBS Sports HQ
+
+null - Google News
+
+```
+null
+```
+
+[See More](https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dy1hXzhZVDU0V1nSAQA?oc=5)
+
+## Firefighters struggle to contain exploding northern California wildfire - The Guardian
+
+Guardian staff reporter - The Guardian
+
+```
+Firefighters struggled to contain an exploding northern California wildfire under blazing temperatures as another heatwave blanketed the west, prompting an excessive heat warning for inland and deser… [+4135 chars]
+```
+
+[See More](https://amp.theguardian.com/us-news/2021/jul/11/northern-california-wildfire-heatwave)
+
+## Virgin Galactic teams with Omaze to raffle off 2 tickets to space to the public - Space.com
+
+Elizabeth Howell - Space.com
+
+```
+Virgin Galactic is offering a free ride to suborbital space to two contest winners from the general public.
+The company announced a partnership Sunday (July 11) with charity fundraising platform Oma… [+4310 chars]
+```
+
+[See More](https://www.space.com/virgin-galactic-omaze-suborbital-spaceflight-contest)
+
+## China's Slowing V-Shaped Economic Recovery Sends Global Warning - Bloomberg
+
+null - Bloomberg
+
+```
+To continue, please click the box below to let us know you're not a robot.
+```
+
+[See More](https://www.bloomberg.com/tosv2.html?vid=&uuid=2b4095b0-e2ab-11eb-82b7-8fc74b73434e&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wNy0xMS9jaGluYS1zLWZhZGluZy1maXJzdC1pbi1maXJzdC1vdXQtcmVib3VuZC1zZW5kcy1nbG9iYWwtd2FybmluZw==)
+
+## 7-day COVID case average in Missouri has jumped 308% since June 1 - KTVI Fox 2 St. Louis
+
+Kevin S. Held - KTVI Fox 2 St. Louis
+
+```
+JEFFERSON CITY, Mo. The progress made in slowing the spread of COVID-19 since the spring has been all but wiped out in Missouri, as hospitalizations and cases are increasing at a steep upward traject… [+6616 chars]
+```
+
+[See More](https://fox2now.com/news/coronavirus/7-day-covid-case-average-in-missouri-has-jumped-308-since-june-1/)
+
+## Coronavirus latest: Experts worry over rising US positivity as New York rate doubles in a month - Financial Times
+
+null - Financial Times
+
+```
+New York state is recording double the positivity rates for Covid-19 compared with a month ago, as health experts at the weekend raised concerns over a new rise in infections.
+The state reported ano… [+2154 chars]
+```
+
+[See More](https://www.ft.com/content/79574dc0-375a-47f7-b572-cbd259a92e0b)
+
+## Elon Musk under fire again: CEO to testify over Tesla's acquisition of SunPower - MarketWatch
+
+Associated Press - MarketWatch
+
+```
+In the runup to Tesla Inc.s 2016 acquisition of a company called SolarCity, Elon Musk hailed the deal as a no brainer a purchase that would combine the leading maker of electric vehicles with a manuf… [+3664 chars]
+```
+
+[See More](https://www.marketwatch.com/story/elon-musk-under-fire-again-ceo-to-testify-over-teslas-acquisition-of-sunpower-01626035795)
+
+## Trump easily wins CPAC 2024 GOP presidential nomination straw poll - Fox News
 
 Paul Steinhauser - Fox News
 
 ```
-DALLAS Once again, the biggest draw will go last.
-Just as he did at the Conservative Political Action Conference (CPAC) in Orlando in February, former President Donald Trump will close this weekend'… [+3277 chars]
+DALLAS Former Presidentv Donald Trump easily won the 2024 GOP presidential nomination poll at the Conservative Political Action Conference (CPAC) gathering this weekend in Texas.
+Trump, whos repeate… [+3051 chars]
 ```
 
-[See More](https://www.foxnews.com/politics/donald-trump-jr-father-sunday-cpac-speech-people-outraged)
+[See More](https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll)
 
-## New York's attorney general keeps Albany — and Cuomo — waiting - POLITICO
+## Box Office: ‘Black Widow’ Spins Record $80M U.S. Opening, Earns $60M on Disney+ Premier Access - Hollywood Reporter
 
-Anna Gronewold - Politico
-
-```
-The uncertainty has paralyzed much of New York's Democratic political apparatus. State lawmakers have put their parallel impeachment investigation on a very slow burn. Cuomo has not revisited his pre… [+8709 chars]
-```
-
-[See More](https://www.politico.com/news/2021/07/11/tish-james-report-cuomo-499032)
-
-## Elon Musk Is Called to Defend Tesla’s Purchase of SolarCity - The Wall Street Journal
-
-Rebecca Elliott, Dave Michaels - The Wall Street Journal
+Pamela McClintock - Hollywood Reporter
 
 ```
-In 2016, Elon Musk had two unprofitable businesses on his hands in Tesla and SolarCity Corp. His solution to improve their outlook: combine them into a single clean-energy business. 
-Five years late… [+1203 chars]
+Proving the might of the Marvel brand, Black Widow set a new benchmark for the pandemic era in opening to $80 million at the domestic box office.
+The female-led superhero pic snared the biggest Nort… [+4203 chars]
 ```
 
-[See More](https://www.wsj.com/articles/elon-musk-is-called-to-defend-teslas-purchase-of-solarcity-11626001200)
+[See More](https://www.hollywoodreporter.com/movies/movie-news/black-widow-box-office-disney-milestone-opening-1234980531/)
 
-## 3 Red-Hot Stocks That Could Continue to Crush the Market - Motley Fool
+## Florida's manatees are dying in record numbers, officials say - CBS News
 
-Daniel Foelber, Scott Levine, and Lee Samaha - Motley Fool
-
-```
-Economic recovery concerns and inflation worries have been no match for a smoking-hot stock market. The industrial sector is helping to lead the charge. It sports a fair share of up-and-coming growth… [+6115 chars]
-```
-
-[See More](https://www.fool.com/investing/2021/07/11/3-red-hot-stocks-that-could-continue-to-crush-the/)
-
-## 'We cannot wait': Democrats craft voting bill with eye on Supreme Court fight - WLWT Cincinnati
-
-null - WLWT Cincinnati
+null - CBS News
 
 ```
-WASHINGTON —As congressional Democrats gear up for another bruising legislative push to expand voting rights, much of their attention has quietly focused on a small yet crucial voting bloc with the p… [+6456 chars]
+More manatees have died already this year than in any other year in Florida's recorded history, primarily from starvation due to the loss of seagrass beds, state officials said.
+The Florida Fish &am… [+1886 chars]
 ```
 
-[See More](https://www.wlwt.com/article/democrats-voting-bill-eye-on-supreme-court-fight/36990397)
+[See More](https://www.cbsnews.com/news/florida-manatees-dying-record-numbers-officials-say/)
 
-## Sean Penn Compares Trump’s Covid Vaccination Efforts to Machine Gun Attack on Vulnerable Communities - Yahoo Entertainment
+## Kristi Noem criticizes GOP governors who enacted Covid-19 mandates while accusing some of rewriting their history - CNN 
 
-Matt Donnelly - Yahoo Entertainment
-
-```
-In the midst of debuting a new movie at the first pandemic-era Cannes Film Festival, director Sean Penn had strong words about the Trump administrations handling of the global health crisis.
-The lon… [+2019 chars]
-```
-
-[See More](https://www.yahoo.com/entertainment/sean-penn-compares-trump-covid-103738608.html)
-
-## Trouble in Alaska? Massive oil pipeline is threatened by thawing permafrost - NBC News
-
-David Hasemyer, Inside Climate News - NBC News
+Maeve Reston, CNN - CNN
 
 ```
-The Trans-Alaska Pipeline, one of the worlds largest oil pipelines, could be in danger.
-Thawing permafrost threatens to undermine the supports holding up an elevated section of the pipeline, jeopard… [+7831 chars]
+Dallas (CNN)South Dakota Gov. Kristi Noem questioned the grit and instinct of fellow GOP governors who enacted Covid-19 measures like mask mandates and business closures to stop the spread of the vir… [+4133 chars]
 ```
 
-[See More](https://www.nbcnews.com/news/us-news/trouble-alaska-massive-oil-pipeline-threatened-thawing-permafrost-n1273589)
+[See More](https://www.cnn.com/2021/07/11/politics/kristi-noem-cpac-south-dakota-governor-covid-mandate/index.html)
 
-## How the highly unusual Death Valley temperatures just got more complicated - CNN 
+## Pristine ‘Super Mario 64’ Breaks Video Game Auction Record With $1.56 Million - Rolling Stone
 
-Allison Chinchar, CNN Meteorologist - CNN
-
-```
-Las Vegas, NV had a high of 117°F today (tied all-time record).
-You may be thinking:117°F? My phone/car says it's hotter!
-Elevation varies a lot across the #LasVegas Valley, so the temperature can … [+141 chars]
-```
-
-[See More](https://www.cnn.com/2021/07/11/weather/weather-death-valley-heat-record-california-weekend/index.html)
-
-## Young Americans Aren’t Getting Vaccinated, Jeopardizing Covid-19 Fight - The Wall Street Journal
-
-Laura Cooper, Sabrina Siddiqui - The Wall Street Journal
+Daniel Kreps - Rolling Stone
 
 ```
-Millions of Americans have rolled up their sleeves to get vaccinated against Covid-19, but one group is well behind: young adults.
-Their reluctance is a significant part of why the U.S. missed the B… [+856 chars]
+Less than two days after a rare sealed copy of The Legend of Zelda broke the record for most expensive video game sold at auction, a pristine unopened copy of Super Mario 64 toppled that record Sunda… [+3167 chars]
 ```
 
-[See More](https://www.wsj.com/articles/young-americans-arent-getting-vaccinated-jeopardizing-covid-19-fight-11625995802)
+[See More](https://www.rollingstone.com/culture/culture-news/super-mario-64-auction-record-1195538/)
 

@@ -1,0 +1,23 @@
+short,name,name_en,level,level_en
+defence,Bộ Quốc phòng,Ministry of Defence,Bộ,Ministry
+security,Bộ Công an,Ministry of Public Security,Bộ,Ministry
+foreign,Bộ Ngoại giao,Ministry of Foreign Affairs,Bộ,Ministry
+justice,Bộ Tư pháp,Ministry of Justice,Bộ,Ministry
+finance,Bộ Tài chính,Ministry of Finance,Bộ,Ministry
+industry-trade,Bộ Công Thương,Ministry of Industry and Trade,Bộ,Ministry
+labour-invalids-social,Bộ Lao động – Thương binh và Xã hội,Ministry of Labour, Invalids and Social Affairs,Bộ,Ministry
+transport,Bộ Giao thông vận tải,Ministry of Transport,Bộ,Ministry
+construction,Bộ Xây dựng,Ministry of Construction,Bộ,Ministry
+information-communications,Bộ Thông tin và Truyền thông,Ministry of Information and Communications,Bộ,Ministry
+education-training,Bộ Giáo dục và Đào tạo,Ministry of Education and Training,Bộ,Ministry
+agriculture-rural-development,Bộ Nông nghiệp và Phát triển nông thôn,Ministry of Agriculture and Rural Development,Bộ,Ministry
+planning-investment,Bộ Kế hoạch và Đầu tư,Ministry of Planning and Investment,Bộ,Ministry
+home,Bộ Nội vụ,Ministry of Home Affairs,Bộ,Ministry
+health,Bộ Y tế,Ministry of Health,Bộ,Ministry
+science-technology,Bộ Khoa học và Công nghệ,Ministry of Science and Technology,Bộ,Ministry
+culture-sports-tourism,Bộ Văn hóa, Thể thao và Du lịch,Ministry of Culture, Sports and Tourism,Bộ,Ministry
+natural-resources-environment,Bộ Tài nguyên và Môi trường,Ministry of Natural Resources and Environment,Bộ,Ministry
+government-office,Văn phòng Chính phủ,Government Office,Cơ quan ngang bộ,Ministry-level
+government-inspectorate,Thanh tra Chính phủ,Government Inspectorate,Cơ quan ngang bộ,Ministry-level
+state-bank,Ngân hàng Nhà nước Việt Nam,State Bank of Vietnam,Cơ quan ngang bộ,Ministry-level
+ethnic-minority,Ủy ban Dân tộc,Committee for Ethnic Minority Affairs,Cơ quan ngang bộ,Ministry-level

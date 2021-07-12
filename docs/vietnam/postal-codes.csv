@@ -1,0 +1,84 @@
+code,province,province_id
+01000,Quảng Ninh,quang-ninh
+02000,Quảng Ninh,quang-ninh
+03000,Hải Dương,hai-duong
+04000,Hải Phòng,hai-duong
+05000,Hải Phòng,hai-duong
+06000,Thái Bình,thai-binh
+07000,Nam Định,nam-dinh
+08000,Ninh Bình,ninh-binh
+10000,Hà Nội,ha-noi
+11000,Hà Nội,ha-noi
+12000,Hà Nội,ha-noi
+13000,Hà Nội,ha-noi
+14000,Hà Nội,ha-noi
+15000,Vĩnh Phúc,vinh-phuc
+16000,Bắc Ninh,bac-ninh
+17000,Hưng Yên,hung-yen
+18000,Hà Nam,ha-nam
+20000,Hà Giang,ha-giang
+21000,Cao Bằng,cao-bang
+22000,Tuyên Quang,tuyen-quan
+23000,Bắc Kạn,bac-kan
+24000,Thái Nguyên,thai-nguyen
+25000,Lạng Sơn,lang-son
+26000,Bắc Giang,bac-giang
+30000,Lai Châu,lai-chau
+31000,Lào Cai,lao-cai
+32000,Điện Biên,dien-bien
+33000,Yên Bái,yen-bai
+34000,Sơn La,son-la
+35000,Phú Thọ,phu-tho
+36000,Hòa Bình,hoa-binh
+40000,Thanh Hóa,thanh-hoa
+41000,Thanh Hóa,thanh-hoa
+42000,Thanh Hóa,thanh-hoa
+43000,Nghệ An,nghe-an
+44000,Nghệ An,nghe-an
+45000,Hà Tĩnh,ha-tinh
+46000,Hà Tĩnh,ha-tinh
+47000,Quảng Bình,quang-binh
+48000,Quảng Trị,quang-tri
+49000,Thừa Thiên-Huế,thua-thien-hue
+50000,Đà Nẵng,da-nang
+51000,Quảng Nam,quang-nam
+52000,Quảng Nam,quang-nam
+53000,Quảng Ngãi,quang-ngai
+54000,Quảng Ngãi,quang-ngai
+55000,Bình Định,binh-dinh
+56000,Phú Yên,phu-yen
+57000,Khánh Hòa,khanh-hoa
+59000,Ninh Thuận,ninh-thuan
+60000,Kon Tum,kon-tum
+61000,Gia Lai,gia-lai
+62000,Gia Lai,gia-lai
+63000,Đắk Lắk,dak-lak
+64000,Đắk Lắk,dak-lak
+65000,Đắk Nông,dak-nong
+66000,Lâm Đồng,lam-dong
+67000,Bình Phước,binh-phuoc
+70000,Hồ Chí Minh,ho-chi-minh
+71000,Hồ Chí Minh,ho-chi-minh
+72000,Hồ Chí Minh,ho-chi-minh
+73000,Hồ Chí Minh,ho-chi-minh
+74000,Hồ Chí Minh,ho-chi-minh
+75000,Bình Dương,binh-duong
+76000,Đồng Nai,dong-nai
+77000,Bình Thuận,binh-thuan
+78000,Bà Rịa-Vũng Tàu,ba-ria-vung-tau
+80000,Tây Ninh,tay-ninh
+81000,Đồng Tháp,dong-thap
+82000,Long An,long-an
+83000,Long An,long-an
+84000,Tiền Giang,tien-giang
+85000,Vĩnh Long,vinh-long
+86000,Bến Tre,ben-tre
+87000,Trà Vinh,tra-vinh
+90000,An Giang,an-giang
+91000,Kiên Giang,kien-giang
+92000,Kiên Giang,kien-giang
+94000,Cần Thơ,can-tho
+95000,Hậu Giang,hau-giang
+96000,Sóc Trăng,soc-trang
+97000,Bạc Liêu,bac-lieu
+98000,Cà Mau,ca-mau

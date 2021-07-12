@@ -1,5 +1,15 @@
 # News
 
+## 6 Dấu hiệu bạn vẫn đang phát triển trong công việc sáng tạo
+
+Vietcetera
+
+```html
+<p>Dưới đây là những dấu hiệu cho thấy bạn đang âm thầm phát triển, ngay cả khi bạn không cảm thấy như vậy.</p>
+```
+
+[See More](https://vietcetera.com/vn/6-dau-hieu-ban-van-dang-phat-trien-trong-cong-viec-sang-tao)
+
 ## Muốn phát âm chuẩn thì phải chỉnh gì?
 
 Vietcetera
@@ -89,14 +99,4 @@ Vietcetera
 ```
 
 [See More](https://vietcetera.com/vn/loreal-viet-nam-tuong-lai-cua-nganh-my-pham-recap-vietnam-innovators-tap-32)
-
-## 3 Lời khuyên để bạn hành động mà không trì hoãn
-
-Vietcetera
-
-```html
-<p>Sau khi thay đổi góc nhìn về động lực, hãy áp dụng 3 lời khuyên này để hành động mà không trì hoãn.</p>
-```
-
-[See More](https://vietcetera.com/vn/3-loi-khuyen-de-ban-hanh-dong-ma-khong-tri-hoan)
 

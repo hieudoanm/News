@@ -2,6 +2,21 @@
   "total": 10,
   "articles": [
     {
+      "title": "6 Dấu hiệu bạn vẫn đang phát triển trong công việc sáng tạo",
+      "url": "https://vietcetera.com/vn/6-dau-hieu-ban-van-dang-phat-trien-trong-cong-viec-sang-tao",
+      "description": "<p>Dưới đây là những dấu hiệu cho thấy bạn đang âm thầm phát triển, ngay cả khi bạn không cảm thấy như vậy.</p>",
+      "source": "Vietcetera",
+      "sourceUrl": "https://vietcetera.com",
+      "publishedDate": "2021-07-12T01:41:20.247Z",
+      "year": 2021,
+      "month": 7,
+      "date": 12,
+      "hours": 1,
+      "minutes": 41,
+      "seconds": 20,
+      "timestamp": "2021-07-11T18:41:20.000Z"
+    },
+    {
       "title": "Muốn phát âm chuẩn thì phải chỉnh gì?",
       "url": "https://vietcetera.com/vn/muon-phat-am-chuan-thi-phai-chinh-gi",
       "description": "<p>Cách học ngoại ngữ tốt nhất là bắt chước. Nhưng tại sao lại phải bắt chước, và bắt chước như thế nào?</p>",
@@ -135,21 +150,6 @@
       "minutes": 32,
       "seconds": 11,
       "timestamp": "2021-06-30T20:32:11.000Z"
-    },
-    {
-      "title": "3 Lời khuyên để bạn hành động mà không trì hoãn",
-      "url": "https://vietcetera.com/vn/3-loi-khuyen-de-ban-hanh-dong-ma-khong-tri-hoan",
-      "description": "<p>Sau khi thay đổi góc nhìn về động lực, hãy áp dụng 3 lời khuyên này để hành động mà không trì hoãn.</p>",
-      "source": "Vietcetera",
-      "sourceUrl": "https://vietcetera.com",
-      "publishedDate": "2021-06-30T03:12:50.569Z",
-      "year": 2021,
-      "month": 6,
-      "date": 30,
-      "hours": 3,
-      "minutes": 12,
-      "seconds": 50,
-      "timestamp": "2021-06-29T20:12:50.000Z"
     }
   ]
 }

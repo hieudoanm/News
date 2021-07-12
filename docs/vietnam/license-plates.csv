@@ -1,0 +1,150 @@
+license,definition,type
+VT,Tập đoàn Viettel - Bộ Quốc Phòng,Tổng Cục
+VK,Ủy ban tìm kiếm cứu nạn - Bộ Quốc Phòng,Tổng Cục
+VB,Khối văn phòng Binh chủng - Bộ Quốc Phòng,Tổng Cục
+TT,Tổng cục kỹ thuật,Tổng Cục
+TN,Tổng cục tình báo quân đội,Tổng Cục
+TM,Bộ Tổng tham mưu,Tổng Cục
+TK,Tổng cục Công nghiệp quốc phòng,Tổng Cục
+TH,Tổng cục Hậu cần,Tổng Cục
+TC,Tổng cục Chính trị,Tổng Cục
+QH,Quân chủng Hải quân,Quân Chủng
+QB,Bộ tư lệnh Bộ đội biên phòng,Quân Chủng
+QA,Quân chủng Phòng không không quân,Quân Chủng
+PY,Cục Quân Y - Bộ Quốc phòng,Cơ Quan Đặc Biệt
+PX,Trung tâm nhiệt đới Việt – Nga,Cơ Quan Đặc Biệt
+PT,Cục tài chính - Bộ Quốc phòng,Cơ Quan Đặc Biệt
+PQ,Trung tâm khoa học và kỹ thuật QS,Cơ Quan Đặc Biệt
+PP,Bệnh viện 108 - Bộ Quốc phòng,Cơ Quan Đặc Biệt
+PM,Viện thiết kế - Bộ Quốc phòng,Cơ Quan Đặc Biệt
+PK,Ban Cơ yếu - Bộ Quốc phòng,Cơ Quan Đặc Biệt
+PC,Tổng cục tình báo,Cơ Quan Đặc Biệt
+PA,Cục đối ngoại BQP,Cơ Quan Đặc Biệt
+NN,Nước ngoài,Đặc Biệt
+NG,Ngoại giao,Đặc Biệt
+ND,Tổng công ty Đầu tư Phát triển nhà - Bộ Quốc Phòng,Tổng Cục
+KV,Quân khu 5,Quân Khu
+KT,Quân khu Thủ đô,Quân Khu
+KP,Quân khu 7,Quân Khu
+KN,Đặc khu Quảng Ninh,Quân Khu
+KK,Quân khu 9,Quân Khu
+KD,Quân khu 4,Quân Khu
+KC,Quân khu 3,Quân Khu
+KB,Quân khu 2,Quân Khu
+KA,Quân khu 1,Quân Khu
+HT,Trường Sỹ quan lục quân I,Học Viện
+HQ,Trường Sỹ quan lục quân II,Học Viện
+HN,Học viện chính trị Quân sự Bắc Ninh,Học Viện
+HH,Học viện quân y,Học Viện
+HE,Học viện Hậu cần,Học Viện
+HD,Học viện Kỹ thuật Quân sự,Học Viện
+HC,Học viện Chính trị quân sự,Học Viện
+HB,Học viện Lục quân,Học Viện
+HA,Học viện Quốc phòng,Học Viện
+DB,Tổng công ty Đông Bắc - Bộ Quốc Phòng,Tổng Cục
+CV,Tổng công ty xây dựng Lũng Lô - Bộ Quốc Phòng,Tổng Cục
+CP,Tổng Công Ty 319 - Bộ Quốc Phòng,Tổng Cục
+CM,Tổng công ty Thái Sơn - Bộ Quốc Phòng,Tổng Cục
+CH,Bộ phận chính trị của Khối văn phòng - Bộ Quốc Phòng,Tổng Cục
+CC,Tổng công ty xăng dầu quân đội - Bộ Quốc Phòng,Tổng Cục
+CB,Ngân hàng TMCP Quân Đội - Bộ Quốc Phòng,Tổng Cục
+CA,Tổng công ty 36 - Bộ Quốc Phòng,Tổng Cục
+BV,Tổng Công ty Dịch vụ bay,"Bộ Tư Lệnh, Binh Chủng"
+BT,Bộ tư lệnh Thông tin liên lạc,"Bộ Tư Lệnh, Binh Chủng"
+BS,Lực lượng cảnh sát biển VN,"Bộ Tư Lệnh, Binh Chủng"
+BP,Bộ tư lệnh Pháo binh,"Bộ Tư Lệnh, Binh Chủng"
+BL,Bộ tư lệnh bảo vệ lăng,"Bộ Tư Lệnh, Binh Chủng"
+BK,Binh chủng Đặc công,"Bộ Tư Lệnh, Binh Chủng"
+BH,Binh chủng Hóa học,"Bộ Tư Lệnh, Binh Chủng"
+BC,Binh chủng Công binh,"Bộ Tư Lệnh, Binh Chủng"
+BBB,Bộ binh - Binh chủng Tăng thiết giáp,"Bộ Tư Lệnh, Binh Chủng"
+AV,Binh đoàn 11 - Tổng Công Ty Xây Dựng Thành An,Quân Đoàn
+AT,Binh đoàn 12 - Tổng công ty Trường Sơn,Quân Đoàn
+AP,Lữ đoàn M44,Quân Đoàn
+AN,Binh đoàn 15,Quân Đoàn
+AD,Quân Đoàn 4 - Binh đoàn Cửu Long,Quân Đoàn
+AC,Quân đoàn 3 - Binh đoàn Tây Nguyên,Quân Đoàn
+AB,Quân đoàn 2 - Binh đoàn Hương Giang,Quân Đoàn
+AA,Quân đoàn 1 - Binh đoàn Quyết Thắng,Quân Đoàn
+99,Bắc Ninh,Tỉnh
+98,Bắc Giang,Tỉnh
+97,Bắc Cạn,Tỉnh
+95,Hậu Giang,Tỉnh
+94,Bạc Liêu,Tỉnh
+93,Bình Phước,Tỉnh
+92,Quảng Nam,Tỉnh
+90,Hà Nam,Tỉnh
+89,Hưng Yên,Tỉnh
+88,Vĩnh Phúc,Tỉnh
+86,Bình Thuận,Tỉnh
+85,Ninh Thuận,Tỉnh
+84,Trà Vinh,Tỉnh
+83,Sóc Trăng,Tỉnh
+82,Kom Tum,Tỉnh
+81,Gia Lai,Tỉnh
+80,Chính Phủ,Đặc Biệt
+79,Khánh Hoà,Tỉnh
+78,Phú Yên,Tỉnh
+77,Bình Định,Tỉnh
+76,Quảng Ngãi,Tỉnh
+75,Huế,Tỉnh
+74,Quảng Trị,Tỉnh
+73,Quảng Bình,Tỉnh
+72,Bà Rịa - Vũng Tàu,Tỉnh
+71,Bến Tre,Tỉnh
+70,Tây Ninh,Tỉnh
+69,Cà Mau,Tỉnh
+68,Kiên Giang,Tỉnh
+67,An Giang,Tỉnh
+66,Đồng Tháp,Tỉnh
+65,Cần Thơ,Thành Phố Trực Thuộc Trung Ương
+64,Vĩnh Long,Tỉnh
+63,Tiền Giang,Tỉnh
+62,Long An,Tỉnh
+61,Bình Dương,Tỉnh
+60,Đồng Nai,Tỉnh
+59,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+58,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+57,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+56,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+55,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+54,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+53,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+52,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+51,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+50,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+49,Lâm Đồng,Tỉnh
+48,Đắk Nông,Tỉnh
+47,Đắk Lắk,Tỉnh
+43,Đà Nẵng,Thành Phố Trực Thuộc Trung Ương
+41,Hồ Chí Minh,Thành Phố Trực Thuộc Trung Ương
+40,Hà Nội,Thành Phố Trực Thuộc Trung Ương
+39,Đồng Nai,Tỉnh
+38,Hà Tĩnh,Tỉnh
+37,Nghệ An,Tỉnh
+36,Thanh Hoá,Tỉnh
+35,Ninh Bình,Tỉnh
+34,Hải Dương,Tỉnh
+32,Hà Nội,Thành Phố Trực Thuộc Trung Ương
+31,Hà Nội,Thành Phố Trực Thuộc Trung Ương
+30,Hà Nội,Thành Phố Trực Thuộc Trung Ương
+29,Hà Nội,Thành Phố Trực Thuộc Trung Ương
+28,Hòa Bình,Tỉnh
+27,Điện Biên,Tỉnh
+26,Sơn La,Tỉnh
+25,Lai Châu,Tỉnh
+24,Lào Cai,Tỉnh
+23,Hà Giang,Tỉnh
+22,Tuyên Quang,Tỉnh
+21,Yên Bái,Tỉnh
+20,Thái Nguyên,Tỉnh
+19,Phú Thọ,Tỉnh
+18,Nam Định,Tỉnh
+17,Thái Bình,Tỉnh
+16,Hải Phòng,Thành Phố Trực Thuộc Trung Ương
+15,Hải Phòng,Thành Phố Trực Thuộc Trung Ương
+14,Quảng Ninh,Tỉnh
+13,Bắc Giang,Tỉnh
+13,Bắc Ninh,Tỉnh
+12,Lạng Sơn,Tỉnh
+11,Cao Bằng,Tỉnh

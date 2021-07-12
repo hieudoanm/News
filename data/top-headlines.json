@@ -3,81 +3,42 @@
   "articles": [
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Susan Montoya Bryan",
-      "title": "Virgin Galactic's Richard Branson flying own rocket to space - Associated Press",
-      "description": "TRUTH OR CONSEQUENCES, N.M. (AP) — Thrill-seeking billionaire Richard Branson strapped in and set off Sunday on his boldest adventure yet — a bid to reach space aboard his own winged rocket ship. A successful flight would vault the nearly 71-year-old Branson …",
-      "url": "https://apnews.com/article/virgin-galactic-launch-richard-branson-37fd721264b1421f8a1223ee5e5626e3",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2d8af177eaa149089318eaa68e453333/3000.jpeg",
-      "publishedAt": "2021-07-11T13:25:19Z",
-      "content": "TRUTH OR CONSEQUENCES, N.M. (AP) Thrill-seeking billionaire Richard Branson strapped in and set off Sunday on his boldest adventure yet a bid to reach space aboard his own winged rocket ship.\r\nA succ… [+1777 chars]"
+      "author": "Widlore Merancourt, Samantha Schmidt",
+      "title": "Haiti announces arrest of leading suspect in president’s killing as FBI, Homeland Security officials arrive to discuss U.S. assistance - The Washington Post",
+      "description": "Police say Christian Emmanuel Sanon allegedly recruited some of the assailants by telling them they would be his bodyguards.",
+      "url": "https://www.washingtonpost.com/world/2021/07/11/haiti-assassination-fbi-dhs/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/60eae69c46e0fb00012ebe7a/2021-07-11T120519Z_1_OVELEIPNV_RTRMADC_0_HAITI-PRESIDENT.jpg&w=1440",
+      "publishedAt": "2021-07-12T00:22:30Z",
+      "content": "National Police Chief Leon Charles said Christian Emmanuel Sanon, 63, landed in Haiti on a private plane in early June with political objectives and recruited a team through a Venezuelan security fir… [+6966 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Www.https"
+        "name": "Sporting News"
       },
-      "author": "New York Post",
-      "title": "Video shows woman duct-taped to seat after trying to open airplane door - Fox News",
-      "description": "An apparently unhinged woman was duct-taped to an airplane seat last week after she allegedly attacked the flight crew and tried to open the door of the aircraft in midflight.",
-      "url": "https://www.https://nypost.com/2021/07/11/video-shows-woman-duct-taped-to-seat-after-trying-to-open-airplane-door-on-american-airlines-flight/",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/iStock-1204246879.jpg",
-      "publishedAt": "2021-07-11T13:15:15Z",
-      "content": "Now thats a sticky situation.\r\nAn apparently unhinged woman was duct-taped to an airplane seat last week after she allegedly attacked the flight crew and tried to open the door of the aircraft in mid… [+2504 chars]"
+      "author": "Sporting News",
+      "title": "'Eat more pasta' - Bonucci trolls England after Italy's Euro 2020 final penalty shootout triumph - Goal.com",
+      "description": "The Azzurri last lost a match in September 2018 against Cristiano Ronaldo's Portugal...",
+      "url": "https://www.sportingnews.com/ca/soccer",
+      "urlToImage": "https://images.daznservices.com/di/library/sporting_news/a4/8/sportingnews_blid1xj976d41uqjx0jd6x52p.png",
+      "publishedAt": "2021-07-11T23:26:52Z",
+      "content": ""
     },
     {
       "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
+        "id": null,
+        "name": "NPR"
       },
       "author": null,
-      "title": "Creepypasta and the search for the ghost in the machine - Ars Technica",
-      "description": "Stories of haunted video games have circulated for decades and tap into an age-old folklore tradition",
-      "url": "https://www.ft.com/content/684352b6-f57e-49cd-83f5-654fd3e52a41",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2069cd0e-4e9c-44a9-80da-2c7248d41602.jpg?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2021-07-11T13:00:37Z",
-      "content": "It was the music, they said, that drove the children to madness. The eerie, detuned soundtrack to Pokémon Red’s Lavender Town contained harmful sonic irregularities played at such high frequencies th… [+4676 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "ZSA Moonlander Mark I review: the ultimate customizable ergonomic keyboard - The Verge",
-      "description": "The keyboard offers a wealth of options, but at a high price.",
-      "url": "https://www.theverge.com/22566248/zsa-moonlander-mark-i-1-ergonomic-keyboard-mechanical-review",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0M5ideLsxi0egtJ0MIwQYnWVsGw=/0x243:2040x1311/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22706305/jpeters_210707_4662_0007.jpg",
-      "publishedAt": "2021-07-11T13:00:00Z",
-      "content": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.Ive spent a lot of time withmanyergonomickeyboards, but ZSAs Moonlander Mark I may be my favorite one… [+12778 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Richard Rubin",
-      "title": "Global Tax Deal Heads Down Perilous Path in Congress - The Wall Street Journal",
-      "description": "Business groups urge delay as U.S. lawmakers prepare for complex two-step process",
-      "url": "https://www.wsj.com/articles/global-tax-deal-heads-down-perilous-path-in-congress-11626008186",
-      "urlToImage": "https://images.wsj.net/im-367330/social",
-      "publishedAt": "2021-07-11T12:56:00Z",
-      "content": "WASHINGTONA complex international corporate tax deal that took years to hammer out soon faces one of its toughest tests: the U.S. Congress.\r\nThe Group of 20 major economies backed the plan this weeke… [+1026 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Hada Messia and Sharon Braithwaite, CNN",
-      "title": "Pope Francis delivers prayer from hospital window in his first public appearance after surgery - CNN ",
-      "description": "Pope Francis appeared in public on Sunday for the first time since undergoing surgery for colon diverticulitis last week, as he held his weekly Angelus prayer from a hospital window.",
-      "url": "https://www.cnn.com/2021/07/11/europe/pope-sunday-prayer-intl-scli/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210711071940-01-pope-francis-07-11-2021-super-tease.jpg",
-      "publishedAt": "2021-07-11T12:11:00Z",
-      "content": null
+      "title": "Demonstrators In Havana Protest Shortages, Rising Prices - NPR",
+      "description": "Thousands of demonstrators went out to the streets in several cities in Cuba to protest against ongoing food shortages and high prices of foodstuffs, amid the coronavirus crisis.",
+      "url": "https://www.npr.org/2021/07/11/1015140038/demonstrators-in-havana-protest-shortages-rising-prices",
+      "urlToImage": "https://media.npr.org/assets/img/2021/07/11/ap21192805896828_wide-8d9efd4bd795f5c0ab599f96ce78f77be64f9d67.jpg?s=1400",
+      "publishedAt": "2021-07-11T23:24:15Z",
+      "content": "Plainclothes police detain an anti-government protester during a protest in Havana, Cuba, on Sunday. Hundreds of demonstrators went out to the streets in several cities in Cuba to protest against ong… [+2515 chars]"
     },
     {
       "source": {
@@ -85,64 +46,155 @@
         "name": "Google News"
       },
       "author": null,
-      "title": "The Delta Variant: How this new strain of COVID is in a league of it's own | 60 Minutes Australia - 60 Minutes Australia",
+      "title": "Playoff Shakeup! Extended Highlights from Atlanta Quaker State 400 presented by Walmart - NASCAR",
       "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N05QS2xYTTlNVGfSAQA?oc=5",
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UzZKUXg2RjhvMEXSAQA?oc=5",
       "urlToImage": null,
-      "publishedAt": "2021-07-11T12:07:33Z",
+      "publishedAt": "2021-07-11T23:22:57Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "MMA Fighting"
+        "name": "ESPN"
       },
-      "author": "Alexander K. Lee",
-      "title": "Conor McGregor incensed after injury loss to Dustin Poirier in UFC 264 trilogy bout: ‘This is not over’ - MMA Fighting",
-      "description": "Conor McGregor’s post-fight interview saw the UFC star at his most frustrated.",
-      "url": "https://www.mmafighting.com/2021/7/11/22572011/conor-mcgregor-incensed-after-injury-loss-to-dustin-poirier-in-ufc-264-trilogy-bout-this-is-not-over",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oIanaMgoA1U79sxgdYcgMXfE9gg=/0x0:3835x2008/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22710694/1328083634.jpg",
-      "publishedAt": "2021-07-11T12:00:00Z",
-      "content": "The UFC 264 main event ended with a big win for Dustin Poirier, though the circumstances will likely leave many unsatisfied with the outcome.\r\nNo one more so than the losing fighter, Conor McGregor.\r… [+1695 chars]"
+      "author": "David Schoenfield",
+      "title": "Pittsburgh Pirates draft Louisville catcher Henry Davis with No. 1 pick; Jack Leiter goes to Texas Rangers at No. 2 - ESPN",
+      "description": "In a draft without a clear-cut top prospect, the Pirates selected Louisville catcher Henry Davis at No. 1 overall. Vanderbilt pitcher Jack Leiter went second to the Rangers.",
+      "url": "https://www.espn.com/mlb/story/_/id/31802907/pittsburgh-pirates-select-louisville-catcher-henry-davis-top-overall-pick-2021-mlb-draft",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0710%2Fr878727_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-07-11T23:18:10Z",
+      "content": "The Pittsburgh Pirates selected Louisville catcher Henry Davis with the first pick in baseball's amateur draft on Sunday night.\r\nIn a draft without a clear-cut top prospect, it remained unclear who t… [+8061 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Huge leak indicates that Samsung’s next Galaxy Unpacked may bring new foldables, smartwatches, and earbuds - The Verge",
+      "description": "Noted leaker Evan Blass shared GIFs of what we might expect from Samsung’s next Unpacked event, including two Galaxy foldables, a Galaxy FE phone, two Galaxy Watches, and a set of Galaxy Buds. He also says the event is set for August 11th.",
+      "url": "https://www.theverge.com/2021/7/11/22572858/samsung-galaxy-unpacked-2021-leak-evan-blass-galaxy-z-fold-flip-3-s21-fe-watch-4-buds-2-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/uPq5PMCr6FAxSyvZNCkUuvUiqt4=/0x78:608x396/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22711506/Screen_Shot_2021_07_11_at_3.56.50_PM.jpg",
+      "publishedAt": "2021-07-11T23:09:31Z",
+      "content": "New phones, watches, earbuds, and a date: August 11th\r\nThe Galaxy Z Flip 3 and Z Fold 3, from GIFs shared by leaker Evan Blass.\r\nImages: Evan Blass on Twitter\r\nWe might now know a lot of whats coming… [+3434 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "CNET"
       },
-      "author": "Sami Fathi",
-      "title": "Upcoming 14-inch and 16-inch MacBook Pro Rumored to Feature Upgraded 1080p Webcam - MacRumors",
-      "description": "The upcoming redesigned 14-inch and 16-inch MacBook Pro will feature an upgraded 1080p webcam, compared to the current 720p \"FaceTime HD\"...",
-      "url": "https://www.macrumors.com/2021/07/11/macbook-pro-14-and-16-upgraded-webcam/",
-      "urlToImage": "https://images.macrumors.com/t/A9Yeka5SDp63VacuBDlqlgTXWCo=/1920x/https://images.macrumors.com/article-new/2021/07/macbook-pro-facetime-camera-2.jpg",
-      "publishedAt": "2021-07-11T11:53:50Z",
-      "content": "The upcoming redesigned 14-inch and 16-inch MacBook Pro will feature an upgraded 1080p webcam, compared to the current 720p \"FaceTime HD\" camera in Apple's latest MacBook Air and MacBook Pro, accordi… [+1357 chars]"
+      "author": "Mark Serrels",
+      "title": "Conor McGregor suffers freak leg injury in loss to Dustin Poirier at UFC 264 - CNET",
+      "description": "\"This isn't over,\" said McGregor.",
+      "url": "https://www.cnet.com/news/conor-mcgregor-suffers-freak-leg-injury-in-loss-to-dustin-poirier-at-ufc-264/",
+      "urlToImage": "https://www.cnet.com/a/img/I01r_nvTMU9NfK5GImMRlnTxbPs=/1200x630/2021/07/10/fcd2e24a-9022-44ba-8f1e-bbbc96f9376b/gettyimages-1327901739.jpg",
+      "publishedAt": "2021-07-11T23:04:00Z",
+      "content": "Sean O'Malley won in a landslide victory.\r\nJeff Bottari/Zuffa LLC/Zuffa LLC via Getty Images\r\nIf you're new to \"Suga\" Sean O'Malley, brace yourself. He is one of the rising stars in the UFC and one o… [+2053 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Talking Chop"
+        "name": "New York Times"
       },
-      "author": "Kris Willis, Brad Rowland, Demetrius Bell, Eric Cole",
-      "title": "Ronald Acuña Jr. suffers torn ACL, will miss the remainder of the 2021 season - Talking Chop",
-      "description": "The Braves lose the player they could least afford to lose.",
-      "url": "https://www.talkingchop.com/2021/7/11/22572405/ronald-acuna-jr-injury-torn-acl-miss-remainder-2021-season-recovery",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/XqOOssDrvL-8-IRd979lrUkWnmw=/0x212:2968x1766/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22710887/1233913169.jpg",
-      "publishedAt": "2021-07-11T11:47:09Z",
-      "content": "The injury list continues to grow for the Atlanta Braves who have now lost the one player that they could least afford to lose. Ronald Acuña Jr. went down in a heap while trying to field a liner off … [+608 chars]"
+      "author": "Alyssa Lukpat",
+      "title": "Weapons Cache Seized at Denver Hotel Near Stadium Hosting All-Star Game - The New York Times",
+      "description": "The F.B.I. said it did not believe the episode was connected to terrorism, but the police were still investigating why four people who were arrested were in a downtown Denver hotel.",
+      "url": "https://www.nytimes.com/2021/07/11/us/denver-shooting-arrest-mlb.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/07/11/lens/11xpdenver/11xpdenver-facebookJumbo.jpg",
+      "publishedAt": "2021-07-11T22:50:14Z",
+      "content": "The police did not explicitly say if those arrested had stockpiled the weapons in preparation for an attack similar to the 2017 Las Vegas shooting in which a man fired from his upper-story hotel room… [+956 chars]"
     },
     {
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Robin Emmott",
-      "title": "Unvaccinated Belgian woman contracted two COVID variants simultaneously - Reuters",
-      "description": "A 90-year-old Belgian woman who died from COVID-19 in March had contracted two variants of coronavirus at the same time, which is believed to be the first documented case of its kind, a scientific congress and Belgian media said on Sunday.",
-      "url": "https://www.reuters.com/world/europe/unvaccinated-belgian-woman-contracted-two-covid-variants-simultaneously-2021-07-11/",
-      "urlToImage": "https://www.reuters.com/resizer/_ZoPORBYSjayFBi8NMMrVrcC7QE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WTDR3XAFAJN4DIRHYB5UIZR2M4.jpg",
-      "publishedAt": "2021-07-11T11:24:00Z",
-      "content": "An employee at an elderly residence checks a person for coronavirus disease (COVID-19) as tests are performed among seniors in the country, in Brussels, Belgium, April 16, 2020. REUTERS/Yves HermanBR… [+1939 chars]"
+      "author": null,
+      "title": "Italy Beats England in Epic Shootout to Win UEFA Euro 2020 [European Championship] | CBS Sports HQ - CBS Sports HQ",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dy1hXzhZVDU0V1nSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-07-11T22:46:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Guardian staff reporter",
+      "title": "Firefighters struggle to contain exploding northern California wildfire - The Guardian",
+      "description": "Blaze rushes north-east from the Sierra Nevada forest region after doubling in size as heatwave blankets US west",
+      "url": "https://amp.theguardian.com/us-news/2021/jul/11/northern-california-wildfire-heatwave",
+      "urlToImage": "https://i.guim.co.uk/img/media/5563e1781d9b1f72e588bd1eb0cecef657ab4eaa/0_326_6048_3627/master/6048.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29bf3d8894e735e344f8fad7c9e34e02",
+      "publishedAt": "2021-07-11T21:23:00Z",
+      "content": "Firefighters struggled to contain an exploding northern California wildfire under blazing temperatures as another heatwave blanketed the west, prompting an excessive heat warning for inland and deser… [+4135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Elizabeth Howell",
+      "title": "Virgin Galactic teams with Omaze to raffle off 2 tickets to space to the public - Space.com",
+      "description": "Virgin Galactic will partner with a charity fundraising platform to offer the out-of-this-world opportunity.",
+      "url": "https://www.space.com/virgin-galactic-omaze-suborbital-spaceflight-contest",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kmfyiic4skgSUmpVu9PaqU-1200-80.jpg",
+      "publishedAt": "2021-07-11T21:08:32Z",
+      "content": "Virgin Galactic is offering a free ride to suborbital space to two contest winners from the general public.\r\nThe company announced a partnership Sunday (July 11) with charity fundraising platform Oma… [+4310 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China's Slowing V-Shaped Economic Recovery Sends Global Warning - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2b4095b0-e2ab-11eb-82b7-8fc74b73434e&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wNy0xMS9jaGluYS1zLWZhZGluZy1maXJzdC1pbi1maXJzdC1vdXQtcmVib3VuZC1zZW5kcy1nbG9iYWwtd2FybmluZw==",
+      "urlToImage": null,
+      "publishedAt": "2021-07-11T21:00:00Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTVI Fox 2 St. Louis"
+      },
+      "author": "Kevin S. Held",
+      "title": "7-day COVID case average in Missouri has jumped 308% since June 1 - KTVI Fox 2 St. Louis",
+      "description": "The progress made in slowing the spread of COVID-19 since the spring has been all but wiped out in Missouri, as hospitalizations and cases are increasing at a steep upward trajectory.",
+      "url": "https://fox2now.com/news/coronavirus/7-day-covid-case-average-in-missouri-has-jumped-308-since-june-1/",
+      "urlToImage": "https://fox2now.com/wp-content/uploads/sites/14/2020/08/GettyImages-1215064356.jpg?w=1280",
+      "publishedAt": "2021-07-11T20:56:39Z",
+      "content": "JEFFERSON CITY, Mo. The progress made in slowing the spread of COVID-19 since the spring has been all but wiped out in Missouri, as hospitalizations and cases are increasing at a steep upward traject… [+6616 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Coronavirus latest: Experts worry over rising US positivity as New York rate doubles in a month - Financial Times",
+      "description": "",
+      "url": "https://www.ft.com/content/79574dc0-375a-47f7-b572-cbd259a92e0b",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea957add-da3c-49c7-964c-86900474c999.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2021-07-11T20:54:43Z",
+      "content": "New York state is recording double the positivity rates for Covid-19 compared with a month ago, as health experts at the weekend raised concerns over a new rise in infections.\r\nThe state reported ano… [+2154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Associated Press",
+      "title": "Elon Musk under fire again: CEO to testify over Tesla's acquisition of SunPower - MarketWatch",
+      "description": "Lawsuit claims $2.5 billion deal in 2016 was conflict of interest, bad business",
+      "url": "https://www.marketwatch.com/story/elon-musk-under-fire-again-ceo-to-testify-over-teslas-acquisition-of-sunpower-01626035795",
+      "urlToImage": "https://images.mktw.net/im-367673/social",
+      "publishedAt": "2021-07-11T20:36:00Z",
+      "content": "In the runup to Tesla Inc.s 2016 acquisition of a company called SolarCity, Elon Musk hailed the deal as a no brainer a purchase that would combine the leading maker of electric vehicles with a manuf… [+3664 chars]"
     },
     {
       "source": {
@@ -150,116 +202,64 @@
         "name": "Fox News"
       },
       "author": "Paul Steinhauser",
-      "title": "Donald Trump Jr. on his father's Sunday CPAC speech: 'People will be outraged' - Fox News",
-      "description": "Former President Donald Trump will close this weekend's CPAC gathering in Texas by delivering the event's headliner speech.",
-      "url": "https://www.foxnews.com/politics/donald-trump-jr-father-sunday-cpac-speech-people-outraged",
+      "title": "Trump easily wins CPAC 2024 GOP presidential nomination straw poll - Fox News",
+      "description": "Former Presidentv Donald Trump easily won the 2024 GOP presidential nomination poll at the Conservative Political Action Conference (CPAC) gathering this weekend in Texas.",
+      "url": "https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll",
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Donald-Trump-CPAC-Speech-Florida-AP.jpg",
-      "publishedAt": "2021-07-11T11:22:14Z",
-      "content": "DALLAS Once again, the biggest draw will go last.\r\nJust as he did at the Conservative Political Action Conference (CPAC) in Orlando in February, former President Donald Trump will close this weekend'… [+3277 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Anna Gronewold",
-      "title": "New York's attorney general keeps Albany — and Cuomo — waiting - POLITICO",
-      "description": "The uncertainty over the inquiry by Tish James has paralyzed much of New York’s Democratic political apparatus.",
-      "url": "https://www.politico.com/news/2021/07/11/tish-james-report-cuomo-499032",
-      "urlToImage": "https://static.politico.com/b4/a4/e4ae0ba047a18b7d24ff9621ade6/7-9-21-jamescuomo-ap-773.jpg",
-      "publishedAt": "2021-07-11T11:00:31Z",
-      "content": "The uncertainty has paralyzed much of New York's Democratic political apparatus. State lawmakers have put their parallel impeachment investigation on a very slow burn. Cuomo has not revisited his pre… [+8709 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Rebecca Elliott, Dave Michaels",
-      "title": "Elon Musk Is Called to Defend Tesla’s Purchase of SolarCity - The Wall Street Journal",
-      "description": "Plaintiffs allege that the billionaire entrepreneur led Tesla to overpay for SolarCity in 2016. Mr. Musk has defended the deal.",
-      "url": "https://www.wsj.com/articles/elon-musk-is-called-to-defend-teslas-purchase-of-solarcity-11626001200",
-      "urlToImage": "https://images.wsj.net/im-365789/social",
-      "publishedAt": "2021-07-11T11:00:00Z",
-      "content": "In 2016, Elon Musk had two unprofitable businesses on his hands in Tesla and SolarCity Corp. His solution to improve their outlook: combine them into a single clean-energy business. \r\nFive years late… [+1203 chars]"
+      "publishedAt": "2021-07-11T20:22:40Z",
+      "content": "DALLAS Former Presidentv Donald Trump easily won the 2024 GOP presidential nomination poll at the Conservative Political Action Conference (CPAC) gathering this weekend in Texas.\r\nTrump, whos repeate… [+3051 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "Hollywood Reporter"
       },
-      "author": "Daniel Foelber, Scott Levine, and Lee Samaha",
-      "title": "3 Red-Hot Stocks That Could Continue to Crush the Market - Motley Fool",
-      "description": "These growth and dividend stocks are thriving.",
-      "url": "https://www.fool.com/investing/2021/07/11/3-red-hot-stocks-that-could-continue-to-crush-the/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/633055/gettyimages-160189580.jpg",
-      "publishedAt": "2021-07-11T11:00:00Z",
-      "content": "Economic recovery concerns and inflation worries have been no match for a smoking-hot stock market. The industrial sector is helping to lead the charge. It sports a fair share of up-and-coming growth… [+6115 chars]"
+      "author": "Pamela McClintock",
+      "title": "Box Office: ‘Black Widow’ Spins Record $80M U.S. Opening, Earns $60M on Disney+ Premier Access - Hollywood Reporter",
+      "description": "Proving the might of the Marvel brand, Black Widow set a new benchmark for the pandemic era in opening to $80 million at the domestic box office. The female-led superhero pic snared the biggest North American start since the COVID-19 crisis commenced, and the…",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/black-widow-box-office-disney-milestone-opening-1234980531/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/07/NYA2960_comp_v013.1090_R-H-2021.jpg?w=1024",
+      "publishedAt": "2021-07-11T20:03:45Z",
+      "content": "Proving the might of the Marvel brand, Black Widow set a new benchmark for the pandemic era in opening to $80 million at the domestic box office.\r\nThe female-led superhero pic snared the biggest Nort… [+4203 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "WLWT Cincinnati"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
       "author": null,
-      "title": "'We cannot wait': Democrats craft voting bill with eye on Supreme Court fight - WLWT Cincinnati",
-      "description": "As Democrats gear up for another push to expand voting rights, much of their attention has quietly focused on a small yet crucial voting bloc with the power to scuttle their plans: the Supreme Court justices.",
-      "url": "https://www.wlwt.com/article/democrats-voting-bill-eye-on-supreme-court-fight/36990397",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/supreme-court-1604441765.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*",
-      "publishedAt": "2021-07-11T10:50:00Z",
-      "content": "WASHINGTON —As congressional Democrats gear up for another bruising legislative push to expand voting rights, much of their attention has quietly focused on a small yet crucial voting bloc with the p… [+6456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Matt Donnelly",
-      "title": "Sean Penn Compares Trump’s Covid Vaccination Efforts to Machine Gun Attack on Vulnerable Communities - Yahoo Entertainment",
-      "description": "In the midst of debuting a new movie at the first pandemic-era Cannes Film Festival, director Sean Penn had strong words about the Trump administration’s...",
-      "url": "https://www.yahoo.com/entertainment/sean-penn-compares-trump-covid-103738608.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/fJI6MZGsnIOBUwnO_9JjIw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/variety.com/e86a84382e5426ac77a6320ff1fd37f9",
-      "publishedAt": "2021-07-11T10:37:38Z",
-      "content": "In the midst of debuting a new movie at the first pandemic-era Cannes Film Festival, director Sean Penn had strong words about the Trump administrations handling of the global health crisis.\r\nThe lon… [+2019 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "David Hasemyer, Inside Climate News",
-      "title": "Trouble in Alaska? Massive oil pipeline is threatened by thawing permafrost - NBC News",
-      "description": "Thawing permafrost has damaged the Trans-Alaska Pipeline and poses an ongoing threat. The pipeline operator is installing chillers to keep the ground around it frozen.",
-      "url": "https://www.nbcnews.com/news/us-news/trouble-alaska-massive-oil-pipeline-threatened-thawing-permafrost-n1273589",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_27/3489019/210706-trans-alaska-pipeline-al-1221.jpg",
-      "publishedAt": "2021-07-11T10:01:00Z",
-      "content": "The Trans-Alaska Pipeline, one of the worlds largest oil pipelines, could be in danger.\r\nThawing permafrost threatens to undermine the supports holding up an elevated section of the pipeline, jeopard… [+7831 chars]"
+      "title": "Florida's manatees are dying in record numbers, officials say - CBS News",
+      "description": "More manatees have died so far this year than in any other year in Florida's recorded history.",
+      "url": "https://www.cbsnews.com/news/florida-manatees-dying-record-numbers-officials-say/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/07/11/f09bcd55-c08c-4d93-8f33-ebd7ee29ecb8/thumbnail/1200x630/6bb84b271313cb47a8ccf76058932bc1/gettyimages-1227675658.jpg",
+      "publishedAt": "2021-07-11T20:03:00Z",
+      "content": "More manatees have died already this year than in any other year in Florida's recorded history, primarily from starvation due to the loss of seagrass beds, state officials said.\r\nThe Florida Fish &am… [+1886 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Allison Chinchar, CNN Meteorologist",
-      "title": "How the highly unusual Death Valley temperatures just got more complicated - CNN ",
-      "description": "California's Death Valley is known to be a hot place, but it hit 130 degrees Fahrenheit (54.4 degrees Celsius) Friday for only the fifth time in recorded history -- that's only five days out of more than 40,000 days on record.",
-      "url": "https://www.cnn.com/2021/07/11/weather/weather-death-valley-heat-record-california-weekend/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210617205256-pba-california-super-tease.jpg",
-      "publishedAt": "2021-07-11T09:30:00Z",
-      "content": "Las Vegas, NV had a high of 117°F today (tied all-time record).\r\nYou may be thinking:117°F? My phone/car says it's hotter!\r\nElevation varies a lot across the #LasVegas Valley, so the temperature can … [+141 chars]"
+      "author": "Maeve Reston, CNN",
+      "title": "Kristi Noem criticizes GOP governors who enacted Covid-19 mandates while accusing some of rewriting their history - CNN ",
+      "description": "South Dakota Gov. Kristi Noem questioned the grit and instinct of fellow GOP governors who enacted Covid-19 measures like mask mandates and business closures to stop the spread of the virus in their states last year, warning that some of them are now \"rewriti…",
+      "url": "https://www.cnn.com/2021/07/11/politics/kristi-noem-cpac-south-dakota-governor-covid-mandate/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210711152015-kristi-noem-cpac-2021-0711-super-tease.jpg",
+      "publishedAt": "2021-07-11T19:43:00Z",
+      "content": "Dallas (CNN)South Dakota Gov. Kristi Noem questioned the grit and instinct of fellow GOP governors who enacted Covid-19 measures like mask mandates and business closures to stop the spread of the vir… [+4133 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Rolling Stone"
       },
-      "author": "Laura Cooper, Sabrina Siddiqui",
-      "title": "Young Americans Aren’t Getting Vaccinated, Jeopardizing Covid-19 Fight - The Wall Street Journal",
-      "description": "Slow uptake of Covid-19 shots among 18-to-29-year-olds is complicating mass vaccination campaign; U.S. ramps up outreach to young adults",
-      "url": "https://www.wsj.com/articles/young-americans-arent-getting-vaccinated-jeopardizing-covid-19-fight-11625995802",
-      "urlToImage": "https://images.wsj.net/im-367570/social",
-      "publishedAt": "2021-07-11T09:30:00Z",
-      "content": "Millions of Americans have rolled up their sleeves to get vaccinated against Covid-19, but one group is well behind: young adults.\r\nTheir reluctance is a significant part of why the U.S. missed the B… [+856 chars]"
+      "author": "Daniel Kreps",
+      "title": "Pristine ‘Super Mario 64’ Breaks Video Game Auction Record With $1.56 Million - Rolling Stone",
+      "description": "Sealed copy of 1996 game quickly shatters rare Legend of Zelda's two-day-old record",
+      "url": "https://www.rollingstone.com/culture/culture-news/super-mario-64-auction-record-1195538/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2021/07/thumbnail_image0.jpeg",
+      "publishedAt": "2021-07-11T18:54:13Z",
+      "content": "Less than two days after a rare sealed copy of The Legend of Zelda broke the record for most expensive video game sold at auction, a pristine unopened copy of Super Mario 64 toppled that record Sunda… [+3167 chars]"
     }
   ]
 }

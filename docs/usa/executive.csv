@@ -1,0 +1,727 @@
+ranking,position,position_id,department,no,name,party,start,end,president
+1,president,president,white house,1,George Washington,independent,1789-04-30,1797-03-04,
+1,president,president,white house,2,John Adams,federalist,1797-03-04,1801-03-04,
+1,president,president,white house,3,Thomas Jefferson,democratic-republican,1801-03-04,1809-03-04,
+1,president,president,white house,4,James Madison,democratic-republican,1809-03-04,1817-03-04,
+1,president,president,white house,5,James Monroe,democratic-republican,1817-03-04,1825-03-04,
+1,president,president,white house,6,John Quincy Adams,democratic-republican,1825-03-04,1829-03-04,
+1,president,president,white house,7,Andrew Jackson,democratic,1829-03-04,1837-03-04,
+1,president,president,white house,8,Martin Van Buren,democratic,1837-03-04,1841-03-04,
+1,president,president,white house,9,William Henry Harrison,whig,1841-03-04,1841-04-04,
+1,president,president,white house,10,John Tyler,whig,1841-04-04,1845-03-04,
+1,president,president,white house,11,James K. Polk,democratic,1845-03-04,1849-03-04,
+1,president,president,white house,12,Zachary Taylor,whig,1849-03-04,1850-07-09,
+1,president,president,white house,13,Millard Fillmore,whig,1850-07-09,1853-03-04,
+1,president,president,white house,14,Franklin Pierce,democratic,1853-03-04,1857-03-04,
+1,president,president,white house,15,James Buchanan,democratic,1857-03-04,1861-03-04,
+1,president,president,white house,16,Abraham Lincoln,Republican,1861-03-04,1865-04-15,
+1,president,president,white house,17,Andrew Johnson,democratic,1865-04-15,1869-03-04,
+1,president,president,white house,18,Ulysses S. Grant,republican,1869-03-04,1877-03-04,
+1,president,president,white house,19,Rutherford B. Hayes,republican,1877-03-04,1881-03-04,
+1,president,president,white house,20,James A. Garfield,republican,1881-03-04,1881-09-19,
+1,president,president,white house,21,Chester A. Arthur,republican,1881-09-19,1885-03-04,
+1,president,president,white house,22,Grover Cleveland,democratic,1885-03-04,1889-03-04,
+1,president,president,white house,23,Benjamin Harrison,republican,1889-03-04,1893-03-04,
+1,president,president,white house,24,Grover Cleveland,democratic,1893-03-04,1897-03-04,
+1,president,president,white house,25,William McKinley,republican,1897-03-04,1901-09-14,
+1,president,president,white house,26,Theodore Roosevelt,republican,1901-09-14,1909-03-04,
+1,president,president,white house,27,William Howard Taft,republican,1909-03-04,1913-03-04,
+1,president,president,white house,28,Woodrow Wilson,democratic,1913-03-04,1921-03-04,
+1,president,president,white house,29,Warren G. Harding,republican,1921-03-04,1923-08-02,
+1,president,president,white house,30,Calvin Coolidge,republican,1923-08-02,1929-03-04,
+1,president,president,white house,31,Herbert Hoover,republican,1929-03-04,1933-03-04,
+1,president,president,white house,32,Franklin D. Roosevelt,democratic,1933-03-04,1945-04-12,
+1,president,president,white house,33,Harry S. Truman,democratic,1945-04-12,1953-01-20,
+1,president,president,white house,34,Dwight D. Eisenhower,republican,1953-01-20,1961-01-20,
+1,president,president,white house,35,John F. Kennedy,democratic,1961-01-20,1963-11-22,
+1,president,president,white house,36,Lyndon B. Johnson,democratic,1963-11-22,1969-01-20,
+1,president,president,white house,37,Richard Nixon,republican,1969-01-20,1974-08-09,
+1,president,president,white house,38,Gerald Ford,republican,1974-08-09,1977-01-20,
+1,president,president,white house,39,Jimmy Carter,democratic,1977-01-20,1981-01-20,
+1,president,president,white house,40,Ronald Reagan,republican,1981-01-20,1989-01-20,
+1,president,president,white house,41,George H. W. Bush,republican,1989-01-20,1993-01-20,
+1,president,president,white house,42,Bill Clinton,democratic,1993-01-20,2001-01-20,
+1,president,president,white house,43,George W. Bush,republican,2001-01-20,2009-01-20,
+1,president,president,white house,44,Barack Obama,democratic,2009-01-20,2017-01-20,
+1,president,president,white house,45,Donald Trump,republican,2017-01-20,incumbent,
+2,vice president,vice,white house,1,John Adams,federalist,1789-04-21,1797-03-04,George Washington
+2,vice president,vice,white house,2,Thomas Jefferson,democratic-republican,1797-03-04,1801-03-04,John Adams
+2,vice president,vice,white house,3,Aaron Burr,democratic-republican,1801-03-04,1805-03-04,Thomas Jefferson
+2,vice president,vice,white house,4,George Clinton,democratic-republican,1805-03-04,1812-04-20,Thomas Jefferson - James Madison
+2,vice president,vice,white house,5,Elbridge Gerry,democratic-republican,1813-03-04,1814-12-23,James Madison
+2,vice president,vice,white house,6,Daniel D. Tompkins,democratic-republican,1817-03-04,1825-03-04,James Monroe
+2,vice president,vice,white house,7,John C. Calhoun,democratic-republican,1825-03-04,1832-12-28,John Q. Adams - Andrew Jackson
+2,vice president,vice,white house,8,Martin Van Buren,democratic,1833-03-04,1837-03-04,Andrew Jackson
+2,vice president,vice,white house,9,Richard Mentor Johnson,democratic,1837-03-04,1841-03-04,Martin Van Buren
+2,vice president,vice,white house,10,John Tyler,whig,1841-03-04,1841-04-04,William H. Harrison
+2,vice president,vice,white house,11,George M. Dallas,democratic,1845-03-04,1849-03-04,James K. Polk
+2,vice president,vice,white house,12,Millard Fillmore,whig,1849-03-04,1850-07-09,Zachary Taylor
+2,vice president,vice,white house,13,William R. King,democratic,1853-03-04,1853-04-18,Franklin Pierce
+2,vice president,vice,white house,14,John C. Breckinridge,democratic,1857-03-04,1861-03-04,James Buchanan
+2,vice president,vice,white house,15,Hannibal Hamlin,republican,1861-03-04,1865-03-04,Abraham Lincoln
+2,vice president,vice,white house,16,Andrew Johnson,republican,1865-03-04,1865-04-15,Abraham Lincoln
+2,vice president,vice,white house,17,Schuyler Colfax,republican,1869-03-04,1873-03-04,Ulysses S. Grant
+2,vice president,vice,white house,18,Henry Wilson,republican,1873-03-04,1875-11-22,Ulysses S. Grant
+2,vice president,vice,white house,19,William A. Wheeler,republican,1877-03-04,1881-03-04,Rutherford B. Hayes
+2,vice president,vice,white house,20,Chester A. Arthur,republican,1881-03-04,1881-09-19,James A. Garfield
+2,vice president,vice,white house,21,Thomas A. Hendricks,democratic,1885-03-04,1885-11-25,Grover Cleveland
+2,vice president,vice,white house,22,Levi P. Morton,republican,1889-03-04,1893-03-04,Benjamin Harrison
+2,vice president,vice,white house,23,Adlai Stevenson I,democratic,1893-03-04,1897-03-04,Grover Cleveland
+2,vice president,vice,white house,24,Garret Hobart,republican,1897-03-04,1899-11-21,William McKinley
+2,vice president,vice,white house,25,Theodore Roosevelt,republican,1901-03-04,1901-09-14,William McKinley
+2,vice president,vice,white house,26,Charles W. Fairbanks,republican,1905-03-04,1909-03-04,Theodore Roosevelt
+2,vice president,vice,white house,27,James S. Sherman,republican,1909-03-04,1912-10-30,William H. Taft
+2,vice president,vice,white house,28,Thomas R. Marshall,democratic,1913-03-04,1921-03-04,Woodrow Wilson
+2,vice president,vice,white house,29,Calvin Coolidge,republican,1921-03-04,1923-08-02,Warren G. Harding
+2,vice president,vice,white house,30,Charles G. Dawes,republican,1925-03-04,1929-03-04,Calvin Coolidge
+2,vice president,vice,white house,31,Charles Curtis,republican,1929-03-04,1933-03-04,Herbert Hoover
+2,vice president,vice,white house,32,John Garner,democratic,1933-03-04,1941-01-20,Franklin D. Roosevelt
+2,vice president,vice,white house,33,Henry A. Wallace,democratic,1941-01-20,1945-01-20,Franklin D. Roosevelt
+2,vice president,vice,white house,34,Harry S. Truman,democratic,1945-01-20,1945-04-12,Franklin D. Roosevelt
+2,vice president,vice,white house,35,Alben W. Barkley,democratic,1949-01-20,1953-01-20,Harry S. Truman
+2,vice president,vice,white house,36,Richard Nixon,republican,1953-01-20,1961-01-20,Dwight D. Eisenhower
+2,vice president,vice,white house,37,Lyndon B. Johnson,democratic,1961-01-20,1963-11-22,John F. Kennedy
+2,vice president,vice,white house,38,Hubert Humphrey,democratic,1965-01-20,1969-01-20,Lyndon B. Johnson
+2,vice president,vice,white house,39,Spiro Agnew,republican,1969-01-20,1973-10-10,Richard Nixon
+2,vice president,vice,white house,40,Gerald Ford,republican,1973-12-06,1974-08-09,Richard Nixon
+2,vice president,vice,white house,41,Nelson Rockefeller,republican,1974-12-19,1977-01-20,Gerald Ford
+2,vice president,vice,white house,42,Walter Mondale,democratic,1977-01-20,1981-01-20,Jimmy Carter
+2,vice president,vice,white house,43,George H. W. Bush,republican,1981-01-20,1989-01-20,Ronald Reagan
+2,vice president,vice,white house,44,Dan Quayle,republican,1989-01-20,1993-01-20,George H. W. Bush
+2,vice president,vice,white house,45,Al Gore,democratic,1993-01-20,2001-01-20,Bill Clinton
+2,vice president,vice,white house,46,Dick Cheney,republican,2001-01-20,2009-01-20,George W. Bush
+2,vice president,vice,white house,47,Joe Biden,democratic,2009-01-20,2017-01-20,Barack Obama
+2,vice president,vice,white house,48,Mike Pence,republican,2017-01-20,incumbent,Donald Trump
+3,secretary of state,state,department of state,-,John Jay,,,,George Washington
+3,secretary of state,state,department of state,1,Thomas Jefferson,,,,George Washington
+3,secretary of state,state,department of state,2,Edmund J. Randolph,,,,George Washington
+3,secretary of state,state,department of state,3,Timothy Pickering,,,,George Washington - John Adams
+3,secretary of state,state,department of state,-,Charles Lee,,,,John Adams
+3,secretary of state,state,department of state,4,John Marshall,,,,John Adams
+3,secretary of state,state,department of state,-,Levi Lincoln Sr.,,,,Thomas Jefferson
+3,secretary of state,state,department of state,5,James Madison,,,,Thomas Jefferson
+3,secretary of state,state,department of state,6,Robert Smith,,,,James Madison
+3,secretary of state,state,department of state,7,James Monroe,,,,James Madison
+3,secretary of state,state,department of state,-,John Graham,,,,James Monroe
+3,secretary of state,state,department of state,-,Richard Rush,,,,James Monroe
+3,secretary of state,state,department of state,8,John Quincy Adams,,,,James Monroe
+3,secretary of state,state,department of state,-,Daniel Brent,,,,John Quincy Adams
+3,secretary of state,state,department of state,9,Henry Clay,,,,John Quincy Adams
+3,secretary of state,state,department of state,-,James Alexander Hamilton,,,,Andrew Jackson
+3,secretary of state,state,department of state,10,Martin Van Buren,,,,Andrew Jackson
+3,secretary of state,state,department of state,11,Edward Livingston,,,,Andrew Jackson
+3,secretary of state,state,department of state,12,Louis McLane,,,,Andrew Jackson
+3,secretary of state,state,department of state,13,John Forsyth,,,,Andrew Jackson - Martin Van Buren
+3,secretary of state,state,department of state,-,Jacob L. Martin,,,,William Harrison
+3,secretary of state,state,department of state,14,Daniel Webster,,,,William Harrison - John Tyler
+3,secretary of state,state,department of state,-,Hugh S. Legaré,,,,John Tyler
+3,secretary of state,state,department of state,-,William S. Derrick,,,,John Tyler
+3,secretary of state,state,department of state,15,Abel P. Upshur,,,,John Tyler
+3,secretary of state,state,department of state,-,John Nelson,,,,John Tyler
+3,secretary of state,state,department of state,16,John C. Calhoun,,,,John Tyler
+3,secretary of state,state,department of state,17,James Buchanan,,,,James K. Polk
+3,secretary of state,state,department of state,18,John M. Clayton,,,,Zachary Taylor - Millard Fillmore
+3,secretary of state,state,department of state,19,Daniel Webster,,,,Millard Fillmore
+3,secretary of state,state,department of state,-,Charles M. Conrad,,,,Millard Fillmore
+3,secretary of state,state,department of state,20,Edward Everett,,,,Millard Fillmore
+3,secretary of state,state,department of state,-,William Hunter,,,,Franklin Pierce
+3,secretary of state,state,department of state,21,William L. Marcy,,,,Franklin Pierce
+3,secretary of state,state,department of state,22,Lewis Cass,,,,James Buchanan
+3,secretary of state,state,department of state,-,William Hunter,,,,James Buchanan
+3,secretary of state,state,department of state,23,Jeremiah S. Black,,,,James Buchanan
+3,secretary of state,state,department of state,24,William H. Seward,,,,Abraham Lincoln - Andrew Johnson
+3,secretary of state,state,department of state,25,Elihu B. Washburne,,,,Ulysses S. Grant
+3,secretary of state,state,department of state,26,Hamilton Fish,,,,Ulysses S. Grant - Rutherford B. Hayes
+3,secretary of state,state,department of state,27,William M. Evarts,,,,Rutherford B. Hayes
+3,secretary of state,state,department of state,28,James G. Blaine,,,,James A. Garfield - Chester A. Arthur
+3,secretary of state,state,department of state,29,Frederick T. Frelinghuysen,,,,Chester A. Arthur
+3,secretary of state,state,department of state,30,Thomas F. Bayard,,,,Grover Cleveland
+3,secretary of state,state,department of state,31,James G. Blaine,,,,Benjamin Harrison
+3,secretary of state,state,department of state,-,William F. Wharton,,,,Benjamin Harrison
+3,secretary of state,state,department of state,32,John W. Foster,,,,Benjamin Harrison
+3,secretary of state,state,department of state,-,William F. Wharton,,,,Benjamin Harrison - Grover Cleveland
+3,secretary of state,state,department of state,33,Walter Q. Gresham,,,,Grover Cleveland
+3,secretary of state,state,department of state,-,Edwin F. Uhl,,,,Grover Cleveland
+3,secretary of state,state,department of state,34,Richard Olney,,,,Grover Cleveland
+3,secretary of state,state,department of state,35,John Sherman,,,,William McKinley
+3,secretary of state,state,department of state,36,William R. Day,,,,William McKinley
+3,secretary of state,state,department of state,-,Alvey A. Adee,,,,William McKinley
+3,secretary of state,state,department of state,37,John Hay,,,,William McKinley - Theodore Roosevelt
+3,secretary of state,state,department of state,-,Francis B. Loomis,,,,Theodore Roosevelt
+3,secretary of state,state,department of state,38,Elihu Root,,,,Theodore Roosevelt
+3,secretary of state,state,department of state,39,Robert Bacon,,,,Theodore Roosevelt
+3,secretary of state,state,department of state,40,Philander C. Knox,,,,William Howard Taft
+3,secretary of state,state,department of state,41,William Jennings Bryan,,,,Woodrow Wilson
+3,secretary of state,state,department of state,42,Robert Lansing,,,,Woodrow Wilson
+3,secretary of state,state,department of state,-,Frank Polk,,,,Woodrow Wilson
+3,secretary of state,state,department of state,43,Bainbridge Colby,,,,Woodrow Wilson
+3,secretary of state,state,department of state,44,Charles Evans Hughes,,,,Warren G. Harding - Calvin Coolidge
+3,secretary of state,state,department of state,45,Frank B. Kellogg,,,,Calvin Coolidge - Herbert Hoover
+3,secretary of state,state,department of state,46,Henry L. Stimson,,,,Herbert Hoover
+3,secretary of state,state,department of state,47,Cordell Hull,,,,Franklin D. Roosevelt
+3,secretary of state,state,department of state,48,Edward Stettinius Jr.,,,,Franklin D. Roosevelt - Harry S. Truman
+3,secretary of state,state,department of state,-,Joseph Grew,,,,Harry S. Truman
+3,secretary of state,state,department of state,49,James F. Byrnes,,,,Harry S. Truman
+3,secretary of state,state,department of state,50,George C. Marshall,,,,Harry S. Truman
+3,secretary of state,state,department of state,51,Dean Acheson,,,,Harry S. Truman
+3,secretary of state,state,department of state,-,Harrison F. Matthews,,,,Dwight D. Eisenhower
+3,secretary of state,state,department of state,52,John Foster Dulles,,,,Dwight D. Eisenhower
+3,secretary of state,state,department of state,53,Christian Herter,,,,Dwight D. Eisenhower
+3,secretary of state,state,department of state,-,Livingston T. Merchant,,,,John F. Kennedy
+3,secretary of state,state,department of state,54,Dean Rusk,,,,John F. Kennedy - Lyndon B. Johnson
+3,secretary of state,state,department of state,-,Charles E. Bohlen,,,,Richard Nixon
+3,secretary of state,state,department of state,55,William P. Rogers,,,,Richard Nixon
+3,secretary of state,state,department of state,-,Kenneth Rush,,,,Richard Nixon
+3,secretary of state,state,department of state,56,Henry Kissinger,,,,Richard Nixon - Gerald Ford
+3,secretary of state,state,department of state,-,Philip Habib,,,,Jimmy Carter
+3,secretary of state,state,department of state,57,Cyrus Vance,,,,Jimmy Carter
+3,secretary of state,state,department of state,-,Warren Christopher,,,,Jimmy Carter
+3,secretary of state,state,department of state,-,David D. Newsom,,,,Jimmy Carter
+3,secretary of state,state,department of state,-,Warren Christopher,,,,Jimmy Carter
+3,secretary of state,state,department of state,58,Edmund Muskie,,,,Jimmy Carter
+3,secretary of state,state,department of state,59,Alexander Haig,,,,Ronald Reagan
+3,secretary of state,state,department of state,-,Walter J. Stoessel Jr.,,,,Ronald Reagan
+3,secretary of state,state,department of state,60,George P. Shultz,,,,Ronald Reagan
+3,secretary of state,state,department of state,-,Michael Armacost,,,,George H. W. Bush
+3,secretary of state,state,department of state,61,James Baker,,,,George H. W. Bush
+3,secretary of state,state,department of state,62,Lawrence Eagleburger,,,,George H. W. Bush
+3,secretary of state,state,department of state,-,Arnold Kanter,,,,Bill Clinton
+3,secretary of state,state,department of state,-,Frank G. Wisner,,,,Bill Clinton
+3,secretary of state,state,department of state,63,Warren Christopher,,,,Bill Clinton
+3,secretary of state,state,department of state,64,Madeleine Albright,,,,Bill Clinton
+3,secretary of state,state,department of state,65,Colin Powell,,,,George W. Bush
+3,secretary of state,state,department of state,66,Condoleezza Rice,,,,George W. Bush
+3,secretary of state,state,department of state,-,William Joseph Burns,,,,Barack Obama
+3,secretary of state,state,department of state,67,Hillary Rodham Clinton,,,,Barack Obama
+3,secretary of state,state,department of state,68,John Kerry,,,,Barack Obama
+3,secretary of state,state,department of state,-,Tom Shannon,,,,Donald Trump
+3,secretary of state,state,department of state,69,Rex Tillerson,,,,Donald Trump
+3,secretary of state,state,department of state,-,John J. Sullivan,,,,Donald Trump
+3,secretary of state,state,department of state,70,Mike Pompeo,,,,Donald Trump
+4,secretary of the treasury,treasury,department of the treasury,1,Alexander Hamilton,federalist,,,George Washington
+4,secretary of the treasury,treasury,department of the treasury,2,Oliver Wolcott, Jr.,federalist,,,George Washington - John Adams
+4,secretary of the treasury,treasury,department of the treasury,3,Samuel Dexter,federalist,,,John Adams - Thomas Jefferson
+4,secretary of the treasury,treasury,department of the treasury,4,Abraham Alfonse Albert Gallatin,democratic-republican,,,Thomas Jefferson - James Madison
+4,secretary of the treasury,treasury,department of the treasury,5,George W. Campbell,democratic-republican,,,James Madison
+4,secretary of the treasury,treasury,department of the treasury,6,Alexander J. Dallas,democratic-republican,,,James Madison
+4,secretary of the treasury,treasury,department of the treasury,-,William Jones,,,,James Madison - James Monroe
+4,secretary of the treasury,treasury,department of the treasury,7,William H. Crawford,democratic-republican,,,John Quincy Adams
+4,secretary of the treasury,treasury,department of the treasury,8,Richard Rush,federalist,,,Andrew Jackson
+4,secretary of the treasury,treasury,department of the treasury,9,Samuel D. Ingham,democratic,,,Andrew Jackson
+4,secretary of the treasury,treasury,department of the treasury,10,Louis McLane,democratic,,,Andrew Jackson
+4,secretary of the treasury,treasury,department of the treasury,11,William J. Duane,democratic,,,Andrew Jackson
+4,secretary of the treasury,treasury,department of the treasury,12,Roger B. Taney,democratic,,,Andrew Jackson
+4,secretary of the treasury,treasury,department of the treasury,13,Levi Woodbury,democratic,,,Andrew Jackson - Martin Van Buren
+4,secretary of the treasury,treasury,department of the treasury,14,Thomas Ewing,whig,,,William Henry Harrison - John Tyler
+4,secretary of the treasury,treasury,department of the treasury,15,Walter Forward,whig,,,John Tyler
+4,secretary of the treasury,treasury,department of the treasury,16,John C. Spencer,whig,,,John Tyler
+4,secretary of the treasury,treasury,department of the treasury,17,George M. Bibb,democratic,,,John Tyler
+4,secretary of the treasury,treasury,department of the treasury,18,Robert J. Walker,democratic,,,James K. Polk
+4,secretary of the treasury,treasury,department of the treasury,19,William M. Meredith,whig,,,Zachary Taylor
+4,secretary of the treasury,treasury,department of the treasury,20,Thomas Corwin,whig,,,Millard Fillmore
+4,secretary of the treasury,treasury,department of the treasury,21,James Guthrie,democratic,,,Franklin Pierce
+4,secretary of the treasury,treasury,department of the treasury,22,Howell Cobb,democratic,,,James Buchanan
+4,secretary of the treasury,treasury,department of the treasury,23,Philip Francis Thomas,democratic,,,James Buchanan
+4,secretary of the treasury,treasury,department of the treasury,24,John Adams Dix,democratic,,,James Buchanan
+4,secretary of the treasury,treasury,department of the treasury,25,Salmon P. Chase,republican,,,Abraham Lincoln
+4,secretary of the treasury,treasury,department of the treasury,26,William P. Fessenden,republican,,,Abraham Lincoln
+4,secretary of the treasury,treasury,department of the treasury,27,Hugh McCulloch,republican,,,Abraham Lincoln - Andrew Johnson
+4,secretary of the treasury,treasury,department of the treasury,28,George S. Boutwell,republican,,,Ulysses S. Grant
+4,secretary of the treasury,treasury,department of the treasury,29,William Adams Richardson,republican,,,Ulysses S. Grant
+4,secretary of the treasury,treasury,department of the treasury,30,Benjamin Bristow,republican,,,Ulysses S. Grant
+4,secretary of the treasury,treasury,department of the treasury,31,Lot M. Morrill,republican,,,Ulysses S. Grant
+4,secretary of the treasury,treasury,department of the treasury,32,John Sherman,republican,,,Rutherford B. Hayes
+4,secretary of the treasury,treasury,department of the treasury,33,William Windom,republican,,,James A. Garfield - Chester A. Arthur
+4,secretary of the treasury,treasury,department of the treasury,34,Charles J. Folger,republican,,,Chester A. Arthur
+4,secretary of the treasury,treasury,department of the treasury,35,Walter Q. Gresham,republican,,,Chester A. Arthur
+4,secretary of the treasury,treasury,department of the treasury,36,Hugh McCulloch,republican,,,Chester A. Arthur
+4,secretary of the treasury,treasury,department of the treasury,37,Daniel Manning,democratic,,,Grover Cleveland
+4,secretary of the treasury,treasury,department of the treasury,38,Charles S. Fairchild,democratic,,,Grover Cleveland
+4,secretary of the treasury,treasury,department of the treasury,39,William Windom,republican,,,Benjamin Harrison
+4,secretary of the treasury,treasury,department of the treasury,40,Charles Foster,republican,,,Benjamin Harrison
+4,secretary of the treasury,treasury,department of the treasury,41,John G. Carlisle,democratic,,,Grover Cleveland
+4,secretary of the treasury,treasury,department of the treasury,42,Lyman J. Gage,republican,,,William McKinley - Theodore Roosevelt
+4,secretary of the treasury,treasury,department of the treasury,43,L. M. Shaw,republican,,,Theodore Roosevelt
+4,secretary of the treasury,treasury,department of the treasury,44,George B. Cortelyou,republican,,,Theodore Roosevelt
+4,secretary of the treasury,treasury,department of the treasury,45,Franklin MacVeagh,republican,,,William Howard Taft
+4,secretary of the treasury,treasury,department of the treasury,46,William G. McAdoo,democratic,,,Woodrow Wilson
+4,secretary of the treasury,treasury,department of the treasury,47,Carter Glass,democratic,,,Woodrow Wilson
+4,secretary of the treasury,treasury,department of the treasury,48,David F. Houston,democratic,,,Woodrow Wilson
+4,secretary of the treasury,treasury,department of the treasury,49,Andrew W. Mellon,republican,,,Warren G. Harding - Calvin Coolidge - Herbert Hoover
+4,secretary of the treasury,treasury,department of the treasury,50,Ogden L. Mills,republican,,,Herbert Hoover
+4,secretary of the treasury,treasury,department of the treasury,51,William H. Woodin,republican,,,Franklin D. Roosevelt
+4,secretary of the treasury,treasury,department of the treasury,52,Henry Morgenthau, Jr.,democratic,,,Franklin D. Roosevelt
+4,secretary of the treasury,treasury,department of the treasury,53,Fred M. Vinson,democratic,,,Fred M. Vinson
+4,secretary of the treasury,treasury,department of the treasury,54,John Wesley Snyder,democratic,,,Fred M. Vinson
+4,secretary of the treasury,treasury,department of the treasury,55,George M. Humphrey,republican,,,Dwight D. Eisenhower
+4,secretary of the treasury,treasury,department of the treasury,56,Robert B. Anderson,republican,,,Dwight D. Eisenhower
+4,secretary of the treasury,treasury,department of the treasury,57,C. Douglas Dillon,republican,,,John F. Kennedy - Lyndon B. Johnson
+4,secretary of the treasury,treasury,department of the treasury,58,Henry H. Fowler,democratic,,,Lyndon B. Johnson
+4,secretary of the treasury,treasury,department of the treasury,59,Joseph W. Barr,democratic,,,Lyndon B. Johnson
+4,secretary of the treasury,treasury,department of the treasury,60,David M. Kennedy,republican,,,Richard Nixon
+4,secretary of the treasury,treasury,department of the treasury,61,John Connally,democratic,,,Richard Nixon
+4,secretary of the treasury,treasury,department of the treasury,62,George P. Shultz,republican,,,Richard Nixon
+4,secretary of the treasury,treasury,department of the treasury,63,William E. Simon,republican,,,Richard Nixon - Gerald Ford
+4,secretary of the treasury,treasury,department of the treasury,64,W. Michael Blumenthal,democratic,,,Jimmy Carter
+4,secretary of the treasury,treasury,department of the treasury,65,G. William Miller,democratic,,,Jimmy Carter
+4,secretary of the treasury,treasury,department of the treasury,66,Donald Regan,republican,,,Ronald Reagan
+4,secretary of the treasury,treasury,department of the treasury,67,James Baker,republican,,,Ronald Reagan
+4,secretary of the treasury,treasury,department of the treasury,-,M. Peter McPherson,,,,Ronald Reagan
+4,secretary of the treasury,treasury,department of the treasury,68,Nicholas F. Brady,republican,,,Ronald Reagan - George H. W. Bush
+4,secretary of the treasury,treasury,department of the treasury,69,Lloyd Bentsen,democratic,,,Bill Clinton
+4,secretary of the treasury,treasury,department of the treasury,-,Frank N. Newman,,,,Bill Clinton
+4,secretary of the treasury,treasury,department of the treasury,70,Robert Rubin,democratic,,,Bill Clinton
+4,secretary of the treasury,treasury,department of the treasury,72,Lawrence Summers,democratic,,,Bill Clinton
+4,secretary of the treasury,treasury,department of the treasury,73,Paul H. O'Neill,republican,,,George W. Bush
+4,secretary of the treasury,treasury,department of the treasury,-,Kenneth W. Dam,,,,George W. Bush
+4,secretary of the treasury,treasury,department of the treasury,73,John W. Snow,republican,,,George W. Bush
+4,secretary of the treasury,treasury,department of the treasury,-,Robert M. Kimmitt,,,,George W. Bush
+4,secretary of the treasury,treasury,department of the treasury,74,Henry Paulson,republican,,,George W. Bush
+4,secretary of the treasury,treasury,department of the treasury,-,Stuart A. Levey,,,,Barack Obama
+4,secretary of the treasury,treasury,department of the treasury,75,Timothy Geithner,independent,,,Barack Obama
+4,secretary of the treasury,treasury,department of the treasury,-,Neal S. Wolin,,,,Barack Obama
+4,secretary of the treasury,treasury,department of the treasury,76,Jack Lew,democratic,,,Barack Obama
+4,secretary of the treasury,treasury,department of the treasury,-,Adam J. Szubin,,,,Donald Trump
+4,secretary of the treasury,treasury,department of the treasury,77,Steven Mnuchin,republican,,,Donald Trump
+5,secretary of defense,defense,department of defense,1,James Forrestal,democratic,,,Harry S Truman
+5,secretary of defense,defense,department of defense,2,Louis A. Johnson,democratic,,,Harry S Truman
+5,secretary of defense,defense,department of defense,3,George Marshall,Indepedent,,,Harry S Truman
+5,secretary of defense,defense,department of defense,4,Robert A. Lovett,republican,,,Harry S Truman
+5,secretary of defense,defense,department of defense,5,Charles Erwin Wilson,republican,,,Dwight D. Eisenhower
+5,secretary of defense,defense,department of defense,6,Neil H. McElroy,republican,,,Dwight D. Eisenhower
+5,secretary of defense,defense,department of defense,7,Thomas S. Gates Jr.,republican,,,Dwight D. Eisenhower
+5,secretary of defense,defense,department of defense,8,Robert McNamara,republican,,,John F. Kennedy - Lyndon B. Johnson
+5,secretary of defense,defense,department of defense,9,Clark Clifford,democratic,,,Lyndon B. Johnson
+5,secretary of defense,defense,department of defense,10,Melvin R. Laird,republican,,,Richard Nixon
+5,secretary of defense,defense,department of defense,11,Elliot Richardson,republican,,,Richard Nixon
+5,secretary of defense,defense,department of defense,-,Bill Clements,republican,,,Richard Nixon
+5,secretary of defense,defense,department of defense,12,James R. Schlesinger,republican,,,Richard Nixon - Gerald Ford
+5,secretary of defense,defense,department of defense,13,Donald Rumsfeld,republican,,,Gerald Ford
+5,secretary of defense,defense,department of defense,14,Harold Brown,Indepedent,,,Jimmy Carter
+5,secretary of defense,defense,department of defense,15,Caspar Weinberger,republican,,,Ronald Reagan
+5,secretary of defense,defense,department of defense,16,Frank Carlucci,republican,,,Ronald Reagan
+5,secretary of defense,defense,department of defense,-,William Howard Taft IV,republican,,,George H. W. Bush
+5,secretary of defense,defense,department of defense,17,Dick Cheney,republican,,,George H. W. Bush
+5,secretary of defense,defense,department of defense,18,Leslie Aspin,democratic,,,Bill Clinton
+5,secretary of defense,defense,department of defense,19,William Perry,Indepedent,,,Bill Clinton
+5,secretary of defense,defense,department of defense,20,William Cohen,republican,,,Bill Clinton
+5,secretary of defense,defense,department of defense,21,Donald Rumsfeld,republican,,,George W. Bush
+5,secretary of defense,defense,department of defense,22,Robert Gates,republican,,,George W. Bush - Barack Obama
+5,secretary of defense,defense,department of defense,23,Leon Panetta,democratic,,,Barack Obama
+5,secretary of defense,defense,department of defense,24,Chuck Hagel,republican,,,Barack Obama
+5,secretary of defense,defense,department of defense,25,Ash Carter,democratic,,,Barack Obama
+5,secretary of defense,defense,department of defense,26,Jim Mattis,Indepedent,,,Donald Trump
+5,secretary of defense,defense,department of defense,-,Patrick M. Shanahan,,,,Donald Trump
+5,secretary of defense,defense,department of defense,-,Mark Esper,republican,,,Donald Trump
+5,secretary of defense,defense,department of defense,-,Richard V. Spencer,,,,Donald Trump
+5,secretary of defense,defense,department of defense,27,Mark Esper,republican,,,Donald Trump
+5,secretary of defense,defense,department of defense,-,Christopher C. Miller,republican,,,Donald Trump
+6,attorney general,attorney,department of justice,1,Edmund Randolph,federalist,,,George Washington
+6,attorney general,attorney,department of justice,2,William Bradford,federalist,,,George Washington
+6,attorney general,attorney,department of justice,3,Charles Lee,federalist,,,George Washington - John Adams
+6,attorney general,attorney,department of justice,4,Levi Lincoln Sr.,democratic-republican,,,Thomas Jefferson
+6,attorney general,attorney,department of justice,5,John Breckinridge,democratic-republican,,,Thomas Jefferson
+6,attorney general,attorney,department of justice,6,Caesar Augustus Rodney,democratic-republican,,,Thomas Jefferson - James Madison
+6,attorney general,attorney,department of justice,7,William Pinkney,democratic-republican,,,James Madison
+6,attorney general,attorney,department of justice,8,Richard Rush,federalist,,,James Madison
+6,attorney general,attorney,department of justice,9,William Wirt,democratic-republican,,,James Monroe - John Quincy Adams
+6,attorney general,attorney,department of justice,10,John Macpherson Berrien,democratic,,,Andrew Jackson
+6,attorney general,attorney,department of justice,11,Roger B. Taney,democratic,,,Andrew Jackson
+6,attorney general,attorney,department of justice,12,Benjamin Franklin Butler,democratic,,,Andrew Jackson - Martin Van Buren
+6,attorney general,attorney,department of justice,13,Felix Grundy,democratic,,,Martin Van Buren
+6,attorney general,attorney,department of justice,14,Henry D. Gilpin,democratic,,,Martin Van Buren
+6,attorney general,attorney,department of justice,15,John J. Crittenden,whig,,,William Henry Harrison - John Tyler
+6,attorney general,attorney,department of justice,16,Hugh S. Legaré,democratic,,,John Tyler
+6,attorney general,attorney,department of justice,17,John Nelson,whig,,,John Tyler
+6,attorney general,attorney,department of justice,18,John Y. Mason,democratic,,,James K. Polk
+6,attorney general,attorney,department of justice,19,Nathan Clifford,democratic,,,James K. Polk
+6,attorney general,attorney,department of justice,20,Isaac Toucey,democratic,,,James K. Polk
+6,attorney general,attorney,department of justice,21,Reverdy Johnson,whig,,,Zachary Taylor
+6,attorney general,attorney,department of justice,22,John J. Crittenden,whig,,,Millard Fillmore
+6,attorney general,attorney,department of justice,23,Caleb Cushing,democratic,,,Franklin Pierce
+6,attorney general,attorney,department of justice,24,Jeremiah S. Black,democratic,,,James Buchanan
+6,attorney general,attorney,department of justice,25,Edwin Stanton,democratic,,,James Buchanan
+6,attorney general,attorney,department of justice,26,Edward Bates,republican,,,Abraham Lincoln
+6,attorney general,attorney,department of justice,27,James Speed,republican,,,Abraham Lincoln - Andrew Johnson
+6,attorney general,attorney,department of justice,28,Henry Stanbery,republican,,,Andrew Johnson
+6,attorney general,attorney,department of justice,29,William M. Evarts,republican,,,Andrew Johnson
+6,attorney general,attorney,department of justice,30,Ebenezer R. Hoar,republican,,,Ulysses S. Grant
+6,attorney general,attorney,department of justice,31,Amos T. Akerman,republican,,,Ulysses S. Grant
+6,attorney general,attorney,department of justice,32,George Henry Williams,republican,,,Ulysses S. Grant
+6,attorney general,attorney,department of justice,33,Edwards Pierrepont,republican,,,Ulysses S. Grant
+6,attorney general,attorney,department of justice,34,Alphonso Taft,republican,,,Ulysses S. Grant
+6,attorney general,attorney,department of justice,35,Charles Devens,republican,,,Rutherford B. Hayes
+6,attorney general,attorney,department of justice,36,Wayne MacVeagh,republican,,,James A. Garfield - Chester A. Arthur
+6,attorney general,attorney,department of justice,37,Benjamin H. Brewster,republican,,,Chester A. Arthur
+6,attorney general,attorney,department of justice,38,Augustus Garland,democratic,,,Grover Cleveland
+6,attorney general,attorney,department of justice,39,William H. H. Miller,republican,,,Benjamin Harrison
+6,attorney general,attorney,department of justice,40,Richard Olney,democratic,,,Grover Cleveland
+6,attorney general,attorney,department of justice,41,Judson Harmon,democratic,,,Grover Cleveland
+6,attorney general,attorney,department of justice,42,Joseph McKenna,republican,,,William McKinley
+6,attorney general,attorney,department of justice,43,John W. Griggs,republican,,,William McKinley
+6,attorney general,attorney,department of justice,44,Philander C. Knox,republican,,,William McKinley - Theodore Roosevelt
+6,attorney general,attorney,department of justice,45,William Henry Moody,republican,,,Theodore Roosevelt
+6,attorney general,attorney,department of justice,46,Charles Bonaparte,republican,,,Theodore Roosevelt
+6,attorney general,attorney,department of justice,47,George W. Wickersham,republican,,,William Howard Taft
+6,attorney general,attorney,department of justice,48,James C. McReynolds,democratic,,,Woodrow Wilson
+6,attorney general,attorney,department of justice,49,Thomas Watt Gregory,democratic,,,Woodrow Wilson
+6,attorney general,attorney,department of justice,50,A. Mitchell Palmer,democratic,,,Woodrow Wilson
+6,attorney general,attorney,department of justice,51,Harry M. Daugherty,republican,,,Warren G. Harding - Calvin Coolidge
+6,attorney general,attorney,department of justice,52,Harlan F. Stone,republican,,,Calvin Coolidge
+6,attorney general,attorney,department of justice,53,John G. Sargent,republican,,,Calvin Coolidge
+6,attorney general,attorney,department of justice,54,William D. Mitchell,republican,,,Herbert Hoover
+6,attorney general,attorney,department of justice,55,Homer Stille Cummings,democratic,,,Franklin D. Roosevelt
+6,attorney general,attorney,department of justice,56,Frank Murphy,democratic,,,Franklin D. Roosevelt
+6,attorney general,attorney,department of justice,57,Robert H. Jackson,democratic,,,Franklin D. Roosevelt
+6,attorney general,attorney,department of justice,58,Francis Biddle,democratic,,,Franklin D. Roosevelt - Harry S. Truman
+6,attorney general,attorney,department of justice,59,Tom C. Clark,democratic,,,Harry S. Truman
+6,attorney general,attorney,department of justice,60,J. Howard McGrath,democratic,,,Harry S. Truman
+6,attorney general,attorney,department of justice,61,James P. McGranery,democratic,,,Harry S. Truman
+6,attorney general,attorney,department of justice,62,Herbert Brownell Jr.,republican,,,Dwight D. Eisenhower
+6,attorney general,attorney,department of justice,63,William P. Rogers,republican,,,Dwight D. Eisenhower
+6,attorney general,attorney,department of justice,64,Robert F. Kennedy,democratic,,,John F. Kennedy - Lyndon B. Johnson
+6,attorney general,attorney,department of justice,65,Nicholas Katzenbach,democratic,,,Lyndon B. Johnson
+6,attorney general,attorney,department of justice,66,Ramsey Clark,democratic,,,Lyndon B. Johnson
+6,attorney general,attorney,department of justice,67,John N. Mitchell,republican,,,Richard Nixon
+6,attorney general,attorney,department of justice,68,Richard Kleindienst,republican,,,Richard Nixon
+6,attorney general,attorney,department of justice,69,Elliot Richardson,republican,,,Richard Nixon
+6,attorney general,attorney,department of justice,-,Robert Bork,republican,,,Richard Nixon
+6,attorney general,attorney,department of justice,70,William B. Saxbe,republican,,,Richard Nixon - Gerald Ford
+6,attorney general,attorney,department of justice,71,Edward H. Levi,republican,,,Gerald Ford
+6,attorney general,attorney,department of justice,-,Dick Thornburgh,republican,,,Jimmy Carter
+6,attorney general,attorney,department of justice,72,Griffin Bell,democratic,,,Jimmy Carter
+6,attorney general,attorney,department of justice,73,Benjamin Civiletti,democratic,,,Jimmy Carter
+6,attorney general,attorney,department of justice,74,William French Smith,republican,,,Ronald Reagan
+6,attorney general,attorney,department of justice,75,Edwin Meese,republican,,,Ronald Reagan
+6,attorney general,attorney,department of justice,76,Dick Thornburgh,republican,,,Ronald Reagan - George H. W. Bush
+6,attorney general,attorney,department of justice,77,William Barr,republican,,,George H. W. Bush
+6,attorney general,attorney,department of justice,-,Stuart M. Gerson,republican,,,Bill Clinton
+6,attorney general,attorney,department of justice,78,Janet Reno,democratic,,,Bill Clinton
+6,attorney general,attorney,department of justice,-,Eric Holder,democratic,,,George W. Bush
+6,attorney general,attorney,department of justice,79,John Ashcroft,republican,,,George W. Bush
+6,attorney general,attorney,department of justice,80,Alberto Gonzales,republican,,,George W. Bush
+6,attorney general,attorney,department of justice,-,Paul Clement,republican,,,George W. Bush
+6,attorney general,attorney,department of justice,-,Peter Keisler,republican,,,George W. Bush
+6,attorney general,attorney,department of justice,81,Michael Mukasey,republican,,,George W. Bush
+6,attorney general,attorney,department of justice,-,Mark Filip,republican,,,Barack Obama
+6,attorney general,attorney,department of justice,82,Eric Holder,democratic,,,Barack Obama
+6,attorney general,attorney,department of justice,83,Loretta Lynch,democratic,,,Barack Obama
+6,attorney general,attorney,department of justice,-,Sally Yates,democratic,,,Donald Trump
+6,attorney general,attorney,department of justice,-,Dana Boente,republican,,,Donald Trump
+6,attorney general,attorney,department of justice,84,Jeff Sessions,republican,,,Donald Trump
+6,attorney general,attorney,department of justice,-,Matthew Whitaker,republican,,,Donald Trump
+6,attorney general,attorney,department of justice,85,William Barr,republican,,,Donald Trump
+6,attorney general,attorney,department of justice,-,Jeffrey A. Rosen,republican,,,Donald Trump
+7,secretary of the interior,interior,department of the interior,1,Thomas Ewing,whig,,,Zachary Taylor - Millard Fillmore
+7,secretary of the interior,interior,department of the interior,2,Thomas M. T. McKennan,whig,,,Millard Fillmore
+7,secretary of the interior,interior,department of the interior,3,Alexander H. H. Stuart,whig,,,Millard Fillmore
+7,secretary of the interior,interior,department of the interior,4,Robert McClelland,democratic,,,Franklin Pierce
+7,secretary of the interior,interior,department of the interior,5,Jacob Thompson,democratic,,,James Buchanan
+7,secretary of the interior,interior,department of the interior,6,Caleb B. Smith,republican,,,Abraham Lincoln
+7,secretary of the interior,interior,department of the interior,7,John P. Usher,republican,,,Abraham Lincoln - Andrew Johnson
+7,secretary of the interior,interior,department of the interior,8,James Harlan,republican,,,Andrew Johnson
+7,secretary of the interior,interior,department of the interior,9,Orville H. Browning,republican,,,Andrew Johnson
+7,secretary of the interior,interior,department of the interior,10,Jacob D. Cox,republican,,,Ulysses S. Grant
+7,secretary of the interior,interior,department of the interior,11,Columbus Delano,republican,,,Ulysses S. Grant
+7,secretary of the interior,interior,department of the interior,12,Zachariah Chandler,republican,,,Ulysses S. Grant
+7,secretary of the interior,interior,department of the interior,13,Carl Schurz,republican,,,Rutherford B. Hayes
+7,secretary of the interior,interior,department of the interior,14,Samuel J. Kirkwood,republican,,,James A. Garfield - Chester A. Arthur
+7,secretary of the interior,interior,department of the interior,15,Henry M. Teller,republican,,,Chester A. Arthur
+7,secretary of the interior,interior,department of the interior,16,Lucius Q. C. Lamar II,democratic,,,Grover Cleveland
+7,secretary of the interior,interior,department of the interior,17,William F. Vilas,democratic,,,Grover Cleveland
+7,secretary of the interior,interior,department of the interior,18,John W. Noble,republican,,,Benjamin Harrison
+7,secretary of the interior,interior,department of the interior,19,Hoke Smith,democratic,,,Grover Cleveland
+7,secretary of the interior,interior,department of the interior,20,David R. Francis,democratic,,,Grover Cleveland
+7,secretary of the interior,interior,department of the interior,21,Cornelius N. Bliss,republican,,,William McKinley
+7,secretary of the interior,interior,department of the interior,22,Ethan A. Hitchcock,republican,,,William McKinley - Theodore Roosevelt
+7,secretary of the interior,interior,department of the interior,23,James R. Garfield,republican,,,Theodore Roosevelt
+7,secretary of the interior,interior,department of the interior,24,Richard A. Ballinger,republican,,,William Howard Taft
+7,secretary of the interior,interior,department of the interior,25,Walter L. Fisher,republican,,,William Howard Taft
+7,secretary of the interior,interior,department of the interior,26,Franklin K. Lane,democratic,,,Woodrow Wilson
+7,secretary of the interior,interior,department of the interior,-,Alexander T. Vogelsang,,,,Woodrow Wilson
+7,secretary of the interior,interior,department of the interior,27,John B. Payne,democratic,,,Woodrow Wilson
+7,secretary of the interior,interior,department of the interior,28,Albert B. Fall,republican,,,Warren G. Harding
+7,secretary of the interior,interior,department of the interior,29,Hubert Work,republican,,,Warren G. Harding - Calvin Coolidge
+7,secretary of the interior,interior,department of the interior,30,Roy O. West,republican,,,Calvin Coolidge
+7,secretary of the interior,interior,department of the interior,31,Ray Lyman Wilbur,republican,,,Herbert Hoover
+7,secretary of the interior,interior,department of the interior,32,Harold L. Ickes,democratic,,,Franklin D. Roosevelt - Harry S. Truman
+7,secretary of the interior,interior,department of the interior,-,Oscar L. Chapman,,,,Harry S. Truman
+7,secretary of the interior,interior,department of the interior,33,Julius A. Krug,democratic,,,Harry S. Truman
+7,secretary of the interior,interior,department of the interior,34,Oscar L. Chapman,democratic,,,Harry S. Truman
+7,secretary of the interior,interior,department of the interior,35,Douglas McKay,republican,,,Dwight D. Eisenhower
+7,secretary of the interior,interior,department of the interior,-,Clarence A. Davis,,,,Dwight D. Eisenhower
+7,secretary of the interior,interior,department of the interior,36,Fred A. Seaton,republican,,,Dwight D. Eisenhower
+7,secretary of the interior,interior,department of the interior,37,Stewart L. Udall,democratic,,,John F. Kennedy - Lyndon B. Johnson
+7,secretary of the interior,interior,department of the interior,38,Walter J. Hickel,republican,,,Richard Nixon
+7,secretary of the interior,interior,department of the interior,-,Fred J. Russell,,,,Richard Nixon
+7,secretary of the interior,interior,department of the interior,39,Rogers C. B. Morton,republican,,,Richard Nixon - Gerald Ford
+7,secretary of the interior,interior,department of the interior,-,D. Kent Frizzell,,,,Gerald Ford
+7,secretary of the interior,interior,department of the interior,40,Stanley K. Hathaway,republican,,,Gerald Ford
+7,secretary of the interior,interior,department of the interior,-,D. Kent Frizzell,,,,Gerald Ford
+7,secretary of the interior,interior,department of the interior,41,Thomas S. Kleppe,republican,,,Gerald Ford
+7,secretary of the interior,interior,department of the interior,-,Alfred G. Albert,,,,Jimmy Carter
+7,secretary of the interior,interior,department of the interior,42,Cecil D. Andrus,democratic,,,Jimmy Carter
+7,secretary of the interior,interior,department of the interior,43,James G. Watt,republican,,,Ronald Reagan
+7,secretary of the interior,interior,department of the interior,-,J. J. Simmons III,,,,Ronald Reagan
+7,secretary of the interior,interior,department of the interior,44,William P. Clark,republican,,,Ronald Reagan
+7,secretary of the interior,interior,department of the interior,45,Donald P. Hodel,republican,,,Ronald Reagan
+7,secretary of the interior,interior,department of the interior,-,Earl E. Gjelde,republican,,,George H. W. Bush
+7,secretary of the interior,interior,department of the interior,46,Manuel Lujan Jr.,republican,,,George H. W. Bush
+7,secretary of the interior,interior,department of the interior,47,Bruce E. Babbitt,democratic,,,Bill Clinton
+7,secretary of the interior,interior,department of the interior,-,Thomas N. Slonaker,democratic,,,Bill Clinton - George W. Bush
+7,secretary of the interior,interior,department of the interior,48,Gale A. Norton,republican,,,George W. Bush
+7,secretary of the interior,interior,department of the interior,-,Lynn Scarlett,,,,George W. Bush
+7,secretary of the interior,interior,department of the interior,49,Dirk Kempthorne,republican,,,George W. Bush
+7,secretary of the interior,interior,department of the interior,-,Lynn Scarlett,,,,George W. Bush - Barack Obama
+7,secretary of the interior,interior,department of the interior,50,Ken Salazar,democratic,,,Barack Obama
+7,secretary of the interior,interior,department of the interior,51,Sally Jewell,democratic,,,Barack Obama
+7,secretary of the interior,interior,department of the interior,-,Kevin Haugrud,,,,Donald Trump
+7,secretary of the interior,interior,department of the interior,52,Ryan Zinke,republican,,,Donald Trump
+7,secretary of the interior,interior,department of the interior,53,David Bernhardt,republican,,,Donald Trump
+8,secretary of agriculture,agriculture,department of agriculture,1,Norman Jay Coleman,democratic,,,Grover Cleveland
+8,secretary of agriculture,agriculture,department of agriculture,2,Jeremiah McLain Rusk,republican,,,Benjamin Harrison
+8,secretary of agriculture,agriculture,department of agriculture,3,Julius Sterling Morton,democratic,,,Grover Cleveland
+8,secretary of agriculture,agriculture,department of agriculture,4,James Wilson,republican,,,William McKinley - Theodore Roosevelt - William Howard Taft - Woodrow Wilson
+8,secretary of agriculture,agriculture,department of agriculture,5,David F. Houston,democratic,,,Woodrow Wilson
+8,secretary of agriculture,agriculture,department of agriculture,6,Edwin T. Meredith,democratic,,,Woodrow Wilson
+8,secretary of agriculture,agriculture,department of agriculture,7,Henry Cantwell Wallace,republican,,,Warren G. Harding / Calvin Coolidge
+8,secretary of agriculture,agriculture,department of agriculture,8,Howard Mason Gore,republican,,,Calvin Coolidge
+8,secretary of agriculture,agriculture,department of agriculture,9,William Marion Jardine,republican,,,Calvin Coolidge
+8,secretary of agriculture,agriculture,department of agriculture,10,Arthur M. Hyde,republican,,,Herbert Hoover
+8,secretary of agriculture,agriculture,department of agriculture,11,Henry A. Wallace,democratic,,,Franklin D. Roosevelt
+8,secretary of agriculture,agriculture,department of agriculture,12,Claude R. Wickard,democratic,,,Franklin D. Roosevelt / Harry S. Truman
+8,secretary of agriculture,agriculture,department of agriculture,13,Clinton Presba Anderson,democratic,,,Harry S. Truman
+8,secretary of agriculture,agriculture,department of agriculture,14,Charles F. Brannan,democratic,,,Harry S. Truman
+8,secretary of agriculture,agriculture,department of agriculture,15,Ezra Taft Benson,republican,,,Dwight D. Eisenhower
+8,secretary of agriculture,agriculture,department of agriculture,16,Orville Freeman,democratic,,,John F. Kennedy / Lyndon B. Johnson
+8,secretary of agriculture,agriculture,department of agriculture,17,Clifford M. Hardin,republican,,,Richard Nixon
+8,secretary of agriculture,agriculture,department of agriculture,18,Earl Butz,republican,,,Richard Nixon / Gerald Ford
+8,secretary of agriculture,agriculture,department of agriculture,19,John Albert Knebel,republican,,,Gerald Ford
+8,secretary of agriculture,agriculture,department of agriculture,20,Robert Bergland,democratic,,,Jimmy Carter
+8,secretary of agriculture,agriculture,department of agriculture,21,John Rusling Block,republican,,,Ronald Reagan
+8,secretary of agriculture,agriculture,department of agriculture,22,Richard Edmund Lyng,republican,,,Ronald Reagan
+8,secretary of agriculture,agriculture,department of agriculture,23,Clayton Keith Yeutter,republican,,,George H. W. Bush
+8,secretary of agriculture,agriculture,department of agriculture,24,Edward Rell Madigan,republican,,,George H. W. Bush
+8,secretary of agriculture,agriculture,department of agriculture,25,Mike Espy,democratic,,,Bill Clinton
+8,secretary of agriculture,agriculture,department of agriculture,-,Richard Rominger,democratic,,,Bill Clinton
+8,secretary of agriculture,agriculture,department of agriculture,26,Dan Glickman,democratic,,,Bill Clinton
+8,secretary of agriculture,agriculture,department of agriculture,27,Ann Veneman,republican,,,George W. Bush
+8,secretary of agriculture,agriculture,department of agriculture,28,Mike Johanns,republican,,,George W. Bush
+8,secretary of agriculture,agriculture,department of agriculture,-,Charles F. Conner,republican,,,George W. Bush
+8,secretary of agriculture,agriculture,department of agriculture,29,Ed Schafer,republican,,,George W. Bush
+8,secretary of agriculture,agriculture,department of agriculture,30,Tom Vilsack,democratic,,,Barack Obama
+8,secretary of agriculture,agriculture,department of agriculture,-,Michael Scuse,democratic,,,Barack Obama
+8,secretary of agriculture,agriculture,department of agriculture,-,Mike Young,,,,Donald Trump
+8,secretary of agriculture,agriculture,department of agriculture,31,Sonny Perdue,republican,,,Donald Trump
+9,secretary of commerce,commerce,department of commerce,1,William C. Redfield,democratic,,,Woodrow Wilson
+9,secretary of commerce,commerce,department of commerce,2,Joshua W. Alexander,democratic,,,Woodrow Wilson
+9,secretary of commerce,commerce,department of commerce,3,Herbert Hoover,republican,,,Warren G. Harding - Calvin Coolidge
+9,secretary of commerce,commerce,department of commerce,4,William F. Whiting,republican,,,Calvin Coolidge
+9,secretary of commerce,commerce,department of commerce,5,Robert P. Lamont,republican,,,Herbert C. Hoover
+9,secretary of commerce,commerce,department of commerce,6,Roy D. Chapin,republican,,,Herbert C. Hoover
+9,secretary of commerce,commerce,department of commerce,7,Daniel C. Roper,democratic,,,Franklin D. Roosevelt
+9,secretary of commerce,commerce,department of commerce,8,Harry Hopkins,democratic,,,Franklin D. Roosevelt
+9,secretary of commerce,commerce,department of commerce,9,Jesse H. Jones,democratic,,,Franklin D. Roosevelt
+9,secretary of commerce,commerce,department of commerce,10,Henry A. Wallace,democratic,,,Franklin D. Roosevelt - Harry S. Truman
+9,secretary of commerce,commerce,department of commerce,-,Alfred Schindler,democratic,,,Harry S. Truman
+9,secretary of commerce,commerce,department of commerce,11,W. Averell Harriman,democratic,,,Harry S. Truman
+9,secretary of commerce,commerce,department of commerce,12,Charles W. Sawyer,democratic,,,Harry S. Truman
+9,secretary of commerce,commerce,department of commerce,13,Sinclair Weeks,republican,,,Dwight D. Eisenhower
+9,secretary of commerce,commerce,department of commerce,-,Lewis Strauss,republican,,,Dwight D. Eisenhower
+9,secretary of commerce,commerce,department of commerce,14,Frederick H. Mueller,republican,,,Dwight D. Eisenhower
+9,secretary of commerce,commerce,department of commerce,15,Luther H. Hodges,democratic,,,John F. Kennedy - Lyndon B. Johnson
+9,secretary of commerce,commerce,department of commerce,16,John T. Connor,Indepedent,,,Lyndon B. Johnson
+9,secretary of commerce,commerce,department of commerce,17,Alexander Trowbridge,democratic,,,Lyndon B. Johnson
+9,secretary of commerce,commerce,department of commerce,18,C. R. Smith,democratic,,,Lyndon B. Johnson
+9,secretary of commerce,commerce,department of commerce,19,Maurice Stans,republican,,,Richard Nixon
+9,secretary of commerce,commerce,department of commerce,20,Peter George Peterson,republican,,,Richard Nixon
+9,secretary of commerce,commerce,department of commerce,21,Frederick B. Dent,republican,,,Richard Nixon - Gerald Ford
+9,secretary of commerce,commerce,department of commerce,22,Rogers Morton,republican,,,Gerald Ford
+9,secretary of commerce,commerce,department of commerce,23,Elliot Richardson,republican,,,Gerald Ford
+9,secretary of commerce,commerce,department of commerce,24,Juanita M. Kreps,democratic,,,Jimmy Carter
+9,secretary of commerce,commerce,department of commerce,-,Luther H. Hodges, Jr.,,,,Jimmy Carter
+9,secretary of commerce,commerce,department of commerce,25,Philip Klutznick,democratic,,,Jimmy Carter
+9,secretary of commerce,commerce,department of commerce,26,Malcolm Baldrige, Jr.,republican,,,Ronald Reagan
+9,secretary of commerce,commerce,department of commerce,-,Bud Brown,republican,,,Ronald Reagan
+9,secretary of commerce,commerce,department of commerce,27,William Verity, Jr.,republican,,,Ronald Reagan
+9,secretary of commerce,commerce,department of commerce,28,Robert Mosbacher,republican,,,George H. W. Bush
+9,secretary of commerce,commerce,department of commerce,-,Rockwell A. Schnabel,republican,,,George H. W. Bush
+9,secretary of commerce,commerce,department of commerce,29,Barbara Franklin,republican,,,George H. W. Bush
+9,secretary of commerce,commerce,department of commerce,30,Ron Brown,democratic,,,Bill Clinton
+9,secretary of commerce,commerce,department of commerce,-,Mary L. Good,,,,Bill Clinton
+9,secretary of commerce,commerce,department of commerce,31,Mickey Kantor,democratic,,,Bill Clinton
+9,secretary of commerce,commerce,department of commerce,32,William M. Daley,democratic,,,Bill Clinton
+9,secretary of commerce,commerce,department of commerce,-,Robert L. Mallett,,,,Bill Clinton
+9,secretary of commerce,commerce,department of commerce,33,Norman Mineta,democratic,,,Bill Clinton
+9,secretary of commerce,commerce,department of commerce,34,Donald Evans,republican,,,George W. Bush
+9,secretary of commerce,commerce,department of commerce,35,Carlos Gutierrez,republican,,,George W. Bush
+9,secretary of commerce,commerce,department of commerce,-,Otto J. Wolff,,,,Barack Obama
+9,secretary of commerce,commerce,department of commerce,36,Gary Locke,democratic,,,Barack Obama
+9,secretary of commerce,commerce,department of commerce,-,Rebecca Blank,democratic,,,Barack Obama
+9,secretary of commerce,commerce,department of commerce,37,John Bryson,democratic,,,Barack Obama
+9,secretary of commerce,commerce,department of commerce,-,Rebecca Blank,democratic,,,Barack Obama
+9,secretary of commerce,commerce,department of commerce,-,Cameron Kerry,democratic,,,Barack Obama
+9,secretary of commerce,commerce,department of commerce,38,Penny Pritzker,democratic,,,Barack Obama
+9,secretary of commerce,commerce,department of commerce,39,Wilbur Ross,republican,,,Donald Trump
+10,secretary of labor,labor,department of labor,1,William B. Wilson,democratic,,,Woodrow Wilson
+10,secretary of labor,labor,department of labor,2,James J. Davis,republican,,,Warren G. Harding - Calvin Coolidge - Herbert Hoover
+10,secretary of labor,labor,department of labor,3,William N. Doak,republican,,,Herbert Hoover
+10,secretary of labor,labor,department of labor,4,Frances Perkins,democratic,,,Franklin D. Roosevelt - Harry S. Truman
+10,secretary of labor,labor,department of labor,5,Lewis B. Schwellenbach,democratic,,,Harry S. Truman
+10,secretary of labor,labor,department of labor,6,Maurice J. Tobin,democratic,,,Harry S. Truman
+10,secretary of labor,labor,department of labor,7,Martin P. Durkin,democratic,,,Dwight D. Eisenhower
+10,secretary of labor,labor,department of labor,8,James P. Mitchell,republican,,,Dwight D. Eisenhower
+10,secretary of labor,labor,department of labor,9,Arthur Goldberg,democratic,,,John F. Kennedy
+10,secretary of labor,labor,department of labor,10,W. Willard Wirtz,democratic,,,John F. Kennedy / Lyndon B. Johnson
+10,secretary of labor,labor,department of labor,11,George P. Shultz,republican,,,Richard Nixon
+10,secretary of labor,labor,department of labor,12,James D. Hodgson,republican,,,Richard Nixon
+10,secretary of labor,labor,department of labor,13,Peter J. Brennan,republican,,,Richard Nixon / Gerald Ford
+10,secretary of labor,labor,department of labor,14,John T. Dunlop,republican,,,Gerald Ford
+10,secretary of labor,labor,department of labor,15,William Usery Jr.,republican,,,Gerald Ford
+10,secretary of labor,labor,department of labor,16,Ray Marshall,democratic,,,Jimmy Carter
+10,secretary of labor,labor,department of labor,17,Raymond J. Donovan,republican,,,Ronald Reagan
+10,secretary of labor,labor,department of labor,18,Bill Brock,republican,,,Ronald Reagan
+10,secretary of labor,labor,department of labor,19,Ann Dore McLaughlin,republican,,,Ronald Reagan
+10,secretary of labor,labor,department of labor,20,Elizabeth Dole,republican,,,George H. W. Bush
+10,secretary of labor,labor,department of labor,21,Lynn M. Martin,republican,,,George H. W. Bush
+10,secretary of labor,labor,department of labor,22,Robert Reich,democratic,,,Bill Clinton
+10,secretary of labor,labor,department of labor,23,Alexis Herman,democratic,,,Bill Clinton
+10,secretary of labor,labor,department of labor,24,Elaine Chao,republican,,,George W. Bush
+10,secretary of labor,labor,department of labor,-,Howard Radzely,republican,,,Barack Obama
+10,secretary of labor,labor,department of labor,-,Ed Hugler,,,,Barack Obama
+10,secretary of labor,labor,department of labor,25,Hilda Solis,democratic,,,Barack Obama
+10,secretary of labor,labor,department of labor,-,Seth Harris,democratic,,,Barack Obama
+10,secretary of labor,labor,department of labor,26,Tom Perez,democratic,,,Barack Obama
+10,secretary of labor,labor,department of labor,-,Ed Hugler,,,,Donald Trump
+10,secretary of labor,labor,department of labor,27,Alexander Acosta,republican,,,Donald Trump
+10,secretary of labor,labor,department of labor,-,Patrick Pizzella,republican,,,Donald Trump
+10,secretary of labor,labor,department of labor,28,Eugene Scalia,republican,,,Donald Trump
+11,secretary of health and human services,hhs,department of health and human services,1,Oveta Culp Hobby,republican,1953-04-11,1955-07-31,Dwight D. Eisenhower
+11,secretary of health and human services,hhs,department of health and human services of labor,2,Marion B. Folsom,republican,1955-08-02,1958-07-31,Dwight D. Eisenhower
+11,secretary of health and human services,hhs,department of health and human services of labor,3,Arthur S. Flemming,republican,1958-08-01,1961-01-19,Dwight D. Eisenhower
+11,secretary of health and human services,hhs,department of health and human services of labor,4,Abraham A. Ribicoff,democratic,1961-01-21,1962-07-13,John F. Kennedy
+11,secretary of health and human services,hhs,department of health and human services of labor,5,Anthony J. Celebrezze,democratic,1962-07-31,1965-08-17,John F. Kennedy - Lyndon B. Johnson
+11,secretary of health and human services,hhs,department of health and human services of labor,6,John W. Gardner,republican,1965-08-18,1968-03-01,Lyndon B. Johnson
+11,secretary of health and human services,hhs,department of health and human services of labor,7,Wilbur J. Cohen,democratic,1968-03-16,1969-01-20,Lyndon B. Johnson
+11,secretary of health and human services,hhs,department of health and human services of labor,8,Robert H. Finch,republican,1969-01-21,1970-06-23,Richard Nixon
+11,secretary of health and human services,hhs,department of health and human services of labor,9,Elliot L. Richardson,republican,1970-06-24,1973-01-29,Richard Nixon
+11,secretary of health and human services,hhs,department of health and human services of labor,10,Caspar Weinberger,republican,1973-02-12,1975-08-08,Richard Nixon - Gerald Ford
+11,secretary of health and human services,hhs,department of health and human services of labor,11,F. David Mathews,independent,1975-08-08,1977-01-20,Gerald Ford
+11,secretary of health and human services,hhs,department of health and human services of labor,12,Joseph A. Califano Jr.,democratic,1977-01-25,1979-08-03,Jimmy Carter
+11,secretary of health and human services,hhs,department of health and human services of labor,13,Patricia Roberts Harris,democratic,1979-08-03,1981-01-20,Jimmy Carter
+11,secretary of health and human services,hhs,department of health and human services of labor,14,Richard S. Schweiker,republican,1981-01-22,1983-02-03,Ronald Reagan
+11,secretary of health and human services,hhs,department of health and human services of labor,-,Speedy Long,democratic,1983-02-03,1983-03-09,Ronald Reagan
+11,secretary of health and human services,hhs,department of health and human services of labor,15,Margaret M. Heckler,republican,1983-03-09,1985-12-13,Ronald Reagan
+11,secretary of health and human services,hhs,department of health and human services of labor,16,Otis R. Bowen,republican,1985-12-13,1989-03-01,Ronald Reagan
+11,secretary of health and human services,hhs,department of health and human services of labor,17,Louis Wade Sullivan,republican,1989-03-01,1993-01-20,George H. W. Bush
+11,secretary of health and human services,hhs,department of health and human services of labor,18,Donna Shalala,democratic,1993-01-22,2001-01-20,Bill Clinton
+11,secretary of health and human services,hhs,department of health and human services of labor,19,Tommy G. Thompson,republican,2001-02-02,2005-01-26,George W. Bush
+11,secretary of health and human services,hhs,department of health and human services of labor,20,Michael O. Leavitt,republican,2005-01-26,2009-01-20,George W. Bush
+11,secretary of health and human services,hhs,department of health and human services of labor,-,Charles E. Johnson,,2009-01-20,2009-04-28,Barack Obama
+11,secretary of health and human services,hhs,department of health and human services of labor,21,Kathleen Sebelius,democratic,2009-04-28,2014-06-09,Barack Obama
+11,secretary of health and human services,hhs,department of health and human services of labor,22,Sylvia Mathews Burwell,democratic,2014-06-09,2017-01-20,Barack Obama
+11,secretary of health and human services,hhs,department of health and human services of labor,-,Norris Cochran,,2017-01-20,2017-02-10,Donald Trump
+11,secretary of health and human services,hhs,department of health and human services of labor,23,Tom Price,republican,2017-02-10,2017-09-29,Donald Trump
+11,secretary of health and human services,hhs,department of health and human services of labor,-,Don J. Wright,,2017-09-29,2017-10-10,Donald Trump
+11,secretary of health and human services,hhs,department of health and human services of labor,-,Eric Hargan,republican,2017-10-10,2018-01-29,Donald Trump
+11,secretary of health and human services,hhs,department of health and human services of labor,24,Alex Azar,republican,2018-01-29,incumbent,Donald Trump
+12,secretary of housing and urban development,hud,department of housing and urban Development,1,Robert C. Weaver,democratic,1966-01-18,1968-12-18,Lyndon B. Johnson
+12,secretary of housing and urban development,hud,department of housing and urban development,2,Robert C. Wood,democratic,1969-01-07,1969-01-20,Lyndon B. Johnson
+12,secretary of housing and urban development,hud,department of housing and urban development,3,George W. Romney,republican,1969-01-22,1973-01-20,Richard Nixon
+12,secretary of housing and urban development,hud,department of housing and urban development,4,James T. Lynn,republican,1973-02-02,1975-02-05,Richard Nixon - Gerald Ford
+12,secretary of housing and urban development,hud,department of housing and urban development,5,Carla A. Hills,republican,1975-03-10,1977-01-20,Gerald Ford
+12,secretary of housing and urban development,hud,department of housing and urban development,6,Patricia R. Harris,democratic,1977-01-23,1979-09-10,Jimmy Carter
+12,secretary of housing and urban development,hud,department of housing and urban development,7,Maurice E. Landrieu,democratic,1979-09-24,1981-01-20,Jimmy Carter
+12,secretary of housing and urban development,hud,department of housing and urban development,8,Samuel R. Pierce,republican,1981-01-23,1989-01-20,Ronald Reagan
+12,secretary of housing and urban development,hud,department of housing and urban development,-,J. Michael Dorsey,republican,1989-01-20,1989-02-13,George H. W. Bush
+12,secretary of housing and urban development,hud,department of housing and urban development,9,Jack F. Kemp,republican,1989-02-13,1993-01-20,George H. W. Bush
+12,secretary of housing and urban development,hud,department of housing and urban development,10,Henry G. Cisneros,democratic,1993-01-22,1997-01-20,Bill Clinton
+12,secretary of housing and urban development,hud,department of housing and urban development,11,Andrew M. Cuomo,democratic,1997-01-29,2001-01-20,Bill Clinton
+12,secretary of housing and urban development,hud,department of housing and urban development,-,William C. Apgar,,2001-01-20,2001-01-24,George W. Bush
+12,secretary of housing and urban development,hud,department of housing and urban development,12,Mel Martinez,republican,2001-01-24,2003-12-12,George W. Bush
+12,secretary of housing and urban development,hud,department of housing and urban development,13,Alphonso Jackson,republican,2003-12-12,2008-04-18,George W. Bush
+12,secretary of housing and urban development,hud,department of housing and urban development,-,Roy A. Bernardi,republican,2008-04-18,2008-06-04,George W. Bush
+12,secretary of housing and urban development,hud,department of housing and urban development,14,Steve Preston,republican,2008-06-04,2009-01-20,George W. Bush
+12,secretary of housing and urban development,hud,department of housing and urban development,-,Brian D. Montgomery,republican,2009-01-20,2009-01-26,Barack Obama
+12,secretary of housing and urban development,hud,department of housing and urban development,15,Shaun Donovan,democratic,2009-01-26,2014-07-28,Barack Obama
+12,secretary of housing and urban development,hud,department of housing and urban development,16,Julián Castro,democratic,2014-07-28,2017-01-20,Barack Obama
+12,secretary of housing and urban development,hud,department of housing and urban development,-,Craig Clemmensen,republican,2017-01-20,2017-03-02,Donald Trump
+12,secretary of housing and urban development,hud,department of housing and urban development,17,Ben Carson,republican,2017-03-02,incumbent,Donald Trump
+13,secretary of transportation,transportation,department of transportation,1,Alan S. Boyd,democratic,1967-01-16,1969-01-22,Lyndon B. Johnson
+13,secretary of transportation,transportation,department of transportation,2,John A. Volpe,republican,1969-01-22,1973-02-02,Richard M. Nixon
+13,secretary of transportation,transportation,department of transportation,3,Claude S. Brinegar,republican,1973-02-02,1975-02-01,Richard M. Nixon / Gerald R. Ford
+13,secretary of transportation,transportation,department of transportation,4,William T. Coleman, Jr.,republican,1975-03-07,1977-01-20,Gerald R. Ford
+13,secretary of transportation,transportation,department of transportation,5,Brock Adams,democratic,1977-01-23,1979-07-20,Jimmy Carter
+13,secretary of transportation,transportation,department of transportation,6,Neil E. Goldschmidt,democratic,1979-08-15,1981-01-20,Jimmy Carter
+13,secretary of transportation,transportation,department of transportation,7,Drew Lewis,republican,1981-01-23,1983-02-01,Ronald Reagan
+13,secretary of transportation,transportation,department of transportation,8,Elizabeth H. Dole,republican,1983-02-07,1987-09-30,Ronald Reagan
+13,secretary of transportation,transportation,department of transportation,9,James H. Burnley IV,republican,1987-12-03,1989-01-20,Ronald Reagan
+13,secretary of transportation,transportation,department of transportation,10,Samuel K. Skinner,republican,1989-02-06,1991-12-13,George H. W. Bush
+13,secretary of transportation,transportation,department of transportation,11,Andrew H. Card,republican,1992-02-24,1993-01-20,George H. W. Bush
+13,secretary of transportation,transportation,department of transportation,12,Federico Peña,democratic,1993-01-21,1997-02-14,Bill Clinton
+13,secretary of transportation,transportation,department of transportation,13,Rodney E. Slater,democratic,1997-02-14,2001-01-20,Bill Clinton
+13,secretary of transportation,transportation,department of transportation,14,Norman Y. Mineta,democratic,2001-01-25,2006-08-07,George W. Bush
+13,secretary of transportation,transportation,department of transportation,15,Mary E. Peters,republican,2006-10-17,2009-01-20,George W. Bush
+13,secretary of transportation,transportation,department of transportation,16,Ray H. LaHood,republican,2009-01-23,2013-07-02,Barack Obama
+13,secretary of transportation,transportation,department of transportation,17,Anthony R. Foxx,democratic,2013-07-02,2017-01-20,Barack Obama
+13,secretary of transportation,transportation,department of transportation,-,Michael Huerta,democratic,2017-01-20,2017-01-31,Donald Trump
+13,secretary of transportation,transportation,department of transportation,18,Elaine Chao,republican,2017-01-31,incumbent,Donald Trump
+14,secretary of energy,energy,department of energy,1,James Schlesinger,republican,1977-08-06,1979-08-23,Jimmy Carter
+14,secretary of energy,energy,department of energy,2,Charles Duncan,democratic,1979-08-24,1981-01-20,Jimmy Carter
+14,secretary of energy,energy,department of energy,3,James Edwards,republican,1981-01-23,1982-11-05,Ronald Reagan
+14,secretary of energy,energy,department of energy,4,Donald Hodel,republican,1982-11-05,1985-02-07,Ronald Reagan
+14,secretary of energy,energy,department of energy,5,John Herrington,republican,1985-02-07,1989-01-20,Ronald Reagan
+14,secretary of energy,energy,department of energy,6,James Watkins,republican,1989-03-01,1993-01-20,George H. W. Bush
+14,secretary of energy,energy,department of energy,7,Hazel O'Leary,democratic,1993-01-22,1997-01-20,Bill Clinton
+14,secretary of energy,energy,department of energy,8,Federico Peña,democratic,1997-03-12,1998-06-30,Bill Clinton
+14,secretary of energy,energy,department of energy,9,Bill Richardson,democratic,1998-08-18,2001-01-20,Bill Clinton
+14,secretary of energy,energy,department of energy,10,Spencer Abraham,republican,2001-01-20,2005-02-01,George W. Bush
+14,secretary of energy,energy,department of energy,11,Samuel Bodman,republican,2005-02-01,2009-01-20,George W. Bush
+14,secretary of energy,energy,department of energy,12,Steven Chu,democratic,2009-01-20,2013-04-22,Barack Obama
+14,secretary of energy,energy,department of energy,-,Daniel Poneman,democratic,2013-04-22,2013-05-21,Barack Obama
+14,secretary of energy,energy,department of energy,13,Ernest Moniz,democratic,2013-05-21,2017-01-20,Barack Obama
+14,secretary of energy,energy,department of energy,-,Grace Bochenek,,2017-01-20,2017-03-02,Donald Trump
+14,secretary of energy,energy,department of energy,14,Rick Perry,republican,2017-03-02,2019-12-01,Donald Trump
+14,secretary of energy,energy,department of energy,15,Dan Brouillette,republican,2019-12-01,incumbent,Donald Trump
+15,secretary of education,education,department of education,1,Shirley Hufstedler,democratic,1979-11-30,1981-01-20,Jimmy Carter
+15,secretary of education,education,department of education,2,Terrel Bell,republican,1981-01-22,1985-01-20,Ronald Reagan
+15,secretary of education,education,department of education,3,William Bennett,republican,1985-02-06,1988-09-20,Ronald Reagan
+15,secretary of education,education,department of education,4,Lauro Cavazos,democratic,1988-09-20,1990-12-12,Ronald Reagan - George H. W. Bush
+15,secretary of education,education,department of education,-,Ted Sanders,,1990-12-12,1991-03-22,George H. W. Bush
+15,secretary of education,education,department of education,5,Lamar Alexander,republican,1991-03-22,1993-01-20,George H. W. Bush
+15,secretary of education,education,department of education,6,Richard Riley,democratic,1993-01-21,2001-01-20,Bill Clinton
+15,secretary of education,education,department of education,7,Rod Paige,republican,2001-01-20,2005-01-20,George W. Bush
+15,secretary of education,education,department of education,8,Margaret Spellings,republican,2005-01-20,2009-01-20,George W. Bush
+15,secretary of education,education,department of education,9,Arne Duncan,democratic,2009-01-21,2016-01-01,Barack Obama
+15,secretary of education,education,department of education,10,Phil Rosenfelt,democratic,2016-01-01,2017-01-20,Barack Obama
+15,secretary of education,education,department of education,-,Phil Rosenfelt,independent,2017-01-20,2017-02-07,Donald Trump
+15,secretary of education,education,department of education,11,Betsy DeVos,republican,2017-02-07,incumbent,Donald Trump
+16,secretary of veterans affairs,va,department of veterans affairs,1,Ed Derwinski,republican,1989-03-15,1992-09-26,George H. W. Bush
+16,secretary of veterans affairs,va,department of veterans affairs,-,Anthony Principi,republican,1992-09-26,1993-01-20,George H. W. Bush
+16,secretary of veterans affairs,va,department of veterans affairs,2,Jesse Brown,democratic,1993-01-22,1997-07-01,Bill Clinton
+16,secretary of veterans affairs,va,department of veterans affairs,-,Hershel W. Gober,democratic,1997-07-01,1998-01-02,Bill Clinton
+16,secretary of veterans affairs,va,department of veterans affairs,3,Togo D. West Jr.,democratic,1998-01-02,2000-07-25,Bill Clinton
+16,secretary of veterans affairs,va,department of veterans affairs,-,Hershel W. Gober,democratic,2000-07-25,2001-01-20,Bill Clinton
+16,secretary of veterans affairs,va,department of veterans affairs,4,Anthony Principi,republican,2001-01-23,2005-01-26,George W. Bush
+16,secretary of veterans affairs,va,department of veterans affairs,5,Jim Nicholson,republican,2005-01-26,2007-10-01,George W. Bush
+16,secretary of veterans affairs,va,department of veterans affairs,-,Gordon H. Mansfield,republican,2007-10-01,2007-12-20,George W. Bush
+16,secretary of veterans affairs,va,department of veterans affairs,6,James Peake,republican,2007-12-20,2009-01-20,George W. Bush
+16,secretary of veterans affairs,va,department of veterans affairs,7,Eric Shinseki,independent,2009-01-20,2014-05-30,Barack Obama
+16,secretary of veterans affairs,va,department of veterans affairs,-,Sloan D. Gibson,republican,2014-05-30,2014-07-30,Barack Obama
+16,secretary of veterans affairs,va,department of veterans affairs,8,Bob McDonald,republican,2014-07-30,2017-01-20,Barack Obama
+16,secretary of veterans affairs,va,department of veterans affairs,-,Robert Snyder,,2017-01-20,2017-12-14,Donald Trump
+16,secretary of veterans affairs,va,department of veterans affairs,9,David Shulkin,independent,2017-12-14,2018-03-28,Donald Trump
+16,secretary of veterans affairs,va,department of veterans affairs,-,Robert Wilkie,republican,2018-03-28,2018-05-29,Donald Trump
+16,secretary of veterans affairs,va,department of veterans affairs,-,Peter O'Rourke,republican,2018-05-29,2018-07-30,Donald Trump
+16,secretary of veterans affairs,va,department of veterans affairs,10,Robert Wilkie,republican,2018-07-30,incumbent,Donald Trump
+17,secretary of homeland security,homeland,department of homeland security,1,Tom Ridge,republican,2003-01-24,2005-02-01,George W. Bush
+17,secretary of homeland security,homeland,department of homeland security,-,James Loy,independent,2005-02-01,2005-02-15,George W. Bush
+17,secretary of homeland security,homeland,department of homeland security,2,Michael Chertoff,republican,2005-02-15,2009-01-21,George W. Bush
+17,secretary of homeland security,homeland,department of homeland security,3,Janet Napolitano,democratic,2009-01-21,2013-09-06,Barack Obama
+17,secretary of homeland security,homeland,department of homeland security,-,Rand Beers,democratic,2013-09-06,2013-12-23,Barack Obama
+17,secretary of homeland security,homeland,department of homeland security,4,Jeh Johnson,democratic,2013-12-23,2017-01-20,Barack Obama
+17,secretary of homeland security,homeland,department of homeland security,5,John F. Kelly,independent,2017-01-20,2017-07-31,Donald Trump
+17,secretary of homeland security,homeland,department of homeland security,-,Elaine Duke,independent,2017-07-31,2017-12-06,Donald Trump
+17,secretary of homeland security,homeland,department of homeland security,6,Kirstjen Nielsen,republican,2017-12-06,2019-04-11,Donald Trump
+17,secretary of homeland security,homeland,department of homeland security,-,Kevin McAleenan,independent,2019-04-11,2019-11-13,Donald Trump
+17,secretary of homeland security,homeland,department of homeland security,-,Chad Wolf,republican,2019-11-13,incumbent,Donald Trump
