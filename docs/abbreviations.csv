@@ -1,0 +1,312 @@
+acronym,full,type
+4D QL,4D Query Language,Database
+ACL,Access Control List,IT Security
+ADFS,Active Directory Federation Service,Server/IT Infrastructure
+AES,Advanced Encryption System,IT Security
+AFAIK,As far as I Know,Network/Internet
+AI,Artificial Intelligence,AI
+ALU,Arithmetic Logic Units,Server/IT Infrastructure
+AMA,Ask Me Anything,Blogging/SEO
+Amazon EBS,Amazon Elastic Block Store,Cloud Computing
+Amazon ECR,Amazon Elastic Container Registry,Cloud Computing
+Amazon ES,Amazon Elasticsearch Service,Cloud Computing
+Amazon MSK,Amazon Managed Streaming for Apache Kafka,Cloud Computing
+Amazon QLDB,Amazon Quantum Ledger Database,Cloud Computing
+Amazon SES,Amazon Simple Email System,Cloud Computing
+AMI,Amazon Machine Image,Cloud Computing
+ANN,Artificial Neural Network,AI
+AP,Access Point,Network/Internet
+API,Application Programming Interface,Development
+ARN,Amazon Resource Name,Cloud Computing
+ASCII,American Standard Code for Information Interchange,Development
+ASG,Auto Scaling Group,Cloud Computing
+ASN,Autonomous System Number,Network/Internet
+AU,Activation Unit,Server/IT Infrastructure
+AVX,Advanced Vector Extensions,Server/IT Infrastructure
+AWS,Amazon Web Services,Cloud Computing
+AZ,Availability Zone,Cloud Computing
+B2B,Business to Business,Blogging/SEO
+B2C,Business to Consumer,Blogging/SEO
+BGP,Border Gateway Protocol,Network/Internet
+BI,Business Intelligence,Server/IT Infrastructure
+BIOS,Basic Input Output System,Server/IT Infrastructure
+BPO,Business Process Outsourcing,Server/IT Infrastructure
+BYOD,Bring Your Own Device,Server/IT Infrastructure
+CAN-SPAM,Controlling the Assault of Non-Solicited Pornography and Marketing Act,Network/Internet
+CBSP,Cloud-based Security Providers,IT Security
+CDN,Content Delivery Network,Network/Internet
+CI/CD,Continous Integration/Continous Deployment,Server/IT Infrastructure
+CIDR,Classless Inter-Domain Routing,Network/Internet
+CLI,Command Line Interface,Server/IT Infrastructure
+CMS,Content Management System,Blogging/SEO
+CNAME,Canonical Name,Network/Internet
+CNN,Convolutional Neural Network,AI
+CORS,Cross-Origin Resource Sharing,IT Security
+CPC,Cost Per Click,Blogging/SEO
+CPL,Cost Per Lead,Blogging/SEO
+CPM,Cost Per Thousand Impressions,Blogging/SEO
+CR,Conversion Rate,Blogging/SEO
+CRM,Customer Relationship Management,Blogging/SEO
+CRO,Conversion Rate Optimization,Blogging/SEO
+CSP,Content Security Policy,IT Security
+CSRF,Cross-Site Request Forgery,IT Security
+CSS,Cascading Style Sheets,Development
+CTA,Call to Action,Blogging/SEO
+CTC,Connectionist Temporal Classification,AI
+CTR,Click Through Rate,Blogging/SEO
+CTS,Click-Through Rate,Blogging/SEO
+CV,Computer Vision,AI
+CVSS,Common Vulnerability Scoring System,IT Security
+CWE,Common Weakness Enumeration,IT Security
+CX,Customer Experience,Blogging/SEO
+D2D,Device to Device,Network/Internet
+DA,Domain Authority,Blogging/SEO
+DaaS,Desktop-as-a-Service,Server/IT Infrastructure
+DAST,Dynamic Application Security Testing,IT Security
+DC,Data Center,Server/IT Infrastructure
+DDL,Data Definition Language,Database
+DDoS,Distributed Denial Of Services,IT Security
+DES,Data Encryption Standard,IT Security
+DHCP,Dynamic Host Configuration Protocol,Network/Internet
+DKIM,Domain Keys Identified Mail,IT Security
+DM,Direct Message,Network/Internet
+DMARC,Domain-based Message Authentication Reporting and Conformance,IT Security
+DMCA,Digital Millennium Copyright Act,Blogging/SEO
+DML,Data Manipulation Language,Database
+DMS,Database Migration Service,Database
+DNS,Domain Name System,Network/Internet
+DNSSEC,Domain Name System Security Extensions,IT Security
+DOM,Document Object Model,Network/Internet
+DOS,Denial of Services,IT Security
+DQL,Data Query Language,Database
+DRDA,Distributed Relational Database Architecture,Database
+DRS,Distributed Resource Scheduler,Server/IT Infrastructure
+DSA,Digital Signature Algorithm,IT Security
+DSBS,Dual Sensor Brake Support,AI
+DT,Directory Traversal,IT Security
+DVD,Digital Versatile Disc,Server/IT Infrastructure
+DW,Data Warehouse,Server/IT Infrastructure
+EBS,Elastic Block Store,Cloud Computing
+EC2,Elastic Compute Cloud,Cloud Computing
+ECS,EC2 Container Service,Cloud Computing
+EFS,Elastic File System,Cloud Computing
+EIP,Elastic IP,Cloud Computing
+ELB,Elastic Load Balancer,Cloud Computing
+EMR,Elastic Map Reduce,Cloud Computing
+ENI,Elastic Network Interface,Cloud Computing
+EOF,End Of File,Development
+EOL,End Of Life,Development
+ERP,Enterprise Resource Planning,Server/IT Infrastructure
+ESX,Elastic Sky X,Server/IT Infrastructure
+FaaS,Function as-a-Service,Cloud Computing
+FB,Facebook,Network/Internet
+FIFO,First In First Out,Development
+FOMO,Fear of Missing Out,Blogging/SEO
+FOSS,Free and open-source software,Server/IT Infrastructure
+FSx,File systems,Cloud Computing
+FTP,File Transfer Protocol,Network/Internet
+FUD,Fully Undetectable,IT Security
+GA,Google Analytics,Blogging/SEO
+GCLB,Google Cloud Load Balancer,Cloud Computing
+GCP,Google Cloud Platform,Cloud Computing
+GCS,Google Cloud Storage,Cloud Computing
+GDPR,General Data Protection Regulation,Network/Internet
+GUI,Graphical User Interface,Server/IT Infrastructure
+HA,High Availability,Server/IT Infrastructure
+HAC,High-availability Clusters,Server/IT Infrastructure
+HAR,HTTP Archive,Network/Internet
+HITS,Hyperlink-Induced Topic Search,Blogging/SEO
+HMD,Head Mounted Displays,AI
+HP CSA,HP Cloud Service Automation,Cloud Computing
+HPC,High-Performance Compute,Cloud Computing
+HTML,Hypertext Markup Language,Development
+HTTP,HyperText Transport Protocol,Network/Internet
+HTTPS,HyperText Transport Protocol Secure,Network/Internet
+HVM,Hardware Virtual Machine,Cloud Computing
+I/0,Input & Output,Development
+IaaS,Infrastructure-as-a-Service,Cloud Computing
+IAM,Identity & Access Management,IT Security
+ICMP,Internet Control Message Protocol,Network/Internet
+IDE,Integrated Development Environment,Development
+IE,Internet Explorer,Network/Internet
+IFTTT,If This Then That,Network/Internet
+IG,Internet Gateway,Cloud Computing
+IMAP,Internet Message Access Protocol,Network/Internet
+IMS,Intelligent Maintenance Systems,AI
+IO,Insertion Order,Blogging/SEO
+IOPS,Input/output Operations Per Second,Server/IT Infrastructure
+IoT,Internet Of Things,Network/Internet
+IP,Internet Protocol,Network/Internet
+IPSec,Internet Protocol Security,IT Security
+iSCSI,Internet Small Computer Storage Interface,Server/IT Infrastructure
+ISP,Internet Service Provider,Network/Internet
+IT,Information Technology,Server/IT Infrastructure
+Java EE,Java,Enterprise Edition
+JCE,Java Cryptography Extension,Development
+JDK,Java Development Kit,Development
+JS,JavaScript,Development
+JSON,JavaScript Object Notation,Development
+KMS,Key Management Service,Cloud Computing
+KVM,Kernel-based Virtual Machine,Server/IT Infrastructure
+LAN,Local Area Network,Network/Internet
+LB,Load Balancer,Network/Internet
+LESS,Leaner Style Sheets,Development
+LFI,Local File Inclusion,IT Security
+LLT,Low Latency Transport,Network/Internet
+LNN,Learning Neural Networks,AI
+LSI,Latent Semantic Indexing,Blogging/SEO
+LSTM,Long Short-term Memory,AI
+M2M,Machine to Machine,AI
+MAC,Media Access Control,Network/Internet
+MFA,Multi-Factor Authentication,IT Security
+MI,Machine Intelligence,AI
+MIME,Multipurpose Internet Mail Extensions,Network/Internet
+MITM,Man in the Middle Attack,IT Security
+ML,Machine Learning,AI
+MPLS,Multi-Protocol Label Switching,Network/Internet
+MPP,Massive Parallel Processing,Server/IT Infrastructure
+MSTSC,Microsoft Terminal Service Client,Server/IT Infrastructure
+MX,Mail Exchange,Network/Internet
+NACK,Negative ACKnowledgement,Network/Internet
+NAT,Network Address Translation,Network/Internet
+NDA,Nondisclosure Agreement,Network/Internet
+NFS,Network File System,Server/IT Infrastructure
+NI,Natural Intelligence,AI
+NIC,Network Interface Card,Network/Internet
+NLNN,Non-Learning Neural Networks,AI
+NLP,Natural Language Processing,AI
+NLU,Natural Language Understanding,AI
+NPS,Net Promoter Score,Blogging/SEO
+NS,Name Server,Network/Internet
+OLA,Operational-level Agreement,Server/IT Infrastructure
+OLAP,Online Analytical Processing,Database
+OLTP,Online Transaction Processing,Database
+OS,Operating System,Server/IT Infrastructure
+OSCI,OS Command Injection,IT Security
+OSS,Open Source Software,Server/IT Infrastructure
+OWASP,Open Web Application Security Project,IT Security
+P2V,Physical to Virtual,Server/IT Infrastructure
+PaaS,Platform-as-a-Service,Server/IT Infrastructure
+PBN,Private Blog Network,Blogging/SEO
+PCI DSS,Payment Card Industry Data Security Standard,IT Security
+PDF,Portable Document Format,Network/Internet
+PHP,Hypertext Preprocessor,Development
+PM,Private Message,Network/Internet
+POP,Post Office Protocol,Network/Internet
+POP (CDN),Point Of Presence of CDN,Network/Internet
+PPC,Pay Per Click,Blogging/SEO
+PPTP,Point-to-Point Tunneling Protocol,Network/Internet
+PR,PageRank,Blogging/SEO
+PSU,Power Supply Unit,Server/IT Infrastructure
+PT,Path Traversal,IT Security
+QDD,Query Deserves Diversity,Blogging/SEO
+QDF,Query Deserves Freshness,Blogging/SEO
+QEMU,Quick Emulator,Server/IT Infrastructure
+QoS,Quality of Service,Network/Internet
+QUIC,Quick UDP Internet Connections,Network/Internet
+RAD,Rapid Application Development,Development
+RAID,Redundant Array of Independent Disk,Server/IT Infrastructure
+RAM,Random-access Memory,Server/IT Infrastructure
+RAT,Remote Administration Tool,IT Security
+RDP,Remote Desktop Protocol,Network/Internet
+RDS,Relational Database Service,Database
+RDSMS,Relational Data Stream Management System,Database
+RFI,Remote File Inclusion,IT Security
+RISC,Reduced Instruction Set Computer,Server/IT Infrastructure
+RL,Reinforcement Learning,AI
+RNN,Recurrent Neural Network,AI
+ROI,Return on Investment,Blogging/SEO
+ROM,Read Only Memory,Server/IT Infrastructure
+RPA,Robotic Process Automation,AI
+RRS,Reduced Redundancy Storage,Cloud Computing
+RSS,Really Simple Syndication,Network/Internet
+RUM,Real-user Measurement,Server/IT Infrastructure
+S3,Simple Storage System,Cloud Computing
+S3 IA,S3 Infrequent Access,Cloud Computing
+SaaS,Software-as-a-Service,Development
+SAML,Security Assertion Markup Language,IT Security
+SAN,Storage Area Network,Server/IT Infrastructure
+SASS,Syntactically Awesome Style Sheets,Development
+SAST,Static Application Security Testing,IT Security
+SC,Supplementary Content,Blogging/SEO
+SCD,Source Code Disclosure,IT Security
+SCM,Search Content Marketing,Blogging/SEO
+SCM (Commerce),Supply Chain Management,Network/Internet
+SDK,Software Development Kit,Development
+SE,Social Engineering,IT Security
+SEA,Search Engine Advertising,Blogging/SEO
+SEM,Search Engine Marketing,Blogging/SEO
+SEO,Search Engine Optimization,Blogging/SEO
+SERM,Search Engine Reputation Management,Blogging/SEO
+SERP,Search Engine Results Page,Blogging/SEO
+SFTP,SSH File Transfer Protocol,Server/IT Infrastructure
+SKid,Script Kiddie,IT Security
+SLA,Service Level Agreement,Server/IT Infrastructure
+SM,Social Media,Blogging/SEO
+SMM,Social Media Marketing,Blogging/SEO
+SMO,Social Media Optimization,Blogging/SEO
+SMP,Social Media Platform,Blogging/SEO
+SMTP,Simple Mail Transfer Protocol,Network/Internet
+SNS,Simple Notification Service,Cloud Computing
+SOA,Start of Authority,Network/Internet
+SOAP,Simple Object Access Protocol,Development
+SPF,Sender Policy Framework,IT Security
+SQL,Structured Query Language,Database
+SQLi,SQL Injection,IT Security
+SQS,Simple Queue Service,Cloud Computing
+SR,Speech Recognition,AI
+SSD,Solid-state Drive,Server/IT Infrastructure
+SSE,Server Side Encryption,IT Security
+SSH,Secure Shell,Server/IT Infrastructure
+SSL,Secure Socket Layer,IT Security
+SSO,Single Sign-On,Server/IT Infrastructure
+STS,Security Token Service,IT Security
+SVG,Scalable Vector Graphics,Blogging/SEO
+SWS,Simple Workflow Service,Cloud Computing
+TCP,Transmission Control Protocol,Network/Internet
+TLD,Top-level domain,Network/Internet
+TLS,Transport Layer Security,IT Security
+ToS,Terms of Service,Blogging/SEO
+TPM,Trusted Platform Module,Cloud Computing
+TPS,Transaction Per Second,Network/Internet
+TPU,Tensor Processing Unit,Server/IT Infrastructure
+TTF,TrueType Font,Network/Internet
+TTL,Time To Live,Network/Internet
+TTY,Teletype,Server/IT Infrastructure
+UA,Universal Analytics,Blogging/SEO
+UDP,User Datagram Protocol,Network/Internet
+UI/UX,User Interface/User Experience,Blogging/SEO
+UPS,Uninterruptible Power Supply,Server/IT Infrastructure
+URI,Uniform Resource Identifier,Network/Internet
+URL,Uniform Resource Locator,Network/Internet
+VBS,Visual Basic Script,Development
+VCS,Version Control Systems,Development
+VCS,Veritas Cluster Server,Server/IT Infrastructure
+VDI,Virtual Desktop Infrastructure,Server/IT Infrastructure
+VG,Volume Group,Server/IT Infrastructure
+VIP,Virtual IP,Network/Internet
+VLAN,Virtual Local Area Network,Network/Internet
+VM,Virtual Machine,Server/IT Infrastructure
+VPC,Virtual Private Cloud,Cloud Computing
+VPG,Virtual Private Gateway,Cloud Computing
+VPN,Virtual Private Network,Network/Internet
+VPS,Virtual Private Server,Cloud Computing
+VSM,Virtual Supervisor Module,Server/IT Infrastructure
+VTL,Virtual Tape Library,Server/IT Infrastructure
+VXLAN,Virtual Extensible Local Area Network,Server/IT Infrastructure
+WAF,Web Application Firewall,IT Security
+WAN,Wide Area Network,Network/Internet
+WAP,Web Application Protection,IT Security
+WCAG,Web Content Accessibility Guidelines,Network/Internet
+WINS,Windows Internet Name Service,Server/IT Infrastructure
+WLAN,Wireless Local Area Network,Network/Internet
+WMI,Windows Management Instrumentation,Server/IT Infrastructure
+WP,WordPress,Blogging/SEO
+WPAN,Wireless Personal Area Network,Network/Internet
+WWW,World Wide Web,Network/Internet
+WYSIWYG,What You See Is What You Get,Development
+XHTML,Extensible Hypertext Markup Language,Development
+XML,Extensible Markup Language,Development
+XSD,XML Schema Definition,Development
+XSS,Cross-site Scripting,IT Security
+ZMOT,Zero Moment of Truth,Blogging/SEO
