@@ -38,13 +38,8 @@ jobs:
           github_token: ${{ secrets.API_KEY_GITHUB_PAGES }}
           publish_dir: ./web # The folder the action should deploy.
           force_orphan: true
-      - name: Send Email
-        run: yarn email
+      - name: Send to Telegram
+        run: yarn telegram
         env:
-          API_KEY_COIN_RANKING: ${{ secrets.API_KEY_COIN_RANKING }}
-          API_KEY_NEWS: ${{ secrets.API_KEY_NEWS }}
-          API_KEY_OPEN_WEATHER: ${{ secrets.API_KEY_OPEN_WEATHER }}
-          API_KEY_YOUTUBE: ${{ secrets.API_KEY_YOUTUBE }}
-          GMAIL_FROM: ${{ secrets.GMAIL_FROM }}
-          GMAIL_PASSWORD: ${{ secrets.GMAIL_PASSWORD }}
-          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+          API_KEY_TELEGRAM: ${{ secrets.API_KEY_TELEGRAM }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
