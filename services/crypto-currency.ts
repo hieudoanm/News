@@ -4,6 +4,7 @@ import { currencyFormatter } from "../libs/utils";
 
 export const saveCoins = async () => {
   const coins: Array<Coin> = await getCoins();
+  await fs.writeFileSync("./json/coins.json", JSON.stringify(coins, null, 2));
 
   const markdown: string = `# Coins
 

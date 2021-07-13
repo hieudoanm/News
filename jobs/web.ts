@@ -8,6 +8,7 @@ import {
   getCanChiOfYear,
   getTietKhi,
 } from "../libs/calendar";
+import { Coin, getCoins } from "../libs/coin-ranking";
 import { getTrends } from "../libs/google-trends";
 import { Article, getSources, getTopHeadlines, Source } from "../libs/news-api";
 import {
@@ -15,7 +16,7 @@ import {
   getWeatherForecast,
 } from "../libs/open-weather-map";
 import { Card, getCards } from "../libs/tarot";
-import { addZero } from "../libs/utils";
+import { addZero, currencyFormatter } from "../libs/utils";
 import { getMostPopularVideos, Video } from "../libs/youtube";
 
 dotenv.config();
@@ -33,7 +34,7 @@ const generateHTML = (body: string): string => {
     </style>
   </head>
   <body>
-    <div style="margin: 0 auto; max-width: 300px">
+    <div style="margin: 0 auto; max-width: 600px">
       <div style="padding: 1rem">
         ${body}
       </div>
@@ -89,7 +90,7 @@ const getGoogleTrends = async () => {
       <p style="margin-bottom: 0.5rem">${solarDate}</p>
       <p style="margin-bottom: 0.5rem">${lunarDate}</p>
       <p style="margin-bottom: 0.5rem">${canChi} (${tietKhi})</p>
-      <h1 style="text-transform: uppercase">Cafe Sang</h1>
+      <h1 style="text-transform: uppercase">Café Sáng</h1>
     </div>
     <div>
       ${trends
@@ -194,7 +195,7 @@ const getWeather = async (city: string) => {
             text-align: center;
           "
         >
-          <div>${main}</div>
+          <div><b>${main}</b></div>
           <div>${description}</div>
         </td>
         <td
@@ -205,8 +206,8 @@ const getWeather = async (city: string) => {
             text-align: right;
           "
         >
-          <div>${temp}°C</div>
-          <div>(${feelsLike}°C)</div>
+          <div><b>${temp}°C</b></div>
+          <div>${feelsLike}°C</div>
         </td>
       </tr>
       ${filteredForecast
@@ -235,7 +236,7 @@ const getWeather = async (city: string) => {
             text-align: center;
           "
         >
-          <div>${main}</div>
+          <div><b>${main}</b></div>
           <div>${description}</div>
         </td>
         <td
@@ -246,8 +247,77 @@ const getWeather = async (city: string) => {
             text-align: right;
           "
         >
-          <div>${temp}°C</div>
-          <div>(${feelsLike}°C)</div>
+          <div><b>${temp}°C</b></div>
+          <div>${feelsLike}°C</div>
+        </td>
+      </tr>`;
+        })
+        .join("\n")}
+    </tbody>
+  </table>
+</div>`;
+};
+
+const getCoinRanking = async () => {
+  const coins = await getCoins();
+  const topCoins = coins.slice(0, 5);
+  return `<div
+  style="
+    border-radius: 0.25rem;
+    border: 1px solid #e6e6e6;
+    margin-bottom: 1rem;
+  "
+>
+  <table
+    style="
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      border-collapse: collapse;
+    "
+  >
+    <caption
+      style="
+        text-align: center;
+        padding: 1rem;
+        border-bottom: 1px solid #e6e6e6;
+      "
+    >
+      <h2>Coins</h2>
+    </caption>
+    <tbody>
+      ${topCoins
+        .map((coin: Coin) => {
+          const { iconUrl, symbol, name, price, coinrankingUrl } = coin;
+          const price2: string = currencyFormatter(parseFloat(price));
+          return `<tr>
+        <td
+          style="
+            padding: 0.75rem;
+            border-bottom: 1px solid #e6e6e6;
+            width: 33.33%;
+          "
+        >
+          <div style="display: flex; align-items: center">
+            <img
+              src="${iconUrl}"
+              width="16px"
+              style="margin-right: 16px"
+            />
+            <a href="${coinrankingUrl}" target="_blank" style="text-decoration: none">
+              ${symbol} - ${name}
+            </a>
+          </div>
+        </td>
+        <td
+          style="
+            padding: 0.75rem;
+            border-bottom: 1px solid #e6e6e6;
+            width: 33.33%;
+            text-align: right;
+          "
+        >
+          <b>$${price2}</b>
         </td>
       </tr>`;
         })
@@ -403,11 +473,13 @@ const getTarot = async () => {
 const generateBody = async (): Promise<string> => {
   const googleTrends = await getGoogleTrends();
   const weather = await getWeather("ho chi minh city");
+  const coinRanking = await getCoinRanking();
   const news = await getNews();
   const youTubeTrending = await getYouTubeTrending();
   const tarot = await getTarot();
   return `${googleTrends}
 ${weather}
+${coinRanking}
 ${news}
 ${youTubeTrending}
 ${tarot}`;
