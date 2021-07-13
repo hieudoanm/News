@@ -5,7 +5,9 @@ dotenv.config();
 
 const main = async () => {
   const CHAT_ID: number = parseInt(process.env.CHAT_ID || "0", 10) || 0;
-  const response = await sendMessage(CHAT_ID, "Test");
+  const [date] = new Date().toISOString().split("T");
+  const message: string = `[${date}](https://hieudoanm.github.io/news/)`;
+  const response = await sendMessage(CHAT_ID, message);
   console.log(response);
 };
 

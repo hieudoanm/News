@@ -3,6 +3,7 @@ name: GitHub Pages Deploy
 on:
   push:
     paths:
+      - "jobs/**"
       - "web/**"
       - ".github/workflows/gh-pages.yaml"
     branches:
@@ -26,14 +27,17 @@ jobs:
         run: yarn web
         env:
           API_KEY_COIN_RANKING: ${{ secrets.API_KEY_COIN_RANKING }}
-          API_KEY_GITHUB: ${{ secrets.API_KEY_GITHUB }}
           API_KEY_NEWS: ${{ secrets.API_KEY_NEWS }}
-          API_KEY_TELEGRAM: ${{ secrets.API_KEY_TELEGRAM }}
+          API_KEY_OPEN_WEATHER: ${{ secrets.API_KEY_OPEN_WEATHER }}
           API_KEY_YOUTUBE: ${{ secrets.API_KEY_YOUTUBE }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}s
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: web # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
+      - name: Telegram
+        run: yarn telegram
+        env:
+          API_KEY_TELEGRAM: ${{ secrets.API_KEY_TELEGRAM }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
