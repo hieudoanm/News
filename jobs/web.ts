@@ -40,11 +40,11 @@ const generateHTML = (body: string): string => {
     </style>
   </head>
   <body>
-    <div style="margin: 0 auto; max-width: 600px">
+    <main style="margin: 0 auto; max-width: 600px">
       <div style="padding: 1rem">
         ${body}
       </div>
-    </div>
+    </main>
   </body>
 </html>
 `;
