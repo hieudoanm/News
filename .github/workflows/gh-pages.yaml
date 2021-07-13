@@ -32,13 +32,13 @@ jobs:
           API_KEY_NEWS: ${{ secrets.API_KEY_NEWS }}
           API_KEY_OPEN_WEATHER: ${{ secrets.API_KEY_OPEN_WEATHER }}
           API_KEY_YOUTUBE: ${{ secrets.API_KEY_YOUTUBE }}
-      - name: Deploy
+      - name: Deploy Web
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: web # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
-      - name: Telegram
+      - name: Send to Telegram
         run: yarn telegram
         env:
           API_KEY_TELEGRAM: ${{ secrets.API_KEY_TELEGRAM }}
