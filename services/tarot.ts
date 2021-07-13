@@ -19,5 +19,5 @@ export const saveCards = async () => {
 ${meaning_up}
 </p>
 `;
-  await fs.writeFileSync("./TAROT.md", markdown);
+  await fs.writeFileSync("./markdown/TAROT.md", markdown);
 };

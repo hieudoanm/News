@@ -4,13 +4,16 @@ import { getCategories, getMostPopularVideos, Video } from "../libs/youtube";
 export const saveCategories = async () => {
   const categories = await getCategories();
   await fs.writeFileSync(
-    "./json/categories.json",
+    "./json/youtube/categories.json",
     JSON.stringify(categories, null, 2)
   );
 };
 
 export const saveYouTube = async () => {
   const videos = await getMostPopularVideos(0, 50);
+  const json = JSON.stringify(videos, null, 2);
+  await fs.writeFileSync("./json/youtube/videos.json", json);
+
   const markdown: string = `# YouTube
   
 ${videos
@@ -21,5 +24,5 @@ ${videos
   })
   .join("\n")}
 `;
-  await fs.writeFileSync("./YOUTUBE.md", markdown);
+  await fs.writeFileSync("./markdown/YOUTUBE.md", markdown);
 };

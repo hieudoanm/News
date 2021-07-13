@@ -18,5 +18,5 @@ ${description}
   })
   .join("\n")}
 `;
-  await fs.writeFileSync("./DEV-TO.md", markdown);
+  await fs.writeFileSync("./markdown/DEV-TO.md", markdown);
 };

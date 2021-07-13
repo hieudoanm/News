@@ -1,6 +1,13 @@
 import dotenv from "dotenv";
 import fs from "fs";
 import _ from "lodash";
+import {
+  convertSolarToLunar,
+  getCanChiOfDate,
+  getCanChiOfMonth,
+  getCanChiOfYear,
+  getTietKhi,
+} from "../libs/calendar";
 import { getTrends } from "../libs/google-trends";
 import { Article, getSources, getTopHeadlines, Source } from "../libs/news-api";
 import {
@@ -8,6 +15,8 @@ import {
   getWeatherForecast,
 } from "../libs/open-weather-map";
 import { Card, getCards } from "../libs/tarot";
+import { addZero } from "../libs/utils";
+import { getMostPopularVideos, Video } from "../libs/youtube";
 
 dotenv.config();
 
@@ -24,14 +33,7 @@ const generateHTML = (body: string): string => {
     </style>
   </head>
   <body>
-    <div
-      style="
-        margin: 0 auto;
-        max-width: 600px;
-        background-color: white;
-        color: black;
-      "
-    >
+    <div style="margin: 0 auto; max-width: 300px">
       <div style="padding: 1rem">
         ${body}
       </div>
@@ -41,12 +43,40 @@ const generateHTML = (body: string): string => {
 `;
 };
 
+const getCanChi = ({
+  year,
+  month,
+  date,
+}: {
+  year: number;
+  month: number;
+  date: number;
+}): string => {
+  const canChiOfYear: string = getCanChiOfYear(year);
+  const canChiOfMonth: string = getCanChiOfMonth(month, year);
+  const canChiOfDate: string = getCanChiOfDate(date, month, year);
+  const canChi: string = `${canChiOfYear} - ${canChiOfMonth} - ${canChiOfDate}`;
+  return canChi;
+};
+
 const getGoogleTrends = async () => {
   const d = new Date();
-  const [date] = d.toISOString().split("T");
+  const year = d.getFullYear();
+  const month = d.getMonth() + 1;
+  const date = d.getDate();
+  const [solarDate] = d.toISOString().split("T");
+  const {
+    year: lYear,
+    month: lMonth,
+    date: lDate,
+  } = convertSolarToLunar({ year, month, date });
+  const lunarDate = `${lYear}-${addZero(lMonth)}-${addZero(lDate)}`;
+  const canChi = getCanChi({ year: lYear, month: lDate, date: lDate });
+  const tietKhi: string = getTietKhi({ date, month, year });
   const data = await getTrends();
-  const trends = _.get(data, "vietnam", []).sort();
-  const base = "https://google.com/search";
+  const trends: Array<string> = _.get(data, "vietnam", []).sort();
+  const colors: Array<string> = ["#4285f4", "#ea4335", "#fbbc05", "#34a853"];
+  const base: string = "https://google.com/search";
   return `<div
   style="
     border-radius: 0.25rem;
@@ -56,17 +86,20 @@ const getGoogleTrends = async () => {
 >
   <div style="padding: 1rem">
     <div style="text-align: center; margin-bottom: 1rem">
-      <p>${date}</p>
+      <p style="margin-bottom: 0.5rem">${solarDate}</p>
+      <p style="margin-bottom: 0.5rem">${lunarDate}</p>
+      <p style="margin-bottom: 0.5rem">${canChi} (${tietKhi})</p>
       <h1 style="text-transform: uppercase">Cafe Sang</h1>
     </div>
     <div>
       ${trends
-        .map((trend: string) => {
+        .map((trend: string, index: number) => {
+          const color: string = colors[index % 4];
           const url: string = `${base}?q=${encodeURI(trend)}`;
           return `<div
         style="
           display: inline-block;
-          background-color: black;
+          background-color: ${color};
           padding: 0.25rem;
           border-radius: 0.25rem;
           margin-bottom: 0.25rem;
@@ -161,7 +194,8 @@ const getWeather = async (city: string) => {
             text-align: center;
           "
         >
-          ${main} (${description})
+          <div>${main}</div>
+          <div>${description}</div>
         </td>
         <td
           style="
@@ -171,13 +205,15 @@ const getWeather = async (city: string) => {
             text-align: right;
           "
         >
-          ${temp}°C (${feelsLike}°C)
+          <div>${temp}°C</div>
+          <div>(${feelsLike}°C)</div>
         </td>
       </tr>
       ${filteredForecast
         .map((item) => {
           const { temp, feelsLike, main, description, timestamp } = item;
-          const d = new Date(timestamp * 1000);
+          const sevenHours = 1000 * 60 * 60 * 7;
+          const d = new Date(timestamp * 1000 + sevenHours);
           const [date, time] = d.toISOString().split("T");
           const [hour, minute] = time.split(":");
           return `<tr>
@@ -188,7 +224,8 @@ const getWeather = async (city: string) => {
             width: 33.33%;
           "
         >
-          ${date} ${hour}:${minute}
+          <div>${date}</div>
+          <div>${hour}:${minute}</div>
         </td>
         <td
           style="
@@ -198,7 +235,8 @@ const getWeather = async (city: string) => {
             text-align: center;
           "
         >
-          ${main} (${description})
+          <div>${main}</div>
+          <div>${description}</div>
         </td>
         <td
           style="
@@ -208,7 +246,8 @@ const getWeather = async (city: string) => {
             text-align: right;
           "
         >
-          ${temp}°C (${feelsLike}°C)
+          <div>${temp}°C</div>
+          <div>(${feelsLike}°C)</div>
         </td>
       </tr>`;
         })
@@ -233,25 +272,67 @@ const getNews = async (): Promise<string> => {
   "
 >
   <div style="padding: 1rem 0; border-bottom: 1px solid #e6e6e6">
-    <h2 style="text-align: center">News</h2>
+    <h2 style="text-align: center">Top Headlines</h2>
   </div>
   ${articles
     .map((article: Article) => {
-      const { title, source, description, url } = article;
+      const { title, source, description, url, urlToImage } = article;
       const { id, name } = source;
       const { url: sourceUrl = "#" } =
         sources.find((s: Source) => s.id === id) || {};
       return `<div style="padding: 1rem; border-bottom: 1px solid #e6e6e6">
-    <h3 style="margin-bottom: 0.5rem">${title}</h3>
+    <img
+      src="${urlToImage}"
+      alt="${title}"
+      style="width: 100%; margin-bottom: 0.5rem; border-radius: 0.5rem"
+    />
+    <h3 style="margin-bottom: 0.5rem">
+      <a href="${url}" target="_blank" style="text-decoration: none">${title}</a>
+    </h3>
     <p style="margin-bottom: 0.5rem">
       <a href="${sourceUrl}" target="_blank" style="text-decoration: none">
         ${name}
       </a>
     </p>
-    <p style="margin-bottom: 0.5rem">${description}</p>
-    <p>
+    <p>${description}</p>
+  </div>`;
+    })
+    .join("\n")}
+</div>`;
+};
+
+const getYouTubeTrending = async () => {
+  const videos = await getMostPopularVideos(0, 3);
+  return `<div
+  style="
+    border-radius: 0.25rem;
+    border: 1px solid #e6e6e6;
+    margin-bottom: 1rem;
+  "
+>
+  <div style="padding: 1rem 0; border-bottom: 1px solid #e6e6e6">
+    <h2 style="text-align: center">YouTube Trending</h2>
+  </div>
+  ${videos
+    .map((video: Video) => {
+      const { title, id, channelTitle, channelId } = video;
+      const url = `https://youtu.be/${id}`;
+      const channelUrl = `https://www.youtube.com/channel/${channelId}`;
+      const imgSrc = `https://img.youtube.com/vi/${id}/maxresdefault.jpg`;
+      return `<div style="padding: 1rem; border-bottom: 1px solid #e6e6e6">
+    <img
+      src="${imgSrc}"
+      alt="${title}"
+      style="width: 100%; margin-bottom: 0.5rem; border-radius: 0.25rem"
+    />
+    <h3 style="margin-bottom: 0.5rem">
       <a href="${url}" target="_blank" style="text-decoration: none">
-        Read More
+        ${title}
+      </a>
+    </h3>
+    <p>
+      <a href="${channelUrl}" target="_blank" style="text-decoration: none">
+        ${channelTitle}
       </a>
     </p>
   </div>`;
@@ -262,11 +343,21 @@ const getNews = async (): Promise<string> => {
 
 const getTarot = async () => {
   const { total, cards } = await getCards();
-  const randomIndex = Math.floor(Math.random() * total + 1);
-  const card: Card = cards[randomIndex] || cards[0];
-  const { type, name, meaning_up } = card;
-  const filename = name.replace(/ /g, "-").toLowerCase();
-  const imgSrc = `../images/tarot/${type}/${filename}.png`;
+  const index1 = Math.floor(Math.random() * total + 1);
+  const index2 = Math.floor(Math.random() * total + 1);
+  const index3 = Math.floor(Math.random() * total + 1);
+  const card1: Card = cards[index1] || cards[0];
+  const card2: Card = cards[index2] || cards[0];
+  const card3: Card = cards[index3] || cards[0];
+  const { type: type1, name: name1 } = card1;
+  const filename1 = name1.replace(/ /g, "-").toLowerCase();
+  const imgSrc1 = `../images/tarot/${type1}/${filename1}.png`;
+  const { type: type2, name: name2 } = card2;
+  const filename2 = name2.replace(/ /g, "-").toLowerCase();
+  const imgSrc2 = `../images/tarot/${type2}/${filename2}.png`;
+  const { type: type3, name: name3 } = card3;
+  const filename3 = name3.replace(/ /g, "-").toLowerCase();
+  const imgSrc3 = `../images/tarot/${type3}/${filename3}.png`;
   return `<div
   style="
     border-radius: 0.25rem;
@@ -278,18 +369,33 @@ const getTarot = async () => {
     <h2 style="text-align: center; margin-bottom: 1rem">
       Tarot of the Day
     </h2>
-    <img
-      src="${imgSrc}"
-      alt="Tarot"
-      style="
-        display: block;
-        max-width: 300px;
-        width: 100%;
-        margin: 0 auto 1rem;
-        border-radius: 0.25rem;
-      "
-    />
-    <p style="text-align: center">${meaning_up}</p>
+    <table>
+      <tbody>
+        <tr>
+          <td style="width: 33.33%">
+            <img
+              src="${imgSrc1}"
+              alt="${name1}"
+              style="width: 100%; border-radius: 0.25rem"
+            />
+          </td>
+          <td style="width: 33.33%">
+            <img
+              src="${imgSrc2}"
+              alt="${name2}"
+              style="width: 100%; border-radius: 0.25rem"
+            />
+          </td>
+          <td style="width: 33.33%">
+            <img
+              src="${imgSrc3}"
+              alt="${name3}"
+              style="width: 100%; border-radius: 0.25rem"
+            />
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>`;
 };
@@ -298,10 +404,12 @@ const generateBody = async (): Promise<string> => {
   const googleTrends = await getGoogleTrends();
   const weather = await getWeather("ho chi minh city");
   const news = await getNews();
+  const youTubeTrending = await getYouTubeTrending();
   const tarot = await getTarot();
   return `${googleTrends}
 ${weather}
 ${news}
+${youTubeTrending}
 ${tarot}`;
 };
 

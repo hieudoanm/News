@@ -3,29 +3,55 @@
   "articles": [
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Matthew Wells",
+      "title": "Conor McGregor takes shots at Dustin Poirier and his family in cryptic deleted tweets - MMA Junkie",
+      "description": "Conor McGregor went on a cryptic Tweet-and-delete spree directed at Dustin Poirier and his family late Monday night.",
+      "url": "https://mmajunkie.usatoday.com/2021/07/conor-mcgregor-takes-shots-at-dustin-poirier-and-his-family-in-cryptic-deleted-tweets",
+      "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/07/conor-mcgregor-ufc-264-ceremonial-weigh-ins-point.jpg?w=1000&h=576&crop=1",
+      "publishedAt": "2021-07-13T06:33:45Z",
+      "content": "Conor McGregor said the feud between himself and Dustin Poirier wasn’t over.\r\nMcGregor was seething in anger immediately after the conclusion of UFC 264‘s main event trilogy bout with Poirier, which … [+1491 chars]"
+    },
+    {
+      "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Caitlin Hu, Natalie Gallón and Matt Rivers. \nVideo and photos by David von Blohn.",
-      "title": "Haiti President's killing followed by fierce chase and gun battle -- exclusive - CNN ",
-      "description": "The plot to kill Haiti's President allegedly spanned multiple countries and involved highly experienced former military officers and months of planning, according to local officials. Yet the primary suspects in the case appear to have been unprepared for thei…",
-      "url": "https://www.cnn.com/2021/07/13/americas/haiti-president-assassins-gun-battle-cmd-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210712072835-002-haiti-president-assassins-gun-battle-super-tease.jpg",
-      "publishedAt": "2021-07-13T05:10:00Z",
-      "content": "Port-au-Prince, Haiti (CNN)The plot to kill Haiti's President allegedly spanned multiple countries and involved highly experienced former military officers and months of planning, according to local … [+11952 chars]"
+      "author": "Story by Reuters",
+      "title": "Hotel collapse in China's Jiangsu province kills eight - CNN ",
+      "description": "Part of a hotel collapsed in the Chinese city of Suzhou on Monday, killing eight people and leaving rescue workers searching for nine others who are still missing in the ruins, according to the local government.",
+      "url": "https://www.cnn.com/2021/07/13/china/suzhou-hotel-collapse-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210713010430-02-suzhou-hotel-collapse-0712-super-tease.jpg",
+      "publishedAt": "2021-07-13T06:12:00Z",
+      "content": "Part of a hotel collapsed in the Chinese city of Suzhou on Monday, killing eight people and leaving rescue workers searching for nine others who are still missing in the ruins, according to the local… [+714 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "https://www.engadget.com/about/editors/cherlynn-low",
+      "title": "Tag Heuer made a Super Mario-themed smartwatch because why not - Engadget",
+      "description": "Tag Heuer is collaborating with Nintendo to make a limited Super Mario edition of its Connected smartwatch..",
+      "url": "https://www.engadget.com/its-a-me-mario-smartwatch-by-tag-heuer-connected-060037257.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/cbe68f00-e347-11eb-9df7-ce48ead0ab76",
+      "publishedAt": "2021-07-13T06:01:16Z",
+      "content": "Your favorite video game plumber will soon be available on a Wear OS watch. Tag Heuer announced today that it's collaborating with Nintendo to make a Super Mario edition of its Connected smartwatch, … [+3697 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "New York Post"
       },
-      "author": "Evelyn Cheng",
-      "title": "The Chinese tech giants that Beijing is cracking down on are backers of big U.S. IPOs - CNBC",
-      "description": "China's anti-monopoly and data security crackdown has crept into restrictions on U.S. IPOs, in which some of the country's biggest tech companies are investors.",
-      "url": "https://www.cnbc.com/2021/07/13/china-tech-regulation-baba-tencent-xiaomi-are-backers-of-big-us-ipos.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106909318-1626063425150-gettyimages-1228294054-HK_PAYMENT_APPS.jpeg?v=1626063620",
-      "publishedAt": "2021-07-13T04:18:45Z",
-      "content": "Signage for digital payment services Alipay by Ant Group, an affiliate of Alibaba, and WeChat Pay by Tencent are displayed outside a currency exchange in Hong Kong, China, on Tuesday, Sept. 1, 2020.\r… [+3187 chars]"
+      "author": "Mark Lungariello",
+      "title": "Rapper gunned down outside Chicago jail, shot 64 times - New York Post ",
+      "description": "A Chicago rapper was gunned down in a hail of bullets moments after he walked out of jail and had been fitted for an ankle bracelet, reports said.",
+      "url": "https://nypost.com/2021/07/13/rapper-gunned-down-outside-chicago-jail-shot-64-times/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/07/Londre-Sylvester-KTS-Dre-02.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2021-07-13T05:39:00Z",
+      "content": "A Chicago rapper was gunned down in a hail of bullets moments after he walked out of jail and had been fitted for an ankle bracelet, reports said.\r\nWhen 31-year-old Londre Sylvester left Cook County … [+1381 chars]"
     },
     {
       "source": {
@@ -42,6 +68,19 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Associated Press",
+      "title": "Florida suspect in Haiti president killing deepens mystery - Fox News",
+      "description": "The arrest of a failed Haitian businessman living in Florida who authorities say was a key player in the killing of Haiti’s president deepened the mystery Monday into an already convoluted plot surrounding the assassination.",
+      "url": "https://www.foxnews.com/world/florida-suspect-in-haiti-president-killing-deepens-mystery",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/haiti-protests-assassination-florida-suspect.jpg",
+      "publishedAt": "2021-07-13T04:13:45Z",
+      "content": "PORT-AU-PRINCE, Haiti The arrest of a failed Haitian businessman living in Florida who authorities say was a key player in the killing of Haitis president deepened the mystery Monday into an already … [+9614 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
@@ -52,6 +91,19 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1lyMJS.c2nXyYZdtIfAb5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-07/a430a180-e388-11eb-bbeb-e2fd67f3aeb6",
       "publishedAt": "2021-07-13T04:03:56Z",
       "content": "DENVER The best baseball players in the world assembled in Denver on Monday to offer their expertly awed perspective on Shohei Ohtani.\r\nOh, they answered questions about their own exploits too, of co… [+5960 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Bitcoin Miners Navigate Extreme World of Crypto Power-Hunting - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5bbb3d50-e3b7-11eb-9ab0-c32e4a9c4ece&url=L25ld3MvZmVhdHVyZXMvMjAyMS0wNy0xMy9iaXRjb2luLW1pbmVycy1idWlsZGluZy1yaWdzLW11c3QtbmF2aWdhdGUtd29ybGQtb2YtY3J5cHRvLXBvd2VyLWh1bnRpbmc=",
+      "urlToImage": null,
+      "publishedAt": "2021-07-13T04:01:00Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
     },
     {
       "source": {
@@ -68,16 +120,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WSBT-TV"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Associated Press",
-      "title": "Officials: At least 8 dead, 9 missing in Chinese hotel collapse - KOMO News",
-      "description": "BEIJING (AP) &mdash; Authorities say at least eight people have died and 9 remained missing in a hotel collapse in Suzhou city in eastern China. The hotel building collapsed Monday afternoon, the Suzhou government said. Rescuers used cranes, ladders, metal cu…",
-      "url": "https://wsbt.com/news/nation-world/officials-at-least-8-dead-9-missing-in-chinese-hotel-collapse",
-      "urlToImage": "https://static-34.sinclairstoryline.com/resources/media/2e404717-a514-4c38-a983-5330cfd87eac-large16x9_CGS_Crime_Police_Line_Tape_IC.png?1626144357424",
-      "publishedAt": "2021-07-13T02:50:08Z",
-      "content": null
+      "author": "Andrew Tangel",
+      "title": "Boeing Faces New Dreamliner Production Problem - The Wall Street Journal",
+      "description": "A production defect has surfaced on a new location on the popular wide-body jet, likely adding further delays to deliveries",
+      "url": "https://www.wsj.com/articles/boeing-faces-new-dreamliner-production-problem-11626142306",
+      "urlToImage": "https://images.wsj.net/im-368278/social",
+      "publishedAt": "2021-07-13T02:49:00Z",
+      "content": "A new production problem has surfaced with\r\nBoeing Co.\r\n BA -0.54%\r\ns 787 Dreamliner, likely further delaying deliveries of the popular wide-body jets, people familiar with the matter said.Boeing exp… [+3449 chars]"
     },
     {
       "source": {
@@ -95,67 +147,54 @@
     {
       "source": {
         "id": null,
-        "name": "Vulture"
+        "name": "CNET"
       },
-      "author": "Devon Ivie",
-      "title": "The Bachelorette Is Just Recycling Seinfeld Scripts At This Point - Vulture",
-      "description": "It’s contest time.",
-      "url": "https://www.vulture.com/2021/07/the-bachelorette-katie-thurston-makes-men-not-masturbate.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/c53/378/c19645864f797127d7fd08fa3a2208e71b-the-bachelorette-1.1x.rsocial.w1200.jpg",
-      "publishedAt": "2021-07-13T02:40:34Z",
-      "content": "We were all collectively transported back to 92-era Monks on Mondays episode of The Bachelorette, with Katie Thurston declaring to her contestants that little friendly handshakes with themselves are … [+677 chars]"
+      "author": "Amanda Kooser",
+      "title": "Magnificent photo of the space station at sunrise will take your breath away - CNET",
+      "description": "Earth. ISS solar panels. Orbital sunrise. Wow.",
+      "url": "https://www.cnet.com/news/magnificent-photo-of-the-space-station-at-sunrise-will-take-your-breath-away/",
+      "urlToImage": "https://www.cnet.com/a/img/cpjQDGFr-xNkW2HbzxsF-U-7vX0=/1200x630/2021/07/12/8a3e196d-2030-4e18-8742-f90d6d48ab69/isskimbrough.jpg",
+      "publishedAt": "2021-07-13T02:31:50Z",
+      "content": "ISS solar panels catch the light during an orbital sunrise.\r\nNASA/Shane Kimbrough\r\nI love looking at photos taken from the International Space Station. I peek at the pyramids, ogle the aurorae and ma… [+2123 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Julius Young",
+      "title": "Jada Pinkett Smith debuts new buzz cut inspired by daughter Willow ahead of 50th birthday: 'Time to let go' - Fox News",
+      "description": "The actress and “Red Table Talk” host, 49, displayed a new look to the world which she revealed was inspired by her own daughter, Willow Smith, 20, as Pinkett Smith approaches her half-century age in September.",
+      "url": "https://www.foxnews.com/entertainment/jada-pinkett-smith-buzz-cut-inspired-daughter-willow-50th-birthday",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Jada-Pinkett-Smith.jpg",
+      "publishedAt": "2021-07-13T02:09:39Z",
+      "content": "Jada Pinkett Smith is starting fresh.\r\nThe actress and \"Red Table Talk\" host, 49, displayed a new look to the world which she revealed was inspired by her own daughter, Willow Smith, 20, as Pinkett S… [+2517 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Hannah Yasharoff, USA TODAY",
+      "title": "'Bachelorette' recap: Katie gets 'physically ill' over Hunter drama: 'I had to get out of there' - USA TODAY",
+      "description": "A week after Hunter walked away with Katie's group date rose, he stood at the center of the drama on ABC's \"The Bachelorette.\"",
+      "url": "https://www.usatoday.com/story/entertainment/tv/2021/07/13/bachelorette-recap-hunter-drama-makes-katie-physically-ill/7934665002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2021/07/12/USAT/959099a3-44b9-48ab-9e19-f76e8bcfaddd-159220_3532.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2021-07-13T02:00:37Z",
+      "content": "Monday's \"The Bachelorette\" episode was filled with high emotions and intense reactions from Katie, who cut her pool of men nearly in half.  \r\nA week after Hunter walked away with the group-date rose… [+2811 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "KSL.com"
+        "name": "Daily Beast"
       },
-      "author": "The Associated Press",
-      "title": "'Oh yeah! Mario time!' Unopened Super Mario 64 game sells for $1.56M, smashing records - KSL.com",
-      "description": "An unopened copy of Nintendo's Super Mario 64 has sold at auction for $1.56 million.",
-      "url": "https://www.ksl.com/article/50202777/oh-yeah-mario-time-unopened-super-mario-64-game-sells-for-156m-smashing-records",
-      "urlToImage": "https://img.ksl.com/slc/2832/283218/28321830.jpeg?filter=ksl/responsive_story_lg",
-      "publishedAt": "2021-07-13T02:38:10Z",
-      "content": "DALLAS (AP) An unopened copy of Nintendo's Super Mario 64 has sold at auction for $1.56 million.\r\nHeritage Auctions in Dallas said that the 1996 game sold Sunday, breaking its previous record price f… [+1099 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "",
-      "title": "Australia hands Team USA men's basketball another shocking defeat ahead of Tokyo Olympics - CBS Sports",
-      "description": "This is just the fourth exhibition loss for the United States since 1992 when pros were available to play",
-      "url": "https://www.cbssports.com/nba/news/australia-hands-team-usa-mens-basketball-another-shocking-defeat-ahead-of-tokyo-olympics/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/07/13/50cac52a-dc1a-49cf-8e13-3e2b7b7ac455/thumbnail/1200x675/549face695059452aa522026c95ba657/team-usa-basketball.jpg",
-      "publishedAt": "2021-07-13T02:38:00Z",
-      "content": "The United States men's basketball team lost just four exhibition games since 1992, and two of them came in a span of 48 hours. After being upset by Nigeria in their first Olympic exhibition Saturday… [+1999 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Natasha Korecki, Christopher Cadelago",
-      "title": "Biden changes up the messaging strategy around his infrastructure agenda - POLITICO",
-      "description": "The White House is leaning, once more, on Build Back Better after concerns were raised that the current approach was muddied.",
-      "url": "https://www.politico.com/news/2021/07/12/biden-infrastructure-messaging-499445",
-      "urlToImage": "https://static.politico.com/6f/86/187165444c248f50eb3bd899be7c/biden-speech-ap-773.jpg",
-      "publishedAt": "2021-07-13T02:16:17Z",
-      "content": "Those concerns were relayed to the administration in a series of meetings and emails over recent weeks, six people familiar with the discussions told POLITICO. They grew louder after Biden struck a d… [+4491 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Amanda Sealy and Kaitlan Collins, CNN",
-      "title": "'Nothing has changed' after briefing with Pfizer on booster shots - CNN ",
-      "description": "Pfizer executives briefed US federal health officials Monday about why they believe a third booster shot of its vaccine will be needed.",
-      "url": "https://www.cnn.com/2021/07/12/health/pfizer-covid-19-vaccine-boosters-meeting/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210708192937-pfizer-super-tease.jpg",
-      "publishedAt": "2021-07-13T01:46:00Z",
-      "content": null
+      "author": "Matt Wilstein",
+      "title": "Seth Meyers Brutally Mocks Don Jr.'s CPAC Bomb - The Daily Beast",
+      "description": "The “Late Night” host had a field day with Donald Trump Jr.’s failed attempt to tell “incomprehensible jokes” over the weekend.",
+      "url": "https://www.thedailybeast.com/seth-meyers-brutally-mocks-donald-trump-jrs-cpac-bomb",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1432,w_2546,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1626140562/SM_49_gvgkkd",
+      "publishedAt": "2021-07-13T01:51:38Z",
+      "content": "Seth Meyers returned from a two-week vacation on Monday just in time to roast Donald Trump Jr. for his disastrous attempt at comedy at CPACs summer conference in Dallas.\r\nTrump revealed a lot about o… [+1608 chars]"
     },
     {
       "source": {
@@ -172,29 +211,29 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": null,
-      "title": "Ali Abdelaziz rips Conor McGregor after loss, calls Colby Covington 'a dead man' - MMA Junkie",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bFFGRFlDRjZkOWPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2021-07-13T01:17:03Z",
-      "content": null
+      "author": "Lauren Frias",
+      "title": "Trump Org removes Allen Weisselberg from subsidiaries' leadership: WSJ - Business Insider",
+      "description": "Weisselberg's removal from other Trump Org subsidiaries comes after he was terminated as director of one of Trump's golf courses in Scotland.",
+      "url": "https://www.businessinsider.com/trump-organization-allen-weisselberg-subsidiaries-leadership-tax-fraud-scandal-2021-7",
+      "urlToImage": "https://i.insider.com/60ecc81cca74780018ae8fea?width=1200&format=jpeg",
+      "publishedAt": "2021-07-13T01:30:24Z",
+      "content": "The Trump Organization removed Chief Financial Officer Allen Weisselberg from leadership roles at dozens of the company's subsidiaries.\r\nThe news of Weisselberg's removal from other Trump Organizatio… [+1776 chars]"
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "Sharon Braithwaite and Martin Goillandeau, CNN",
-      "title": "Scuffles break out in Georgia's Parliament over cameraman's death following anti-LGBTQ demonstration - CNN ",
-      "description": "Police in Georgia were forced to eject dozens of people from Parliament after journalists and opposition lawmakers tried to force their way into the lower house in protest of a news cameraman's death, according to agency video footage and reports.",
-      "url": "https://www.cnn.com/2021/07/12/europe/georgia-journalist-killed-parliament-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210712180316-georgia-parliament-protest-0712-super-tease.jpg",
-      "publishedAt": "2021-07-13T00:46:00Z",
-      "content": null
+      "author": "Brooke Seipel",
+      "title": "California rule bans K-12 students from campus if they refuse to wear masks | TheHill - The Hill",
+      "description": "...",
+      "url": "https://thehill.com/policy/healthcare/562653-california-rule-bans-k-12-students-from-campus-if-they-refuse-to-wear-masks",
+      "urlToImage": "https://thehill.com/sites/default/files/covidschools.jpg",
+      "publishedAt": "2021-07-13T01:22:16Z",
+      "content": "New state rules in California would require K-12 students to wear a face mask inside classrooms and buildings or be banned from entering school.\r\nStudents denied entry to their campus for refusing to… [+1258 chars]"
     },
     {
       "source": {
@@ -221,45 +260,6 @@
       "urlToImage": "https://thumbnails.texastribune.org/Fadf9DmA8z4fIjOY7o0UuJaXNq8=/1200x630/filters:quality(95)/static.texastribune.org/media/files/25b3a679628f9a1e1fc2f30bdff0303c/Dems%20Leave%20Texas%20JV%20TT%2001.jpeg",
       "publishedAt": "2021-07-13T00:20:59Z",
       "content": "Sign up for The Brief, our daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nAfter House Democrats left the state Monday in an attempt to block passage of a GOP elect… [+8411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Surface of Jupiter’s Moon Europa Churned by Small Impacts – May Currently Have Conditions Suitable for Life - SciTechDaily",
-      "description": "Jupiter’s moon Europa and its global ocean may currently have conditions suitable for life. Scientists are studying processes on the icy surface as they prepare to explore. It’s easy to see the impact of space debris on our Moon, where the ancient, battered s…",
-      "url": "https://scitechdaily.com/surface-of-jupiters-moon-europa-churned-by-small-impacts-may-currently-have-conditions-suitable-for-life/",
-      "urlToImage": "https://scitechdaily.com/images/Jupiters-Moon-Europa-Surface.gif",
-      "publishedAt": "2021-07-13T00:14:43Z",
-      "content": "This color view of Jupiters moon Europa was captured by NASAs Galileo spacecraft in the late 1990s. Scientists are studying processes that affect the surface as they prepare to explore the icy body. … [+4521 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Los Angeles Times"
-      },
-      "author": "Luke Money, Rong-Gong Lin II",
-      "title": "L.A. County sees new significant rise in COVID-19 cases, 99% involved the unvaccinated - Los Angeles Times",
-      "description": "The tally marks the fourth consecutive day that new cases totaled more than 1,000, health officials said.",
-      "url": "https://www.latimes.com/california/story/2021-07-12/l-a-county-sees-new-significant-rise-in-covid-19-cases-99-involved-the-unvaccinated",
-      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/c07510f/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8c%2F2d%2F4c8dded34749a497b18fcfae775e%2Fla-photos-1staff-806030-me-0707-vaccine-clinic-torrance-cmh-01.JPG",
-      "publishedAt": "2021-07-12T23:57:05Z",
-      "content": "Los Angeles County officials reported the fourth straight day of more than 1,000 new COVID-19 cases on Monday, more troubling evidence that the disease is increasing its spread among the unvaccinated… [+4757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "hot97.com"
-      },
-      "author": null,
-      "title": "Social Media Shocked After Jada Pinkett-Smith Shaves Her Hair Completely Bald - Hot97 - Hip Hop & R&B News",
-      "description": "Jada Pinkett-Smith switched her look completely up. The legendary actress decided to shave her head which was inspired by her daughter, Willow Smith. She shares, “Willow made me do it because it was time to let go,",
-      "url": "https://www.hot97.com/hip-hop-news/hot-news/social-media-shocked-after-jada-pinkett-smith-shaves-her-hair-completely-bald/",
-      "urlToImage": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1300/2021/07/12185440/gettyimages-1169298824-594x594-1.jpg",
-      "publishedAt": "2021-07-12T23:38:48Z",
-      "content": null
     }
   ]
 }

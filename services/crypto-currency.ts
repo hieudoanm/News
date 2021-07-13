@@ -20,5 +20,5 @@ ${coins
   .join("\n")}
 `;
 
-  await fs.writeFileSync("./COINS.md", markdown);
+  await fs.writeFileSync("./markdown/COINS.md", markdown);
 };

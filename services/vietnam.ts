@@ -78,11 +78,13 @@ const saveWards = async (
   districts: Array<ExtendedDistrict>
 ): Promise<Array<ExtendedWard>> => {
   let allWards: Array<ExtendedWard> = [];
-  let i = 0;
+  const total: number = districts.length;
+  let i: number = 0;
   for (const district of districts) {
     const { id, provinceId, province, name } = district;
     const { wards = [] } = await getWards(id);
-    console.log(i + 1, "district", province, name, wards.length);
+    const percentage = (((i + 1) / total) * 100).toFixed(2);
+    console.log(percentage + "%", "district", province, name, wards.length);
     const wardsByDistrict: Array<ExtendedWard> = wards.map((ward: Ward) => {
       return Object.assign(ward, { provinceId, province, district: name });
     });

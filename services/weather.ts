@@ -223,7 +223,7 @@ ${hnMarkdown}
 ${hcmMarkdown}
 `;
 
-  await fs.writeFileSync("./WEATHER.md", markdown);
+  await fs.writeFileSync("./markdown/WEATHER.md", markdown);
 };
 
 const getWeatherByLocation = async (

@@ -72,5 +72,5 @@ ${tableOfContent}
   
 ${body}`;
 
-  await fs.writeFileSync(`./GITHUB.md`, markdown);
+  await fs.writeFileSync(`./markdown/GITHUB.md`, markdown);
 };

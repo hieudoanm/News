@@ -31,5 +31,5 @@ ${trends
   })
   .join("\n")}`;
 
-  await fs.writeFileSync("./TRENDS.md", markdown);
+  await fs.writeFileSync("./markdown/TRENDS.md", markdown);
 };
