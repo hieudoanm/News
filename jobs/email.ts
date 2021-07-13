@@ -19,7 +19,7 @@ const main = async () => {
 
   const [date] = new Date().toISOString().split("T");
   const subject: string = `Café Sáng ${date}`;
-  const html = await generateBody();
+  const html = await generateBody(false);
 
   const mailOptions = {
     from: `Viet Nam <${GMAIL_FROM}>`,

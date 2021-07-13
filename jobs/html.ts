@@ -14,7 +14,7 @@ import {
   getCurrentWeather,
   getWeatherForecast,
 } from "../libs/open-weather-map";
-import { Card, getCards } from "../libs/tarot";
+import { getCards } from "../libs/tarot";
 import { addZero, currencyFormatter } from "../libs/utils";
 import { getMostPopularVideos, Video } from "../libs/youtube";
 
@@ -259,7 +259,7 @@ const getWeather = async (city: string) => {
 </div>`;
 };
 
-const getCoinRanking = async () => {
+const getCoinRanking = async (gitHubBase: string) => {
   const coins = await getCoins();
   const topCoins = coins.slice(0, 5);
   return `<div
@@ -289,8 +289,9 @@ const getCoinRanking = async () => {
     <tbody>
       ${topCoins
         .map((coin: Coin) => {
-          const { iconUrl, symbol, name, price, coinrankingUrl } = coin;
+          const { symbol, name, price, coinrankingUrl } = coin;
           const price2: string = currencyFormatter(parseFloat(price));
+          const imgSrc = `${gitHubBase}/images/coins/${symbol.toLowerCase()}.svg`;
           return `<tr>
         <td
           style="
@@ -301,7 +302,7 @@ const getCoinRanking = async () => {
         >
           <div style="display: flex; align-items: center">
             <img
-              src="${iconUrl}"
+              src="${imgSrc}"
               width="16px"
               style="margin-right: 16px"
             />
@@ -373,7 +374,7 @@ const getNews = async (): Promise<string> => {
 };
 
 const getYouTubeTrending = async () => {
-  const videos = await getMostPopularVideos(0, 3);
+  const videos = await getMostPopularVideos(10, 3);
   return `<div
   style="
     border-radius: 0.25rem;
@@ -412,23 +413,19 @@ const getYouTubeTrending = async () => {
 </div>`;
 };
 
-const getTarot = async () => {
+const getTarot = async (gitHubBase: string) => {
   const { total, cards } = await getCards();
   const index1 = Math.floor(Math.random() * total + 1);
   const index2 = Math.floor(Math.random() * total + 1);
   const index3 = Math.floor(Math.random() * total + 1);
-  const card1: Card = cards[index1] || cards[0];
-  const card2: Card = cards[index2] || cards[0];
-  const card3: Card = cards[index3] || cards[0];
-  const { type: type1, name: name1 } = card1;
-  const filename1 = name1.replace(/ /g, "-").toLowerCase();
-  const imgSrc1 = `../images/tarot/${type1}/${filename1}.png`;
-  const { type: type2, name: name2 } = card2;
-  const filename2 = name2.replace(/ /g, "-").toLowerCase();
-  const imgSrc2 = `../images/tarot/${type2}/${filename2}.png`;
-  const { type: type3, name: name3 } = card3;
-  const filename3 = name3.replace(/ /g, "-").toLowerCase();
-  const imgSrc3 = `../images/tarot/${type3}/${filename3}.png`;
+  const items = [index1, index2, index3].map((index) => {
+    const card = cards[index] || cards[0];
+    const { type, name } = card;
+    const filename = name.replace(/ /g, "-").toLowerCase();
+    const imgSrc = `${gitHubBase}/images/tarot/${type}/${filename}.png`;
+    return { name, imgSrc };
+  });
+
   return `<div
   style="
     border-radius: 0.25rem;
@@ -443,27 +440,18 @@ const getTarot = async () => {
     <table>
       <tbody>
         <tr>
-          <td style="width: 33.33%">
+          ${items
+            .map((item) => {
+              const { name, imgSrc } = item;
+              return `<td style="width: 33.33%">
             <img
-              src="${imgSrc1}"
-              alt="${name1}"
+              src="${imgSrc}"
+              alt="${name}"
               style="width: 100%; border-radius: 0.25rem"
             />
-          </td>
-          <td style="width: 33.33%">
-            <img
-              src="${imgSrc2}"
-              alt="${name2}"
-              style="width: 100%; border-radius: 0.25rem"
-            />
-          </td>
-          <td style="width: 33.33%">
-            <img
-              src="${imgSrc3}"
-              alt="${name3}"
-              style="width: 100%; border-radius: 0.25rem"
-            />
-          </td>
+          </td>`;
+            })
+            .join("\n")}
         </tr>
       </tbody>
     </table>
@@ -471,13 +459,16 @@ const getTarot = async () => {
 </div>`;
 };
 
-export const generateBody = async (): Promise<string> => {
+export const generateBody = async (local: boolean): Promise<string> => {
+  const gitHubBase: string = local
+    ? ".."
+    : "https://raw.githubusercontent.com/hieudoanm/news/master";
   const googleTrends = await getGoogleTrends();
   const weather = await getWeather("ho chi minh city");
-  const coinRanking = await getCoinRanking();
+  const coinRanking = await getCoinRanking(gitHubBase);
   const news = await getNews();
   const youTubeTrending = await getYouTubeTrending();
-  const tarot = await getTarot();
+  const tarot = await getTarot(gitHubBase);
   return `<div style="margin: 0 auto; max-width: 600px">
   <div style="padding: 1rem">
 ${googleTrends}

@@ -2,7 +2,7 @@
 
 ## Hanoi
 
-Air Visual: 65
+Air Visual: 51
 
 <table>
 
@@ -14,19 +14,19 @@ Air Visual: 65
 
 <th>
 <div>2021-07-13</div>
-<div>12:00</div>
+<div>18:00</div>
 </th>
 <th>
 <div>2021-07-14</div>
-<div>00:00</div>
+<div>06:00</div>
 </th>
 <th>
 <div>2021-07-14</div>
-<div>12:00</div>
+<div>18:00</div>
 </th>
 <th>
 <div>2021-07-15</div>
-<div>00:00</div>
+<div>06:00</div>
 </th>
 
 </tr>
@@ -38,28 +38,28 @@ Air Visual: 65
 <tr>
 
 <td width="20%">
-<div>33°C - 40°C</div>
+<div>30°C - 37°C</div>
 <div>Clouds</div>
-<div>SCATTERED CLOUDS</div>
+<div>FEW CLOUDS</div>
 </td>
 
 <td width="20%">
+<div>29°C - 36°C</div>
+<div>Clouds</div>
+<div>FEW CLOUDS</div>
+</td>
+<td width="20%">
 <div>33°C - 40°C</div>
-<div>Clouds</div>
-<div>SCATTERED CLOUDS</div>
+<div>Rain</div>
+<div>LIGHT RAIN</div>
 </td>
 <td width="20%">
-<div>29°C - 35°C</div>
-<div>Clouds</div>
-<div>OVERCAST CLOUDS</div>
+<div>27°C - 31°C</div>
+<div>Rain</div>
+<div>LIGHT RAIN</div>
 </td>
 <td width="20%">
-<div>30°C - 35°C</div>
-<div>Clouds</div>
-<div>BROKEN CLOUDS</div>
-</td>
-<td width="20%">
-<div>29°C - 34°C</div>
+<div>35°C - 40°C</div>
 <div>Rain</div>
 <div>LIGHT RAIN</div>
 </td>
@@ -72,7 +72,7 @@ Air Visual: 65
 
 ## Ho Chi Minh City
 
-Air Visual: 43
+Air Visual: 41
 
 <table>
 
@@ -84,19 +84,19 @@ Air Visual: 43
 
 <th>
 <div>2021-07-13</div>
-<div>12:00</div>
+<div>18:00</div>
 </th>
 <th>
 <div>2021-07-14</div>
-<div>00:00</div>
+<div>06:00</div>
 </th>
 <th>
 <div>2021-07-14</div>
-<div>12:00</div>
+<div>18:00</div>
 </th>
 <th>
 <div>2021-07-15</div>
-<div>00:00</div>
+<div>06:00</div>
 </th>
 
 </tr>
@@ -108,28 +108,28 @@ Air Visual: 43
 <tr>
 
 <td width="20%">
-<div>30°C - 36°C</div>
+<div>29°C - 35°C</div>
 <div>Rain</div>
 <div>LIGHT RAIN</div>
 </td>
 
 <td width="20%">
-<div>30°C - 36°C</div>
+<div>28°C - 32°C</div>
 <div>Rain</div>
 <div>MODERATE RAIN</div>
 </td>
 <td width="20%">
-<div>26°C - 26°C</div>
+<div>31°C - 37°C</div>
 <div>Rain</div>
 <div>LIGHT RAIN</div>
 </td>
 <td width="20%">
-<div>27°C - 29°C</div>
+<div>25°C - 26°C</div>
 <div>Rain</div>
-<div>MODERATE RAIN</div>
+<div>LIGHT RAIN</div>
 </td>
 <td width="20%">
-<div>26°C - 27°C</div>
+<div>29°C - 34°C</div>
 <div>Rain</div>
 <div>LIGHT RAIN</div>
 </td>

@@ -14,11 +14,11 @@ import { saveCategories, saveYouTube } from "./services/youtube";
 dotenv.config();
 
 const main = async () => {
+  await saveCoins();
   await saveCountries();
   await saveLanguages();
   await saveTopRepositories();
   await saveCategories();
-  await saveCoins();
   await saveTrends();
   await saveWeather();
   await saveDevTo();
