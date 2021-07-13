@@ -8,6 +8,8 @@ on:
       - ".github/workflows/gh-pages.yaml"
     branches:
       - master
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   build:
