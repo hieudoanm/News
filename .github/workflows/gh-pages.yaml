@@ -1,0 +1,41 @@
+name: GitHub Pages Deploy
+
+on:
+  push:
+    paths:
+      - "web/**"
+      - ".github/workflows/gh-pages.yml"
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.API_KEY_GITHUB_PAGES }}
+      - name: Set up Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "14.16.0"
+      - name: Set up Yarn
+        uses: borales/actions-yarn@v2.0.0
+      - name: Install Dependencies
+        run: yarn install
+      - name: Run Jobs
+        run: yarn web
+        with:
+          API_KEY_COIN_RANKING: ${{ secrets.API_KEY_COIN_RANKING }}
+          API_KEY_GITHUB: ${{ secrets.API_KEY_GITHUB }}
+          API_KEY_NEWS: ${{ secrets.API_KEY_NEWS }}
+          API_KEY_TELEGRAM: ${{ secrets.API_KEY_TELEGRAM }}
+          API_KEY_YOUTUBE: ${{ secrets.API_KEY_YOUTUBE }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}s
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: web/react/build # The folder the action should deploy.
+          CLEAN: true # Automatically remove deleted files from the deploy branch

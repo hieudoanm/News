@@ -2,7 +2,8 @@ import fetch, { Response, RequestInit } from "node-fetch";
 
 export const fetchJSON = async (
   url: string,
-  options: RequestInit = {}
+  options: RequestInit = {},
+  fallback: any = {}
 ): Promise<any> => {
   try {
     const response = await fetch(url, options).then((res: Response) =>
@@ -11,7 +12,7 @@ export const fetchJSON = async (
     return response;
   } catch (error) {
     console.error(error);
-    return {};
+    return fallback;
   }
 };
 
