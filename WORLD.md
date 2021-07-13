@@ -1,213 +1,212 @@
 # News
 
-## Haiti announces arrest of leading suspect in president’s killing as FBI, Homeland Security officials arrive to discuss U.S. assistance - The Washington Post
+## Haiti President's killing followed by fierce chase and gun battle -- exclusive - CNN 
 
-Widlore Merancourt, Samantha Schmidt - The Washington Post
-
-```
-National Police Chief Leon Charles said Christian Emmanuel Sanon, 63, landed in Haiti on a private plane in early June with political objectives and recruited a team through a Venezuelan security fir… [+6966 chars]
-```
-
-[See More](https://www.washingtonpost.com/world/2021/07/11/haiti-assassination-fbi-dhs/)
-
-## 'Eat more pasta' - Bonucci trolls England after Italy's Euro 2020 final penalty shootout triumph - Goal.com
-
-Sporting News - Sporting News
+Caitlin Hu, Natalie Gallón and Matt Rivers. 
+Video and photos by David von Blohn. - CNN
 
 ```
-
+Port-au-Prince, Haiti (CNN)The plot to kill Haiti's President allegedly spanned multiple countries and involved highly experienced former military officers and months of planning, according to local … [+11952 chars]
 ```
 
-[See More](https://www.sportingnews.com/ca/soccer)
+[See More](https://www.cnn.com/2021/07/13/americas/haiti-president-assassins-gun-battle-cmd-intl/index.html)
 
-## Demonstrators In Havana Protest Shortages, Rising Prices - NPR
+## The Chinese tech giants that Beijing is cracking down on are backers of big U.S. IPOs - CNBC
 
-null - NPR
-
-```
-Plainclothes police detain an anti-government protester during a protest in Havana, Cuba, on Sunday. Hundreds of demonstrators went out to the streets in several cities in Cuba to protest against ong… [+2515 chars]
-```
-
-[See More](https://www.npr.org/2021/07/11/1015140038/demonstrators-in-havana-protest-shortages-rising-prices)
-
-## Playoff Shakeup! Extended Highlights from Atlanta Quaker State 400 presented by Walmart - NASCAR
-
-null - Google News
+Evelyn Cheng - CNBC
 
 ```
-null
+Signage for digital payment services Alipay by Ant Group, an affiliate of Alibaba, and WeChat Pay by Tencent are displayed outside a currency exchange in Hong Kong, China, on Tuesday, Sept. 1, 2020.… [+3187 chars]
 ```
 
-[See More](https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UzZKUXg2RjhvMEXSAQA?oc=5)
+[See More](https://www.cnbc.com/2021/07/13/china-tech-regulation-baba-tencent-xiaomi-are-backers-of-big-us-ipos.html)
 
-## Pittsburgh Pirates draft Louisville catcher Henry Davis with No. 1 pick; Jack Leiter goes to Texas Rangers at No. 2 - ESPN
+## 2021 MLB All-Star Game Home Run Derby - Big numbers from Pete Alonso's epic derby performance - ESPN
 
-David Schoenfield - ESPN
-
-```
-The Pittsburgh Pirates selected Louisville catcher Henry Davis with the first pick in baseball's amateur draft on Sunday night.
-In a draft without a clear-cut top prospect, it remained unclear who t… [+8061 chars]
-```
-
-[See More](https://www.espn.com/mlb/story/_/id/31802907/pittsburgh-pirates-select-louisville-catcher-henry-davis-top-overall-pick-2021-mlb-draft)
-
-## Huge leak indicates that Samsung’s next Galaxy Unpacked may bring new foldables, smartwatches, and earbuds - The Verge
-
-Jay Peters - The Verge
+James Jackson - ESPN
 
 ```
-New phones, watches, earbuds, and a date: August 11th
-The Galaxy Z Flip 3 and Z Fold 3, from GIFs shared by leaker Evan Blass.
-Images: Evan Blass on Twitter
-We might now know a lot of whats coming… [+3434 chars]
+New York Mets first baseman Pete Alonsodefended his Home Run Derby title in an epic outing during the 2021 MLB All-Star Game festivities. Alonso beat Trey Mancini of the Baltimore Orioles for the cro… [+3186 chars]
 ```
 
-[See More](https://www.theverge.com/2021/7/11/22572858/samsung-galaxy-unpacked-2021-leak-evan-blass-galaxy-z-fold-flip-3-s21-fe-watch-4-buds-2-date)
+[See More](https://www.espn.com/mlb/story/_/page/mlbmainBignumbersfrom/2021-mlb-all-star-game-home-run-derby-big-numbers-pete-alonso-epic-derby-performance)
 
-## Conor McGregor suffers freak leg injury in loss to Dustin Poirier at UFC 264 - CNET
+## Yes, Shohei Ohtani is the face of baseball. Just ask baseball - Yahoo Sports
 
-Mark Serrels - CNET
-
-```
-Sean O'Malley won in a landslide victory.
-Jeff Bottari/Zuffa LLC/Zuffa LLC via Getty Images
-If you're new to "Suga" Sean O'Malley, brace yourself. He is one of the rising stars in the UFC and one o… [+2053 chars]
-```
-
-[See More](https://www.cnet.com/news/conor-mcgregor-suffers-freak-leg-injury-in-loss-to-dustin-poirier-at-ufc-264/)
-
-## Weapons Cache Seized at Denver Hotel Near Stadium Hosting All-Star Game - The New York Times
-
-Alyssa Lukpat - New York Times
+Hannah Keyser - Yahoo Entertainment
 
 ```
-The police did not explicitly say if those arrested had stockpiled the weapons in preparation for an attack similar to the 2017 Las Vegas shooting in which a man fired from his upper-story hotel room… [+956 chars]
+DENVER The best baseball players in the world assembled in Denver on Monday to offer their expertly awed perspective on Shohei Ohtani.
+Oh, they answered questions about their own exploits too, of co… [+5960 chars]
 ```
 
-[See More](https://www.nytimes.com/2021/07/11/us/denver-shooting-arrest-mlb.html)
+[See More](https://sports.yahoo.com/yes-shohei-ohtani-is-the-face-of-baseball-just-ask-baseball-040356068.html)
 
-## Italy Beats England in Epic Shootout to Win UEFA Euro 2020 [European Championship] | CBS Sports HQ - CBS Sports HQ
-
-null - Google News
-
-```
-null
-```
-
-[See More](https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dy1hXzhZVDU0V1nSAQA?oc=5)
-
-## Firefighters struggle to contain exploding northern California wildfire - The Guardian
+## Dozens die after fire in Covid isolation ward at hospital in southern Iraq - The Guardian
 
 Guardian staff reporter - The Guardian
 
 ```
-Firefighters struggled to contain an exploding northern California wildfire under blazing temperatures as another heatwave blanketed the west, prompting an excessive heat warning for inland and deser… [+4135 chars]
+At least 50 people have died after a fire tore through the Covid isolation ward at a hospital in the southern Iraqi city of Nasiriyah.
+The death toll is expected to rise, as search operations at al-… [+1597 chars]
 ```
 
-[See More](https://amp.theguardian.com/us-news/2021/jul/11/northern-california-wildfire-heatwave)
+[See More](https://amp.theguardian.com/world/2021/jul/12/dozens-die-after-fire-in-covid-isolation-ward-at-hospital-in-southern-iraq)
 
-## Virgin Galactic teams with Omaze to raffle off 2 tickets to space to the public - Space.com
+## Officials: At least 8 dead, 9 missing in Chinese hotel collapse - KOMO News
 
-Elizabeth Howell - Space.com
-
-```
-Virgin Galactic is offering a free ride to suborbital space to two contest winners from the general public.
-The company announced a partnership Sunday (July 11) with charity fundraising platform Oma… [+4310 chars]
-```
-
-[See More](https://www.space.com/virgin-galactic-omaze-suborbital-spaceflight-contest)
-
-## China's Slowing V-Shaped Economic Recovery Sends Global Warning - Bloomberg
-
-null - Bloomberg
+Associated Press - WSBT-TV
 
 ```
-To continue, please click the box below to let us know you're not a robot.
+null
 ```
 
-[See More](https://www.bloomberg.com/tosv2.html?vid=&uuid=2b4095b0-e2ab-11eb-82b7-8fc74b73434e&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wNy0xMS9jaGluYS1zLWZhZGluZy1maXJzdC1pbi1maXJzdC1vdXQtcmVib3VuZC1zZW5kcy1nbG9iYWwtd2FybmluZw==)
+[See More](https://wsbt.com/news/nation-world/officials-at-least-8-dead-9-missing-in-chinese-hotel-collapse)
 
-## 7-day COVID case average in Missouri has jumped 308% since June 1 - KTVI Fox 2 St. Louis
+## Elon Musk might be headed to space soon -- but not on a SpaceX rocket - CNET
 
-Kevin S. Held - KTVI Fox 2 St. Louis
-
-```
-JEFFERSON CITY, Mo. The progress made in slowing the spread of COVID-19 since the spring has been all but wiped out in Missouri, as hospitalizations and cases are increasing at a steep upward traject… [+6616 chars]
-```
-
-[See More](https://fox2now.com/news/coronavirus/7-day-covid-case-average-in-missouri-has-jumped-308-since-june-1/)
-
-## Coronavirus latest: Experts worry over rising US positivity as New York rate doubles in a month - Financial Times
-
-null - Financial Times
+Alexandra Garrett - CNET
 
 ```
-New York state is recording double the positivity rates for Covid-19 compared with a month ago, as health experts at the weekend raised concerns over a new rise in infections.
-The state reported ano… [+2154 chars]
+The Tesla and SpaceX CEO reportedly purchased a ticket to space with Virgin Galactic. 
+Getty Images
+Elon Musk is planning to take a trip to space with Virgin Galactic, according to a Sunday report … [+1673 chars]
 ```
 
-[See More](https://www.ft.com/content/79574dc0-375a-47f7-b572-cbd259a92e0b)
+[See More](https://www.cnet.com/news/elon-musk-might-be-headed-to-space-but-not-on-a-spacex-rocket/)
 
-## Elon Musk under fire again: CEO to testify over Tesla's acquisition of SunPower - MarketWatch
+## The Bachelorette Is Just Recycling Seinfeld Scripts At This Point - Vulture
 
-Associated Press - MarketWatch
-
-```
-In the runup to Tesla Inc.s 2016 acquisition of a company called SolarCity, Elon Musk hailed the deal as a no brainer a purchase that would combine the leading maker of electric vehicles with a manuf… [+3664 chars]
-```
-
-[See More](https://www.marketwatch.com/story/elon-musk-under-fire-again-ceo-to-testify-over-teslas-acquisition-of-sunpower-01626035795)
-
-## Trump easily wins CPAC 2024 GOP presidential nomination straw poll - Fox News
-
-Paul Steinhauser - Fox News
+Devon Ivie - Vulture
 
 ```
-DALLAS Former Presidentv Donald Trump easily won the 2024 GOP presidential nomination poll at the Conservative Political Action Conference (CPAC) gathering this weekend in Texas.
-Trump, whos repeate… [+3051 chars]
+We were all collectively transported back to 92-era Monks on Mondays episode of The Bachelorette, with Katie Thurston declaring to her contestants that little friendly handshakes with themselves are … [+677 chars]
 ```
 
-[See More](https://www.foxnews.com/politics/trump-easily-wins-cpac-2024-gop-presidential-nomination-straw-poll)
+[See More](https://www.vulture.com/2021/07/the-bachelorette-katie-thurston-makes-men-not-masturbate.html)
 
-## Box Office: ‘Black Widow’ Spins Record $80M U.S. Opening, Earns $60M on Disney+ Premier Access - Hollywood Reporter
+## 'Oh yeah! Mario time!' Unopened Super Mario 64 game sells for $1.56M, smashing records - KSL.com
 
-Pamela McClintock - Hollywood Reporter
-
-```
-Proving the might of the Marvel brand, Black Widow set a new benchmark for the pandemic era in opening to $80 million at the domestic box office.
-The female-led superhero pic snared the biggest Nort… [+4203 chars]
-```
-
-[See More](https://www.hollywoodreporter.com/movies/movie-news/black-widow-box-office-disney-milestone-opening-1234980531/)
-
-## Florida's manatees are dying in record numbers, officials say - CBS News
-
-null - CBS News
+The Associated Press - KSL.com
 
 ```
-More manatees have died already this year than in any other year in Florida's recorded history, primarily from starvation due to the loss of seagrass beds, state officials said.
-The Florida Fish &am… [+1886 chars]
+DALLAS (AP) An unopened copy of Nintendo's Super Mario 64 has sold at auction for $1.56 million.
+Heritage Auctions in Dallas said that the 1996 game sold Sunday, breaking its previous record price f… [+1099 chars]
 ```
 
-[See More](https://www.cbsnews.com/news/florida-manatees-dying-record-numbers-officials-say/)
+[See More](https://www.ksl.com/article/50202777/oh-yeah-mario-time-unopened-super-mario-64-game-sells-for-156m-smashing-records)
 
-## Kristi Noem criticizes GOP governors who enacted Covid-19 mandates while accusing some of rewriting their history - CNN 
+## Australia hands Team USA men's basketball another shocking defeat ahead of Tokyo Olympics - CBS Sports
 
-Maeve Reston, CNN - CNN
-
-```
-Dallas (CNN)South Dakota Gov. Kristi Noem questioned the grit and instinct of fellow GOP governors who enacted Covid-19 measures like mask mandates and business closures to stop the spread of the vir… [+4133 chars]
-```
-
-[See More](https://www.cnn.com/2021/07/11/politics/kristi-noem-cpac-south-dakota-governor-covid-mandate/index.html)
-
-## Pristine ‘Super Mario 64’ Breaks Video Game Auction Record With $1.56 Million - Rolling Stone
-
-Daniel Kreps - Rolling Stone
+ - CBS Sports
 
 ```
-Less than two days after a rare sealed copy of The Legend of Zelda broke the record for most expensive video game sold at auction, a pristine unopened copy of Super Mario 64 toppled that record Sunda… [+3167 chars]
+The United States men's basketball team lost just four exhibition games since 1992, and two of them came in a span of 48 hours. After being upset by Nigeria in their first Olympic exhibition Saturday… [+1999 chars]
 ```
 
-[See More](https://www.rollingstone.com/culture/culture-news/super-mario-64-auction-record-1195538/)
+[See More](https://www.cbssports.com/nba/news/australia-hands-team-usa-mens-basketball-another-shocking-defeat-ahead-of-tokyo-olympics/)
+
+## Biden changes up the messaging strategy around his infrastructure agenda - POLITICO
+
+Natasha Korecki, Christopher Cadelago - Politico
+
+```
+Those concerns were relayed to the administration in a series of meetings and emails over recent weeks, six people familiar with the discussions told POLITICO. They grew louder after Biden struck a d… [+4491 chars]
+```
+
+[See More](https://www.politico.com/news/2021/07/12/biden-infrastructure-messaging-499445)
+
+## 'Nothing has changed' after briefing with Pfizer on booster shots - CNN 
+
+Amanda Sealy and Kaitlan Collins, CNN - CNN
+
+```
+null
+```
+
+[See More](https://www.cnn.com/2021/07/12/health/pfizer-covid-19-vaccine-boosters-meeting/index.html)
+
+## Space Jam: A New Legacy launch includes a 91,000 item NFT tie-in - The Verge
+
+Richard Lawler - The Verge
+
+```
+A crucial piece of your 2021 marketing machine
+Lola Bunny, LeBron James and Daffy Duck in Space Jam: A New Legacy
+Photo: Courtesy Warner Bros. Pictures
+On the same day we learned that Fortnite is … [+2642 chars]
+```
+
+[See More](https://www.theverge.com/2021/7/12/22574752/niftys-nft-space-jam-lebron-james-warner-looney-tunes)
+
+## Ali Abdelaziz rips Conor McGregor after loss, calls Colby Covington 'a dead man' - MMA Junkie
+
+null - Google News
+
+```
+null
+```
+
+[See More](https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bFFGRFlDRjZkOWPSAQA?oc=5)
+
+## Scuffles break out in Georgia's Parliament over cameraman's death following anti-LGBTQ demonstration - CNN 
+
+Sharon Braithwaite and Martin Goillandeau, CNN - CNN
+
+```
+null
+```
+
+[See More](https://www.cnn.com/2021/07/12/europe/georgia-journalist-killed-parliament-intl/index.html)
+
+## Newsom won't be listed as a Democrat on recall ballot - Los Angeles Times
+
+Phil Willon - Los Angeles Times
+
+```
+Gov. Gavin Newsom cannot identify himself as a Democrat on the September recall ballot because he missed the deadline to designate his party affiliation, a superior court judge in Sacramento ruled Mo… [+5859 chars]
+```
+
+[See More](https://www.latimes.com/california/story/2021-07-12/newsom-wont-get-democrat-beside-his-name-on-recall-ballot-says-judge)
+
+## Deploy law enforcement? Call another special session? Texas GOP mulls options for elections bill after Democrats leave the state - The Texas Tribune
+
+James Barragán, Cassandra Pollock - The Texas Tribune
+
+```
+Sign up for The Brief, our daily newsletter that keeps readers up to speed on the most essential Texas news.
+After House Democrats left the state Monday in an attempt to block passage of a GOP elect… [+8411 chars]
+```
+
+[See More](https://www.texastribune.org/2021/07/12/texas-republicans-elections-bill-democrats-flee/)
+
+## Surface of Jupiter’s Moon Europa Churned by Small Impacts – May Currently Have Conditions Suitable for Life - SciTechDaily
+
+null - SciTechDaily
+
+```
+This color view of Jupiters moon Europa was captured by NASAs Galileo spacecraft in the late 1990s. Scientists are studying processes that affect the surface as they prepare to explore the icy body. … [+4521 chars]
+```
+
+[See More](https://scitechdaily.com/surface-of-jupiters-moon-europa-churned-by-small-impacts-may-currently-have-conditions-suitable-for-life/)
+
+## L.A. County sees new significant rise in COVID-19 cases, 99% involved the unvaccinated - Los Angeles Times
+
+Luke Money, Rong-Gong Lin II - Los Angeles Times
+
+```
+Los Angeles County officials reported the fourth straight day of more than 1,000 new COVID-19 cases on Monday, more troubling evidence that the disease is increasing its spread among the unvaccinated… [+4757 chars]
+```
+
+[See More](https://www.latimes.com/california/story/2021-07-12/l-a-county-sees-new-significant-rise-in-covid-19-cases-99-involved-the-unvaccinated)
+
+## Social Media Shocked After Jada Pinkett-Smith Shaves Her Hair Completely Bald - Hot97 - Hip Hop & R&B News
+
+null - hot97.com
+
+```
+null
+```
+
+[See More](https://www.hot97.com/hip-hop-news/hot-news/social-media-shocked-after-jada-pinkett-smith-shaves-her-hair-completely-bald/)
 

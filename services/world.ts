@@ -11,7 +11,7 @@ const saveCategories = async (sources: Array<Source>): Promise<void> => {
     )
     .sort();
   const total: number = categories.length;
-  const jsonFile: string = "./data/categories";
+  const jsonFile: string = "./json/news-api/categories";
   const jsonData: string = JSON.stringify({ total, categories }, null, 2);
   await fs.writeFileSync(`${jsonFile}.json`, jsonData);
 };
@@ -25,7 +25,7 @@ const saveCountries = async (sources: Array<Source>): Promise<void> => {
     )
     .sort();
   const total: number = countries.length;
-  const jsonFile: string = "./data/countries";
+  const jsonFile: string = "./json/news-api/countries";
   const jsonData: string = JSON.stringify({ total, countries }, null, 2);
   await fs.writeFileSync(`${jsonFile}.json`, jsonData);
 };
@@ -39,7 +39,7 @@ const saveLanguages = async (sources: Array<Source>): Promise<void> => {
     )
     .sort();
   const total: number = languages.length;
-  const jsonFile: string = "./data/languages";
+  const jsonFile: string = "./json/news-api/languages";
   const jsonData: string = JSON.stringify({ total, languages }, null, 2);
   await fs.writeFileSync(`${jsonFile}.json`, jsonData);
 };
@@ -47,7 +47,7 @@ const saveLanguages = async (sources: Array<Source>): Promise<void> => {
 export const saveSources = async (): Promise<void> => {
   const sources: Array<Source> = await getSources({});
   const total: number = sources.length;
-  const jsonFile: string = "./data/sources";
+  const jsonFile: string = "./json/news-api/sources";
   const jsonData: string = JSON.stringify({ total, sources }, null, 2);
   await fs.writeFileSync(`${jsonFile}.json`, jsonData);
 
@@ -60,7 +60,7 @@ export const saveSources = async (): Promise<void> => {
     "language",
     "country",
   ];
-  const csvFile: string = "./data/categories";
+  const csvFile: string = "./docs/news-api/sources";
   const parser: Parser<any> = new Parser({ fields });
   const csv: string = parser.parse(sources);
   await fs.writeFileSync(`${csvFile}.csv`, csv);
@@ -74,7 +74,7 @@ export const saveTopHeadlines = async (): Promise<void> => {
   const { message, total, articles } = await getTopHeadlines({ country: "us" });
   console.log("message", message);
 
-  const jsonFile: string = "./data/top-headlines";
+  const jsonFile: string = "./json/news-api/top-headlines";
   const jsonData: string = JSON.stringify({ total, articles }, null, 2);
   await fs.writeFileSync(`${jsonFile}.json`, jsonData);
 

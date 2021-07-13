@@ -1,5 +1,15 @@
 # News
 
+## Đầu tư theo các quỹ ETF: Làm sao cho hiệu quả?
+
+Vietcetera
+
+```html
+<p>Với những nhà đầu tư cá nhân, việc chọn ETF hay dựa hơi vào ETF để tạo riêng một danh mục cho mình là sự cân nhắc đáng kể.</p>
+```
+
+[See More](https://vietcetera.com/vn/dau-tu-theo-cac-quy-etf-lam-sao-cho-hieu-qua)
+
 ## 6 Dấu hiệu bạn vẫn đang phát triển trong công việc sáng tạo
 
 Vietcetera
@@ -89,14 +99,4 @@ Vietcetera
 ```
 
 [See More](https://vietcetera.com/vn/hong-co-phieu-sao-cho-dung)
-
-## L’Oréal Việt Nam: Tương lai của ngành mỹ phẩm - Recap “Vietnam Innovators” tập 32
-
-Vietcetera
-
-```html
-<p>Valéry Gaucherand, CEO tại L’Oréal Vietnam, chia sẻ về tương lai của thị trường làm đẹp, cũng như về sự phổ biến của thương hiệu tại Việt Nam. </p>
-```
-
-[See More](https://vietcetera.com/vn/loreal-viet-nam-tuong-lai-cua-nganh-my-pham-recap-vietnam-innovators-tap-32)
 

@@ -14,9 +14,6 @@ import { saveCategories, saveYouTube } from "./services/youtube";
 dotenv.config();
 
 const main = async () => {
-  await saveVietnam();
-  await saveCommittees();
-  await saveMembers();
   await saveCountries();
   await saveLanguages();
   await saveTopRepositories();
@@ -30,6 +27,9 @@ const main = async () => {
   await saveTopHeadlines();
   await saveYouTube();
   await saveCards();
+  await saveVietnam();
+  await saveCommittees();
+  await saveMembers();
 
   process.exit(0);
 };

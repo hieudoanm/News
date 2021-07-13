@@ -6,7 +6,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "ts-node main.ts"
+    "start": "ts-node main.ts",
+    "web": "ts-node ./services/web.ts"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
