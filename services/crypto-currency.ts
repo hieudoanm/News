@@ -1,5 +1,6 @@
 import fs from "fs";
 import request from "request";
+import sharp from "sharp";
 import { Coin, getCoins } from "../libs/coin-ranking";
 import { currencyFormatter } from "../libs/utils";
 
@@ -7,6 +8,18 @@ const getFormat = (type: string) => {
   if (type.includes("png")) return "png";
   if (type.includes("svg")) return "svg";
   return "";
+};
+
+const svgToPNG = (svg: string, png: string) => {
+  sharp(svg)
+    .png()
+    .toFile(png)
+    .then(function (info) {
+      console.log(info);
+    })
+    .catch(function (err) {
+      console.log(err);
+    });
 };
 
 const download = (uri: string, symbol: string) => {
@@ -22,11 +35,15 @@ const download = (uri: string, symbol: string) => {
     console.log("content-length:", res.headers["content-length"]);
 
     const fileFormat = getFormat(contentType);
-    const fileName = `./images/coins/${symbol.toLowerCase()}.${fileFormat}`;
+    const fileName = `./images/coins/${fileFormat}/${symbol.toLowerCase()}.${fileFormat}`;
 
     request(uri)
       .pipe(fs.createWriteStream(fileName))
       .on("close", () => {
+        if (fileFormat === "svg") {
+          const pngFile = `./images/coins/png/${symbol.toLowerCase()}.png`;
+          svgToPNG(fileName, pngFile);
+        }
         console.log(symbol);
       });
   });

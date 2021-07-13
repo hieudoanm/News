@@ -291,7 +291,7 @@ const getCoinRanking = async (gitHubBase: string) => {
         .map((coin: Coin) => {
           const { symbol, name, price, coinrankingUrl } = coin;
           const price2: string = currencyFormatter(parseFloat(price));
-          const imgSrc = `${gitHubBase}/images/coins/${symbol.toLowerCase()}.svg`;
+          const imgSrc = `${gitHubBase}/images/coins/png/${symbol.toLowerCase()}.png`;
           return `<tr>
         <td
           style="
