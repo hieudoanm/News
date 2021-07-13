@@ -25,7 +25,13 @@ const generateHTML = (body: string): string => {
   return `<!DOCTYPE html>
 <html>
   <head>
-    <title>News</title>
+    <title>Café Sáng</title>
+    <meta charset="UTF-8" />
+    <meta name="description" content="News" />
+    <meta name="keywords" content="News,Café Sáng" />
+    <meta name="author" content="Hieu Doan" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="application-name" name="cafe-sang" />
     <style>
       * {
         margin: 0;
