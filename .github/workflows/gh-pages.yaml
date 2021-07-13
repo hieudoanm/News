@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.1
         with:
           token: ${{ secrets.API_KEY_GITHUB_PAGES }}
       - name: Set up Node
@@ -26,7 +26,7 @@ jobs:
         run: yarn install
       - name: Run Jobs
         run: yarn web
-        with:
+        env:
           API_KEY_COIN_RANKING: ${{ secrets.API_KEY_COIN_RANKING }}
           API_KEY_GITHUB: ${{ secrets.API_KEY_GITHUB }}
           API_KEY_NEWS: ${{ secrets.API_KEY_NEWS }}
