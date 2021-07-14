@@ -1,5 +1,7 @@
 import dotenv from "dotenv";
 import nodemailer from "nodemailer";
+import Mail from "nodemailer/lib/mailer";
+import SMTPTransport from "nodemailer/lib/smtp-transport";
 import { generateBody } from "./html";
 
 dotenv.config();
@@ -17,18 +19,19 @@ const main = async () => {
     },
   });
 
+  console.log("transporter");
+
   const [date] = new Date().toISOString().split("T");
-  const subject: string = `Café Sáng ${date}`;
+  const subject: string = `☕ Café Sáng ${date}`;
   const html = await generateBody(false);
 
-  const mailOptions = {
-    from: `Viet Nam <${GMAIL_FROM}>`,
-    to: [GMAIL_TO],
-    subject,
-    html,
-  };
+  const from: string = `Café Sáng <${GMAIL_FROM}>`;
+  const to: Array<string> = [GMAIL_TO];
+  const mailOptions: Mail.Options = { from, to, subject, html };
 
-  const response = await transporter.sendMail(mailOptions);
+  const response: SMTPTransport.SentMessageInfo = await transporter.sendMail(
+    mailOptions
+  );
 
   console.log("response", response);
 

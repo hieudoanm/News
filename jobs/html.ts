@@ -1,5 +1,6 @@
 import dotenv from "dotenv";
 import _ from "lodash";
+import { months } from "../configs";
 import {
   convertSolarToLunar,
   getCanChiOfDate,
@@ -9,6 +10,7 @@ import {
 } from "../libs/calendar";
 import { Coin, getCoins } from "../libs/coin-ranking";
 import { getTrends } from "../libs/google-trends";
+import { getArticles } from "../libs/news";
 import { Article, getSources, getTopHeadlines, Source } from "../libs/news-api";
 import {
   getCurrentWeather,
@@ -39,6 +41,19 @@ export const generateHTML = (body: string): string => {
     </style>
   </head>
   <body>
+    <nav
+      style="
+        background-color: #fff;
+        margin-bottom: 1rem;
+        box-shadow: rgb(36 50 66 / 8%) 0px 2px 12px 0px;
+      "
+    >
+      <div style="margin: 0 auto; max-width: 670px; padding: 1rem">
+        <h1 style="color: black">
+          Café <span style="color: #ea4335">Sáng</span>
+        </h1>
+      </div>
+    </nav>
     ${body}
   </body>
 </html>
@@ -66,7 +81,7 @@ const getGoogleTrends = async () => {
   const year = d.getFullYear();
   const month = d.getMonth() + 1;
   const date = d.getDate();
-  const [solarDate] = d.toISOString().split("T");
+  const solarDate = `${months[month - 1]} ${addZero(date)}, ${year}`;
   const {
     year: lYear,
     month: lMonth,
@@ -77,31 +92,53 @@ const getGoogleTrends = async () => {
   const tietKhi: string = getTietKhi({ date, month, year });
   const data = await getTrends();
   const trends: Array<string> = _.get(data, "vietnam", []).sort();
-  const colors: Array<string> = ["#4285f4", "#ea4335", "#fbbc05", "#34a853"];
   const base: string = "https://google.com/search";
   return `<div
   style="
-    border-radius: 0.25rem;
-    border: 1px solid #e6e6e6;
+    overflow: hidden;
     margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: 1px solid #e6e6e6;
   "
 >
   <div style="padding: 1rem">
-    <div style="text-align: center; margin-bottom: 1rem">
-      <p style="margin-bottom: 0.5rem">${solarDate}</p>
-      <p style="margin-bottom: 0.5rem">${lunarDate}</p>
-      <p style="margin-bottom: 0.5rem">${canChi} (${tietKhi})</p>
-      <h1 style="text-transform: uppercase">Café Sáng</h1>
-    </div>
+    <table style="width: 100%; border-collapse: collapse">
+      <tbody>
+        <tr>
+          <td style="padding: 0 0 0.5rem">${solarDate}</td>
+          <td style="text-align: right">
+            <a href="https://hieudoanm.github.io/news/" target="_blank" style="text-decoration: none">
+              View Online
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding: 0 0 0.5rem">${lunarDate}</td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            ${canChi} (${tietKhi})
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <h1
+      style="
+        text-transform: uppercase;
+        text-align: center;
+        margin: 2rem 0;
+      "
+    >
+      Café Sáng
+    </h1>
     <div>
       ${trends
         .map((trend: string, index: number) => {
-          const color: string = colors[index % 4];
           const url: string = `${base}?q=${encodeURI(trend)}`;
           return `<div
         style="
           display: inline-block;
-          background-color: ${color};
+          background-color: #ea4335;
           padding: 0.25rem;
           border-radius: 0.25rem;
           margin-bottom: 0.25rem;
@@ -117,7 +154,7 @@ const getGoogleTrends = async () => {
             font-size: 0.75rem;
           "
         >
-          ${trend}
+          <b>${trend}</b>
         </a>
       </div>`;
         })
@@ -149,14 +186,20 @@ const getWeather = async (city: string) => {
   const feelsLike: number = Math.round(_.get(weather, "main.feels_like", 0));
   const main: string = _.get(weather, "weather.0.main", "");
   const description = _.get(weather, "weather.0.description", "");
-  const filteredForecast = forecast.filter((_, index: number) => {
-    return index % 4 === 0;
-  });
+  const filteredForecast = forecast
+    .filter((_, index: number) => index % 2 === 0)
+    .slice(0, 5);
+
+  const sevenHours = 1000 * 60 * 60 * 7;
+  const now = Date.now() + sevenHours;
+  const [date, time] = new Date(now).toISOString().split("T");
+  const [hour, minute] = time.split(":");
   return `<div
   style="
-    border-radius: 0.25rem;
-    border: 1px solid #e6e6e6;
+    overflow: hidden;
     margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: 1px solid #e6e6e6;
   "
 >
   <table
@@ -174,8 +217,8 @@ const getWeather = async (city: string) => {
         border-bottom: 1px solid #e6e6e6;
       "
     >
-      <h2>Weather</h2>
-      <p>${name}</p>
+      <h2 style="color: #ea4335; margin: 0 0 0.25rem">Weather</h2>
+      <p style="margin: 0">${name}</p>
     </caption>
     <tbody>
       <tr>
@@ -186,7 +229,8 @@ const getWeather = async (city: string) => {
             width: 33.33%;
           "
         >
-          Now
+          <div><b>${date}</b></div>
+          <div>${hour}:${minute}</div>
         </td>
         <td
           style="
@@ -226,7 +270,7 @@ const getWeather = async (city: string) => {
             width: 33.33%;
           "
         >
-          <div>${date}</div>
+          <div><b>${date}</b></div>
           <div>${hour}:${minute}</div>
         </td>
         <td
@@ -264,9 +308,10 @@ const getCoinRanking = async (gitHubBase: string) => {
   const topCoins = coins.slice(0, 5);
   return `<div
   style="
-    border-radius: 0.25rem;
-    border: 1px solid #e6e6e6;
+    overflow: hidden;
     margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: 1px solid #e6e6e6;
   "
 >
   <table
@@ -284,7 +329,8 @@ const getCoinRanking = async (gitHubBase: string) => {
         border-bottom: 1px solid #e6e6e6;
       "
     >
-      <h2>Coins</h2>
+      <h2 style="color: #ea4335; margin: 0 0 0.25rem">CryptoCurrency</h2>
+      <p style="margin: 0">Top Coins</p>
     </caption>
     <tbody>
       ${topCoins
@@ -329,22 +375,45 @@ const getCoinRanking = async (gitHubBase: string) => {
 </div>`;
 };
 
-const getNews = async (): Promise<string> => {
+const getNews = async (category: string): Promise<string> => {
   const sources = await getSources({});
-  const { message, total, articles } = await getTopHeadlines({
+  const {
+    message,
+    total,
+    articles = [],
+  } = await getTopHeadlines({
+    category,
     country: "us",
     pageSize: 3,
   });
   console.log("total", total, message);
+
   return `<div
   style="
-    border-radius: 0.25rem;
-    border: 1px solid #e6e6e6;
+    overflow: hidden;
     margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: 1px solid #e6e6e6;
   "
 >
-  <div style="padding: 1rem 0; border-bottom: 1px solid #e6e6e6">
-    <h2 style="text-align: center">Top Headlines</h2>
+  <div
+    style="
+      padding: 1rem 0;
+      border-bottom: 1px solid #e6e6e6;
+      text-align: center;
+    "
+  >
+    <h2
+      style="
+        text-align: center;
+        color: #ea4335;
+        margin: 0 0 0.25rem;
+        text-transform: capitalize;
+      "
+    >
+      ${category}
+    </h2>
+    <p style="margin: 0">Top Headlines</p>
   </div>
   ${articles
     .map((article: Article) => {
@@ -377,13 +446,23 @@ const getYouTubeTrending = async () => {
   const videos = await getMostPopularVideos(10, 3);
   return `<div
   style="
-    border-radius: 0.25rem;
-    border: 1px solid #e6e6e6;
+    overflow: hidden;
     margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: 1px solid #e6e6e6;
   "
 >
-  <div style="padding: 1rem 0; border-bottom: 1px solid #e6e6e6">
-    <h2 style="text-align: center">YouTube Trending</h2>
+  <div
+    style="
+      padding: 1rem 0;
+      border-bottom: 1px solid #e6e6e6;
+      text-align: center;
+    "
+  >
+    <h2 style="text-align: center; color: #ea4335; margin: 0 0 0.25rem">
+      YouTube
+    </h2>
+    <p style="margin: 0">Music Trending</p>
   </div>
   ${videos
     .map((video: Video) => {
@@ -428,34 +507,35 @@ const getTarot = async (gitHubBase: string) => {
 
   return `<div
   style="
-    border-radius: 0.25rem;
-    border: 1px solid #e6e6e6;
+    overflow: hidden;
     margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: 1px solid #e6e6e6;
   "
 >
   <div style="padding: 1rem">
-    <h2 style="text-align: center; margin-bottom: 1rem">
-      Tarot of the Day
+    <h2 style="text-align: center; margin: 1rem 0; color: #ea4335">
+      Daily Tarot
     </h2>
-    <table>
-      <tbody>
-        <tr>
-          ${items
-            .map((item) => {
-              const { name, imgSrc } = item;
-              return `<td style="width: 33.33%">
-            <img
-              src="${imgSrc}"
-              alt="${name}"
-              style="width: 100%; border-radius: 0.25rem"
-            />
-          </td>`;
-            })
-            .join("\n")}
-        </tr>
-      </tbody>
-    </table>
   </div>
+  <table style="width: 100%; margin-bottom: 1rem">
+    <tbody>
+      <tr>
+        ${items
+          .map((item) => {
+            const { name, imgSrc } = item;
+            return `<td style="width: 33.33%; padding: 0 1rem">
+            <img
+            src="${imgSrc}"
+            alt="${name}"
+            style="width: 100%; border-radius: 0.25rem"
+          />
+        </td>`;
+          })
+          .join("\n")}
+      </tr>
+    </tbody>
+  </table>
 </div>`;
 };
 
@@ -464,19 +544,23 @@ export const generateBody = async (local: boolean): Promise<string> => {
     ? ".."
     : "https://raw.githubusercontent.com/hieudoanm/news/master";
   const googleTrends = await getGoogleTrends();
+  console.log("Google Trends");
   const weather = await getWeather("ho chi minh city");
+  console.log("Weather");
   const coinRanking = await getCoinRanking(gitHubBase);
-  const news = await getNews();
+  console.log("Coin Ranking");
+  const businessNews = await getNews("business");
+  console.log("Business News");
   const youTubeTrending = await getYouTubeTrending();
+  console.log("YouTube Trending");
   const tarot = await getTarot(gitHubBase);
-  return `<div style="margin: 0 auto; max-width: 600px">
-  <div style="padding: 1rem">
+  console.log("Tarot");
+  return `<div style="margin: 0 auto; max-width: 670px">
 ${googleTrends}
 ${weather}
 ${coinRanking}
-${news}
+${businessNews}
 ${youTubeTrending}
 ${tarot}
-  </div>
 </div>`;
 };

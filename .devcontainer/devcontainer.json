@@ -19,7 +19,12 @@
 	"esbenp.prettier-vscode",
 	"mechatroner.rainbow-csv",
 	"janisdd.vscode-edit-csv",
-	"formulahendry.code-runner"
+	"formulahendry.code-runner",
+	"devzstudio.emoji-snippets",
+	"idleberg.emoji-code",
+	"tht13.html-preview-vscode",
+	"jock.svg",
+	"cssho.vscode-svgviewer"
 ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
