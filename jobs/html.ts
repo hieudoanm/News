@@ -10,8 +10,8 @@ import {
 } from "../libs/calendar";
 import { Coin, getCoins } from "../libs/coin-ranking";
 import { getTrends } from "../libs/google-trends";
-import { getArticles } from "../libs/news";
-import { Article, getSources, getTopHeadlines, Source } from "../libs/news-api";
+import { Category, getArticles } from "../libs/news";
+import { getSources, getTopHeadlines } from "../libs/news-api";
 import {
   getCurrentWeather,
   getWeatherForecast,
@@ -375,18 +375,41 @@ const getCoinRanking = async (gitHubBase: string) => {
 </div>`;
 };
 
-const getNews = async (category: string): Promise<string> => {
+const getWorldNews = async (category: string) => {
   const sources = await getSources({});
   const {
     message,
     total,
     articles = [],
-  } = await getTopHeadlines({
-    category,
-    country: "us",
-    pageSize: 3,
-  });
+  } = await getTopHeadlines({ category, country: "us", pageSize: 3 });
   console.log("total", total, message);
+  return articles.map((article) => {
+    const { title, source, description, url, urlToImage = "" } = article;
+    const { id, name } = source;
+    const { url: sourceUrl = "#" } = sources.find((s) => s.id === id) || {};
+    return {
+      title,
+      description,
+      url,
+      urlToImage,
+      source: { id, name, url: sourceUrl },
+    };
+  });
+};
+
+const getLocalNews = async (category: Category) => {
+  const { total, articles = [] } = await getArticles({
+    category,
+    pageSize: 50,
+  });
+  console.log("total", total);
+  return articles.filter((article) => article.urlToImage).slice(0, 3);
+};
+
+const getNews = async (category: Category): Promise<string> => {
+  const worldArticles = await getWorldNews(category);
+  const localArticles = await getLocalNews(category);
+  const articles = worldArticles.length === 0 ? localArticles : worldArticles;
 
   return `<div
   style="
@@ -416,11 +439,9 @@ const getNews = async (category: string): Promise<string> => {
     <p style="margin: 0">Top Headlines</p>
   </div>
   ${articles
-    .map((article: Article) => {
-      const { title, source, description, url, urlToImage } = article;
-      const { id, name } = source;
-      const { url: sourceUrl = "#" } =
-        sources.find((s: Source) => s.id === id) || {};
+    .map((article) => {
+      const { title, source, description, url, urlToImage = "" } = article;
+      const { name, url: sourceUrl = "" } = source;
       return `<div style="padding: 1rem; border-bottom: 1px solid #e6e6e6">
     <img
       src="${urlToImage}"

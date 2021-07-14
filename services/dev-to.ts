@@ -4,6 +4,8 @@ import { getArticles } from "../libs/dev-to";
 export const saveDevTo = async () => {
   const articles = await getArticles();
 
+  console.log("dev.to", articles);
+
   const markdown = `# dev.to
   
 ${articles

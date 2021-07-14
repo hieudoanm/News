@@ -1,0 +1,113 @@
+{
+  "total": 12,
+  "sources": [
+    {
+      "id": "cafebiz",
+      "name": "CafeBiz",
+      "url": "https://cafebiz.vn/",
+      "description": "Phân tích, bình luận chuyên sâu về môi trường kinh doanh. Các câu chuyện thú vị về các doanh nhân Việt Nam và thế giới.",
+      "category": "business",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "cafef",
+      "name": "CafeF",
+      "description": "Kênh tin tức kinh tế, tài chính, thông tin chứng khoán của Việt Nam mới nhất được cập nhật liên tục, chính xác và đầy đủ,chuyên sâu.",
+      "url": "https://cafef.vn",
+      "category": "business",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "laodong",
+      "name": "Lao Động",
+      "description": "Báo LAO ĐỘNG điện tử - LAODONG.VN cung cấp tin tức 24h thời sự, chính trị, kinh tế, văn hóa, xã hội, công đoàn, người lao động nhanh nhất và tin cậy nhất",
+      "url": "https://laodong.vn/",
+      "category": "general",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "nhandan",
+      "name": "Nhân Dân",
+      "description": "Nhan Dan Online brings you the latest news from Vietnam, find breaking news, opinion on Vietnam's politics, business, society, culture, sports, travel and technology.",
+      "url": "https://en.nhandan.vn/",
+      "category": "general",
+      "language": "en",
+      "country": "vn"
+    },
+    {
+      "id": "soha",
+      "name": "Soha",
+      "description": "Cập nhật tin tức sự kiện nóng, tin nhanh báo chí mới nhất VN & thế giới: Thời sự, Quân sự, Sức khỏe, Quốc tế, Thể thao, Giải trí, Kinh doanh, Cư dân mạng, khám phá, đời sô...",
+      "url": "https://soha.vn/",
+      "category": "general",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "thanhnien",
+      "name": "Thanh Niên",
+      "description": "Tin tức 24h, đọc báo TN cập nhật tin nóng online Việt Nam và thế giới mới nhất trong ngày, tin nhanh thời sự, chính trị, xã hội hôm nay, tin tức chính thống VN",
+      "url": "https://thanhnien.vn",
+      "category": "general",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "tinhte",
+      "name": "Tinh Tế",
+      "description": "Cộng đồng công nghệ, thủ thuật, tư vấn về điện thoại, máy tính, camera, đồ điện gia dụng và âm thanh, khoa học kĩ thuật. Nơi giải đáp thắc mắc, hỏi đáp công nghệ.",
+      "url": "https://tinhte.vn",
+      "category": "technology",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "tuoitre",
+      "name": "Tuổi Trẻ",
+      "description": "Tin tức nhanh - mới - nóng nhất đang diễn ra về: kinh tế, chính trị, xã hội, thế giới, giáo dục, thể thao, văn hóa, giải trí, công nghệ.",
+      "url": "https://tuoitre.vn/",
+      "category": "general",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "vietnambiz",
+      "name": "VietnamBiz",
+      "description": "Thông tin thị trường tài chính, chứng khoán, doanh nghiệp, ngân hàng, vĩ mô, nhà đất, giá cả hàng hóa nguyên liệu, nông - lâm - thủy sản",
+      "url": "https://vietnambiz.vn/",
+      "category": "business",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "vietnamnet",
+      "name": "VietNamNet",
+      "description": "Đọc báo điện tử VietNamNet, cập nhật tin nhanh Việt Nam và thế giới. Sự kiện, tin báo mới trong ngày, kinh tế, xã hội, pháp luật 24h qua.",
+      "url": "https://vietnamnet.vn",
+      "category": "general",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "vnexpress",
+      "name": "VnExpress",
+      "description": "VnExpress tin tức mới nhất - Thông tin nhanh & chính xác được cập nhật hàng giờ. Đọc báo tin tức online Việt Nam & Thế giới nóng nhất trong ngày về thể thao, thời sự, pháp luật, kinh doanh,...",
+      "url": "https://vnexpress.net",
+      "category": "general",
+      "language": "vi",
+      "country": "vn"
+    },
+    {
+      "id": "vtv",
+      "name": "VTV",
+      "description": "Mời độc giả đón đọc tin tức thời sự về chính trị, kinh tế, đời sống, xã hội, pháp luật, thể thao, văn hoá, giải trí... Xem truyền hình trực tuyến, TV Online các kênh VTV trên Internet.",
+      "url": "https://vtv.vn",
+      "category": "general",
+      "language": "vi",
+      "country": "vn"
+    }
+  ]
+}

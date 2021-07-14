@@ -1,12 +1,16 @@
-import cheerio, { Cheerio } from "cheerio";
+import cheerio from "cheerio";
 import { fetchText } from "../../fetch";
-import { Article } from "../utils";
+import { Article, Source, sources } from "../sources";
 
-export const source = "CafeF";
+const getArticles = async (category: string): Promise<Array<Article>> => {
+  const id = "cafef";
+  const sourceIndex: number = sources.findIndex((s: Source) => s.id === id);
+  const source: Source | undefined = sources[sourceIndex];
+  if (!source) return [];
 
-export const sourceUrl = "https://cafef.vn";
+  const { category: mainCategory } = source;
+  if (category !== mainCategory) return [];
 
-export const getArticles = async (): Promise<Array<Article>> => {
   const pageUrl = "https://cafef.vn/doc-nhanh.chn";
   const body: string = await fetchText(pageUrl);
   const $ = cheerio.load(body);
@@ -18,7 +22,7 @@ export const getArticles = async (): Promise<Array<Article>> => {
   const month = d.getMonth();
   const date = d.getDate();
   const seconds = 0;
-  const articles = $listItems.map(($item: Cheerio<any>) => {
+  const articles = $listItems.map(($item: any) => {
     const title: string = $item.find("a").attr("title") || "";
     const slug: string = $item.find("a").attr("href") || "";
     const time: string = $item.find(".time").text() || "00:00";
@@ -27,25 +31,19 @@ export const getArticles = async (): Promise<Array<Article>> => {
     const minutes: number = parseInt(mm, 10);
     const dateTime = new Date(year, month, date, hours, minutes, seconds, 0);
     dateTime.setHours(hours + 7);
-    const timestamp = dateTime.getTime();
-    const publishedDate = dateTime.toISOString();
+    const publishedAt = dateTime.toISOString();
     const url = `https://cafef.vn/${slug}`;
-    const [description] = publishedDate.split("T").join(" ").split(".");
     return {
       title,
       url,
-      description,
+      description: "",
+      content: "",
+      urlToImage: "",
       source,
-      sourceUrl,
-      year,
-      month,
-      date,
-      hours,
-      minutes,
-      seconds,
-      timestamp,
-      publishedDate,
+      publishedAt,
     };
   });
   return articles;
 };
+
+export default getArticles;

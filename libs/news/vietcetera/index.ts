@@ -1,9 +1,5 @@
 import { fetchJSON } from "../../fetch";
-import { Article } from "../utils";
-
-export const source = "Vietcetera";
-
-export const sourceUrl = "https://vietcetera.com";
+import { Article, Source, sources } from "../sources";
 
 export const categories: Array<string> = [
   "kinh-doanh",
@@ -22,10 +18,17 @@ type Doc = {
 };
 
 export const getArticles = async (
-  topic = "kinh-doanh"
+  category = "kinh-doanh"
 ): Promise<Array<Article>> => {
-  const apiUrl = `https://api.vietcetera.com/client/api/v2/latest-article?language=VN&groupTopic=${topic}`;
+  const id = "vietcetera";
+  const source: Source = sources.find((source: Source) => source.id === id);
+  if (!source) return [];
 
+  const { category: mainCatory = "", categories } = source;
+  const topic: string = categories[category] || categories[mainCatory] || "";
+  if (!topic) return [];
+
+  const apiUrl = `https://api.vietcetera.com/client/api/v2/latest-article?language=VN&groupTopic=${topic}`;
   const response = await fetchJSON(apiUrl);
   const { data = {} } = response;
   const { docs = [] } = data;
@@ -35,43 +38,10 @@ export const getArticles = async (
       slug,
       language,
       excerpt: description,
-      publishDate: publishedDate,
+      publishDate: publishedAt,
     } = doc;
     const url = `https://vietcetera.com/${language.toLowerCase()}/${slug}`;
-    const [publishedTime] = publishedDate.split(".");
-    const [date, time] = publishedTime.split("T");
-    const [yyyy, mm, dd] = date.split("-");
-    const [hh, mn, ss] = time.split(":");
-    const year: number = parseInt(yyyy, 10);
-    const month: number = parseInt(mm, 10);
-    const date2: number = parseInt(dd, 10);
-    const hours: number = parseInt(hh, 10);
-    const minutes: number = parseInt(mn, 10);
-    const seconds: number = parseInt(ss, 10);
-    const timestamp = new Date(
-      year,
-      month - 1,
-      date2,
-      hours,
-      minutes,
-      seconds,
-      0
-    );
-    return {
-      title,
-      url,
-      description,
-      source,
-      sourceUrl,
-      publishedDate,
-      year,
-      month,
-      date: date2,
-      hours,
-      minutes,
-      seconds,
-      timestamp,
-    };
+    return { title, url, description, source, publishedAt };
   });
   return articles;
 };

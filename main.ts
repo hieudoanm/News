@@ -3,7 +3,7 @@ import { saveCountries } from "./services/countries";
 import { saveCoins } from "./services/crypto-currency";
 import { saveDevTo } from "./services/dev-to";
 import { saveLanguages, saveTopRepositories } from "./services/github";
-import { saveArticles } from "./services/local";
+import { saveArticles, saveLocalSources } from "./services/local";
 import { saveCards } from "./services/tarot";
 import { saveTrends } from "./services/trends";
 import { saveCommittees, saveMembers } from "./services/usa";
@@ -22,6 +22,7 @@ const main = async () => {
   await saveTrends();
   await saveWeather();
   await saveDevTo();
+  await saveLocalSources();
   await saveArticles();
   await saveSources();
   await saveTopHeadlines();
